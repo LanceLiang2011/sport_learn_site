@@ -1,0 +1,9 @@
+import fs from 'node:fs';import path from 'node:path';
+const root=path.resolve(process.argv[2]||'site/out');const html=[];
+function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const f=path.join(dir,e.name);if(e.isDirectory())walk(f);else if(e.name.endsWith('.html'))html.push(f);}}
+if(!fs.existsSync(root)){console.error(`Static output not found: ${root}`);process.exit(1);}walk(root);
+const cache=new Map(),errors=[];let links=0;if(!html.length)errors.push('No static HTML pages found.');
+const decode=s=>s.replace(/&amp;/g,'&').replace(/&#x27;/g,"'").replace(/&quot;/g,'"');
+function content(file){if(!cache.has(file))cache.set(file,fs.readFileSync(file,'utf8'));return cache.get(file);}
+for(const f of html){const source=content(f);const relative=path.relative(root,f).replaceAll(path.sep,'/');const page='/'+relative.replace(/index\.html$/,'');for(const m of source.matchAll(/<(?:a|link)\b[^>]*?\bhref="([^"]*)"|<(?:script|img)\b[^>]*?\bsrc="([^"]*)"/g)){const target=decode(m[1]??m[2]);if(!target||/^(?:https?:|mailto:|tel:|data:|blob:)/.test(target))continue;if(/^[a-zA-Z][a-zA-Z\d+.-]*:/.test(target)){errors.push(`${relative}: unsupported URL scheme ${target}`);continue;}links++;const url=new URL(target,'https://static.test'+page);let resolved=path.join(root,decodeURIComponent(url.pathname));if(fs.existsSync(resolved)&&fs.statSync(resolved).isDirectory())resolved=path.join(resolved,'index.html');if(!fs.existsSync(resolved)){errors.push(`${relative}: missing ${url.pathname}`);continue;}if(url.hash&&resolved.endsWith('.html')){const id=decodeURIComponent(url.hash.slice(1));const ids=[...content(resolved).matchAll(/\bid="([^"]*)"/g)].map(x=>decode(x[1]));if(id&&!ids.includes(id))errors.push(`${relative}: missing anchor ${url.pathname}#${id}`);}}}
+if(errors.length){console.error(errors.join('\n'));process.exitCode=1;}else console.log(`Static-link check passed: ${html.length} pages, ${links} local links/assets and their anchors.`);

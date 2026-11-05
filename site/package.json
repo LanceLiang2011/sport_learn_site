@@ -1,0 +1,26 @@
+{
+  "name": "strength-study",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "node --import tsx ../scripts/validate-content.ts && node --import tsx ../scripts/build-search.ts && next build",
+    "typecheck": "tsc --noEmit",
+    "validate": "node --import tsx ../scripts/validate-content.ts",
+    "test": "node --import tsx ../scripts/test-domain.ts && node --import tsx ../scripts/test-localization-state.ts"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.20.0"
+  }
+}

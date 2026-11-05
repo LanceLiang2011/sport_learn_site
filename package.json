@@ -1,0 +1,13 @@
+{
+  "name":"strength-study-library",
+  "version":"1.0.0",
+  "private":true,
+  "workspaces":["site"],
+  "scripts":{
+    "dev":"npm --workspace site run dev",
+    "build":"npm --workspace site run build && node scripts/copy-output.mjs",
+    "typecheck":"npm --workspace site run typecheck",
+    "test":"npm --workspace site run test",
+    "validate":"npm --workspace site run validate"
+  }
+}

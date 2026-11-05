@@ -1,0 +1,2731 @@
+{
+  "id": "hypertrophy",
+  "language": "zh-CN",
+  "authors": [
+    "Mike Israetel",
+    "James Hoffmann",
+    "Melissa Davis",
+    "Jared Feather"
+  ],
+  "source": {
+    "title": "Scientific Principles of Hypertrophy Training",
+    "authors": [
+      "Mike Israetel",
+      "James Hoffmann",
+      "Melissa Davis",
+      "Jared Feather"
+    ],
+    "edition": "EPUB publication metadata: 2021-02-12",
+    "format": "EPUB",
+    "attribution": "基于 Scientific Principles of Hypertrophy Training 独立撰写的教育综合课程。原书为英语；引用使用EPUB小节定位，不冒称印刷页码。未确认原书公开复制许可。"
+  },
+  "title": "肌肉增长的科学",
+  "subtitle": "从训练原则到实践的八章课程",
+  "description": "系统学习 Israetel、Hoffmann、Davis 与 Feather 的增肌训练框架：选择专项目标所需的刺激，在恢复能力内渐进超负荷，安排不同时间尺度的训练，并根据个人反应调整计划。原创讲解明确区分作者建议、已测量的关系与尚不确定的模型。",
+  "chapters": [
+    {
+      "id": "specificity",
+      "title": "专项性",
+      "objectives": [
+        "解释定向适应与训练方式相容性",
+        "将需求分析转化为训练优先级",
+        "区分肌肥大与最大力量目标"
+      ],
+      "lessons": [
+        {
+          "id": "specific-goals",
+          "title": "训练究竟要达成什么？",
+          "summary": "先明确需要的适应，再解释计划中每项安排的作用。",
+          "sections": [
+            {
+              "id": "specific-goals-directed",
+              "title": "定向适应",
+              "markdown": "[专项性](term:specificity)要求训练直接产生目标适应，或先改善日后实现目标所需的条件。反复接触足够一致的刺激，有利于技术与组织适应积累。频繁更换主要动作或次数区间可能打断这一过程。作者讨论了从准备性肥大到肌原纤维肥大的可能顺序；这属于作者提出的机制，不能当作个人可精确计时的生理进程。\n\n轻重量深蹲练习即使不足以直接刺激增长，也可能通过改进技术支持未来增肌。这不等于所有艰苦活动都能增长你想练的肌肉。记录训练时，应标明每项活动用于直接增长、支持增长，还是服务其他目标。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Directed adaptation in hypertrophy training"
+            },
+            {
+              "id": "specific-goals-strength",
+              "title": "围度与力量相关，但目标不同",
+              "markdown": "更大的肌肉可以支持更高的力输出，但最大举重表现还取决于技术、神经协调与重负荷熟悉度。大重量单次可能提高力量的表达，却未必以合理疲劳成本提供足够的增肌训练。作者因此反对把单次最大重量纪录作为增肌阶段的首要目标。\n\n另一方面，在动作技术一致的前提下，多个中周期中重复次数表现的提高，可作为增长的间接线索，但不是证明：动作学习或缩短活动范围也能改善成绩。应比较可比的记录，并在合适时间尺度上结合围度、照片和恢复情况判断。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Conflating hypertrophy and strength training"
+            }
+          ],
+          "recap": [
+            "根据训练与目标适应的关系说明其作用。",
+            "稳定刺激支持学习和适应；力量纪录并非肌肉的直接测量。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "compatibility",
+          "title": "其他活动与机会成本",
+          "summary": "从组织重叠、刺激类型、能量消耗与疲劳评价干扰。",
+          "sections": [
+            {
+              "id": "compatibility-overlap",
+              "title": "相容性的四个问题",
+              "markdown": "增加一项活动前，先问：是否使用相同组织？是否要求这些组织产生不同方向的适应？是否消耗大量能量？是否造成明显损伤与疲劳？对单一增肌目标而言，组织重叠越多、刺激方向越冲突，干扰通常越大。长跑与股四头肌增长的资源竞争，比短时轻松休闲活动与手臂增长更直接。\n\n原书把耐力和格斗运动列为较不利于最大化增肌的活动，把技术型运动和低冲击爱好列为较相容的活动。这是相对于特定目标的排序，不是对健康价值或乐趣的评价。可以同时追求多个目标，但应承认权衡，而非期待全部同时达到极限。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Training modality compatibility in hypertrophy training"
+            },
+            {
+              "id": "compatibility-allocation",
+              "title": "把权衡写清楚",
+              "markdown": "画出一周的肌肉负荷、艰苦训练与真正休息日。即使不计为抗阻训练组，运动专项练习仍可能给相同关节和辅助肌群施加负荷。能量消耗也会影响饮食能否支持增长，甚至使计划中的热量盈余变成维持。\n\n**应用示例：** 训练者既想增加腿围，又要准备长距离比赛。彻底取消跑步会违背比赛目标。应先确定当前训练块中哪个目标优先，再降低另一个目标的预期或训练需求。这是对原书相容性框架的原创应用，并非能够量化干扰的公式。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Assessing the compatibility of an activity with hypertrophy"
+            }
+          ],
+          "recap": [
+            "其他训练会占用时间、能量与恢复资源。",
+            "相容性必须相对于明确的优先目标评价。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "needs-analysis",
+          "title": "建立需求分析",
+          "summary": "把个人偏好与形体需求转化为明确优先级。",
+          "sections": [
+            {
+              "id": "needs-analysis-priorities",
+              "title": "需求、优势与短板",
+              "markdown": "首先描述希望达到的结果。形体比赛标准与爱好者的个人偏好不必相同。随后将现有优势与短板同目标比较，并排列肌群优先级。若某个落后肌群总是被安排在训练末尾，计划可能并未体现声称的重点。\n\n把更充沛的精力和时间分配给优先肌群，同时保留其他部位所需训练。初学者通常仍能有效训练全身，高级训练者才可能需要专项强化。不能仅因新手不喜欢某一部位，就照搬高级专项计划。关键是判断什么限制了有效进步，而不是哪种安排看起来最专业。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Needs analysis in physique training"
+            },
+            {
+              "id": "needs-analysis-tools",
+              "title": "复合动作、孤立动作与营养",
+              "markdown": "复合动作能高效刺激多个肌群；当辅助肌或全身疲劳限制复合动作时，孤立动作可补充局部训练。两者都不是普遍优越的选择。动作选择过窄，可能遗漏不同区域或生物力学作用，并集中重复应力；孤立动作过多，又可能浪费时间和整体刺激机会。\n\n饮食应支持训练目标。原书讨论的蛋白质背景建议约为每天每磅体重 **1 g**，即约 **2.2 g/kg/天**，并强调增长所需能量。这是作者的一般营养讨论，不是个人饮食处方。增肌、维持与减脂阶段的恢复条件不同，后续章节将进一步分析。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, The Critical Role of Diet in Hypertrophy; Over-Application of Specificity"
+            },
+            {
+              "id": "needs-analysis-allocation-map",
+              "title": "原创优先级分配表",
+              "markdown": "| 需求分析发现 | 对计划的含义 | 日志检查 |\n| --- | --- | --- |\n| 某肌群确实优先 | 分配充沛精力与适当剂量 | 是否总被放到最后？ |\n| 某肌群已足够发达 | 用适当维持重点保留 | 额外训练是否占用恢复？ |\n| 多个目标都重要 | 声明当前训练块优先级 | 承诺结果是否现实？ |\n| 复合动作受辅助肌限制 | 调整技术、动作组合或补充孤立 | 究竟哪个组织终止训练组？ |\n\n此原创决策表整合原书需求分析及应用不足／过度例子，不是自动处方。腘绳肌体现互补作用：腿弯举与髋铰链并不以相同方式训练屈膝与伸髋。推举与飞鸟覆盖的胸肌作用与幅度也并非完全相同。\n\n营养讨论还提出每日4–6次较均匀分布的进食，并较平均分配蛋白质。这是原书用于支持“饮食改变同一计划效果”的具体示例，并非每位学习者都必须遵守的餐次安排。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Needs analysis; The Critical Role of Diet in Hypertrophy; Multiple muscular biomechanical actions and ranges of motion exist"
+            }
+          ],
+          "recap": [
+            "先明确肌群优先级，再选择动作。",
+            "将复合与孤立动作作为互补工具。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-specificity-q1",
+          "objective": "解释定向适应与训练方式相容性",
+          "prompt": "轻技术课没有很强增长刺激，它仍可能符合增肌专项性吗？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "可以，若技术改善支持日后有效负荷。",
+              "explanation": "支持后续目标适应也符合专项性。"
+            },
+            {
+              "id": "b",
+              "text": "不可以，每课必须最大化即时增长。",
+              "explanation": "这忽略准备工作和长期序列。"
+            },
+            {
+              "id": "c",
+              "text": "可以，因为所有艰苦活动都同样专项。",
+              "explanation": "艰苦本身不能决定适应方向。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "专项性包括直接效果，以及有理由支持目标适应的准备。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "specific-goals"
+        },
+        {
+          "id": "hyp-specificity-q2",
+          "objective": "区分肌肥大与最大力量目标",
+          "prompt": "为什么新的1RM纪录不能直接证明肌肉增长？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "只有泵感能证明增长。",
+              "explanation": "泵感是短暂代理，并非组织测量。"
+            },
+            {
+              "id": "b",
+              "text": "技术与神经变化也能改善举重成绩。",
+              "explanation": "表现还有肌肉大小以外的影响因素。"
+            },
+            {
+              "id": "c",
+              "text": "肌肉大小与力输出能力毫无关系。",
+              "explanation": "两者有关，但不是唯一因素。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "力量表现与肌肥大有关，但不是相同结果。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "specific-goals"
+        },
+        {
+          "id": "hyp-specificity-q3",
+          "objective": "解释定向适应与训练方式相容性",
+          "prompt": "哪种额外活动最可能直接干扰最大化下肢增肌？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "短时低需求休闲活动。",
+              "explanation": "在此比较中其资源成本通常较低。"
+            },
+            {
+              "id": "b",
+              "text": "完全非体力性的爱好。",
+              "explanation": "它不直接给相同组织施加负荷。"
+            },
+            {
+              "id": "c",
+              "text": "使用相同组织的大量长跑。",
+              "explanation": "组织重叠、耗能和适应方向不同会增加竞争。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "相容性取决于重叠、刺激类型、能量和疲劳，不只是活动名称。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "compatibility"
+        },
+        {
+          "id": "hyp-specificity-q4",
+          "objective": "将需求分析转化为训练优先级",
+          "prompt": "训练者声称后束优先，却总在精疲力尽时最后练后束，首先应检查什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "时间与动作顺序是否符合声称的优先级。",
+              "explanation": "需求分析应指导实际资源分配。"
+            },
+            {
+              "id": "b",
+              "text": "是否每周更换全部动作。",
+              "explanation": "随机更换不能解决优先级不一致。"
+            },
+            {
+              "id": "c",
+              "text": "是否先做最重单次。",
+              "explanation": "这可能增加疲劳，却未服务目标。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "声称的重点必须影响计划实际结构。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "needs-analysis"
+        },
+        {
+          "id": "hyp-specificity-q5",
+          "objective": "将需求分析转化为训练优先级",
+          "prompt": "哪些陈述符合原书专项性框架？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "有乐趣的第二运动可以值得部分增肌权衡。",
+              "explanation": "个人目标可以合理包含最大围度以外内容。"
+            },
+            {
+              "id": "b",
+              "text": "复合与孤立动作可以互补。",
+              "explanation": "它们解决不同的目标与效率问题。"
+            },
+            {
+              "id": "c",
+              "text": "新手通常需要高级肌群专项强化。",
+              "explanation": "初期通常仍能广泛发展全身。"
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "该框架明确目标权衡，而不是禁止其他目标。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "needs-analysis"
+        },
+        {
+          "id": "hyp-specificity-q6",
+          "objective": "将需求分析转化为训练优先级",
+          "prompt": "选择动作前，需求分析要完成什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "照抄最强运动员的训练。",
+              "explanation": "他人需求不能决定此人的重点。"
+            },
+            {
+              "id": "b",
+              "text": "保证所有肌群同时最大增长。",
+              "explanation": "资源可能受限，尤其是高级训练者。"
+            },
+            {
+              "id": "c",
+              "text": "定义目标结果，并排列相关优势与短板。",
+              "explanation": "这些决定训练需要支持什么。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "需求分析把个人目标与资源分配决策连接起来。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "needs-analysis"
+        }
+      ]
+    },
+    {
+      "id": "overload",
+      "title": "超负荷",
+      "objectives": [
+        "解释肌肥大刺激之间的相互作用",
+        "正确区分负荷、努力程度与训练量",
+        "比较训练方法并规划可持续的进阶"
+      ],
+      "lessons": [
+        {
+          "id": "growth-stimuli",
+          "title": "什么让一组训练有效？",
+          "summary": "机械张力、募集、努力程度与活动范围共同作用。",
+          "sections": [
+            {
+              "id": "growth-stimuli-tension",
+              "title": "张力与运动单位募集",
+              "markdown": "超负荷包含两个要素：当前一课必须足够有挑战，且随着能力适应，挑战需要逐渐提高。这不要求举起超出最大能力的重量。机械张力是核心：运动单位由一个运动神经元及其支配的肌纤维组成；按大小原则，更高力需求通常会募集更大的运动单位。\n\n大重量能直接提出较高募集要求；较轻重量在接近力竭、疲劳增加时也能募集更多单位。最大单次具有高张力，却缺少反复暴露。因此，肌肥大取决于负荷、有效训练量和努力程度的组合，不能只把某一个变量推到最大。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Training Stimulators of Hypertrophy; Tension; Volume"
+            },
+            {
+              "id": "growth-stimuli-signals",
+              "title": "刺激信号与代理指标不是一回事",
+              "markdown": "原书将代谢物积累与细胞肿胀同张力一起视作可能的增长因素，但它们各自独立因果作用仍有不确定性。肌肉控制感、泵感与训练后局部扰动，有助于判断刺激落在哪里，却都不能证明肌肉必然增长。严重酸痛可能消耗恢复资源并影响后续训练。\n\n动作速度与活动范围会改变刺激。受控离心、有效拉伸与适当收缩，有助于覆盖更多运动单位。不要为了声称重量进阶而缩短幅度。原书倾向完整、安全、符合目的的活动范围；若额外幅度破坏技术或引起关节疼痛，就不符合这个标准。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Range of Motion; Metabolite Accumulation; Cell Swelling; Muscle Damage"
+            },
+            {
+              "id": "growth-stimuli-effective-reps",
+              "title": "有效重复：模型而非二元开关",
+              "markdown": "原书把接近力竭的重复称为更有效，因为高阈值单位贡献更大比例的力，但明确指出更早的重复并非无用。只统计末五次、仿佛之前训练毫无效果，会产生误导性等价。两个未力竭的艰苦组与一个力竭组，即使“有效重复”计数类似，也不代表训练相同。\n\n其刺激示意图展示阈值区域、收益递减及最终过量成本；平滑曲线属于概念图，并未提供计算新增肌肉千克数的实测方程。酸痛图也表达相同区别：适量扰动可伴随有效训练，严重损伤则与适应竞争恢复资源。\n\n作者提出的准备性肥大机制包括细胞液与糖原变化、结构蛋白扩展，以及卫星细胞的细胞核贡献，随后才是更充分的收缩结构增长。它用于假设性解释为何突然改变可能损失训练势头，并非经过证明的强制两阶段时刻表。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Figures 2.1, 2.3–2.5; Per-set volume and growth; ch. 1 Directed adaptation"
+            }
+          ],
+          "recap": [
+            "超负荷指足够且逐渐增加的挑战。",
+            "泵感、灼烧感和酸痛是观察线索，并非增长的直接测量。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "effective-ranges",
+          "title": "负荷、努力程度与训练量地标",
+          "summary": "理解有效范围，同时避免把它们当作普遍处方。",
+          "sections": [
+            {
+              "id": "effective-ranges-load-effort",
+              "title": "分别理解负荷与努力程度",
+              "markdown": "绝对负荷是举起的阻力；相对负荷是该动作负荷占1RM的比例。这里用[剩余次数](term:rir)（RIR）表示相对努力程度，即估计还能完成多少次完整且技术合格的重复。同样做10次，可能很轻松，也可能接近力竭，取决于个人能力与重量。\n\n原书讨论了约 **30–85% 1RM** 的宽泛工作范围，前提是训练组足够接近力竭，通常为 **5–0 RIR**。这些是带有假设的来源范围，不是精确分界。极轻重量需要很多次，可能受不适限制；极重重量限制总工作量并增加疲劳成本。平均约2–3 RIR是作者建议，不能据此预测增长。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Relative Effort: Effective Stimulus Range; Tension: Effective Stimulus Range"
+            },
+            {
+              "id": "effective-ranges-landmarks",
+              "title": "四个训练量地标",
+              "markdown": "| 地标 | 原书框架中的含义 |\n| --- | --- |\n| MV | 足以维持现有肌肉的训练量 |\n| MEV | 开始产生明显可测增长的训练量 |\n| [MAV](term:mav) | 当前适应效果最好的训练量区域 |\n| MRV | 恢复能力所能支持持续有效训练的最大训练量 |\n\n这些是个人、肌群与阶段相关的估计。MAV并非永远追逐的固定组数。作者常从接近MEV开始积累，逐步接近MRV，再降低训练。当恢复和表现已经失败时，继续加组不属于有效超负荷。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Minimum Effective and Maximum Recoverable Volumes"
+            },
+            {
+              "id": "effective-ranges-measurement",
+              "title": "有效训练组与总负重",
+              "markdown": "原书比较增肌训练量时，通常统计处于有效负荷与努力范围内的艰苦训练组。总负重为 **组数 × 次数 × 重量**，单位可写为kg；它没有包含位移，并不是机械功。机械功需要力与距离，单位为焦耳。两种指标都不能单独测量肌肉增长。\n\n**示例：** 3 × 10 × 40 kg与5 × 5 × 48 kg的总负重同为1,200 kg，但组数、努力程度与募集条件不同，因此不能证明刺激相同。比较时应保持动作和技术一致，并同时记录RIR与恢复情况。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Volume As it Relates to Tension and ROM; Volume versus Loading"
+            },
+            {
+              "id": "effective-ranges-tempo-range",
+              "title": "节奏与有效幅度：边界和例外",
+              "markdown": "原书区分离心、转换（缓冲）与向心阶段，认为在受控条件下，每阶段约不超过3秒、整次约不超过9秒的范围内，肌肥大结果大体相近；接近力竭时自然变慢的重复可例外。这些是作者对证据的解释，不是严格速度限制。停顿能改善控制或改变负荷要求，但不代表其天然更合成代谢。\n\n有效幅度有三个上部约束：技术崩溃、额外动作把需求转离目标肌，以及疼痛或不适合的关节位置。完整幅度默认规则也有有意例外。顶峰保持划船可以在上段强调肩胛后缩肌；高级者有时可在明确改善目标限制和SFR时采用部分幅度。这些例外不能为加重后的无意缩短开脱。\n\n**原创比较：** 若一周卧推到达一致终点，下周却提前数厘米停止，那么较重负荷就不是等价成绩比较。解释适应前，应先记录技术改变。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Range of Motion: Effective Stimulus Range; Movement Velocity: Effective Stimulus Range; Figure 2.2"
+            }
+          ],
+          "recap": [
+            "负荷、努力程度与训练量描述不同维度。",
+            "地标会随恢复条件和适应而改变。"
+          ],
+          "interactionIds": [
+            "hypertrophy-volume",
+            "hypertrophy-intensity"
+          ]
+        },
+        {
+          "id": "training-methods",
+          "title": "选择训练组结构",
+          "summary": "为普通与进阶组法选择明确的用途。",
+          "sections": [
+            {
+              "id": "training-methods-straight",
+              "title": "常规组与后续降重组",
+              "markdown": "常规组重复同一动作，组间恢复应足以使目标肌再次成为主要限制因素。开始下一组前，要考虑目标肌、辅助肌、整体准备状态与呼吸。如果心肺疲劳先于目标肌终止训练，一味固定短休息反而不利。作者把常规组作为多数计划的基础。\n\n后续降重组在前几组后降低负荷，使后续重复次数仍处于选定区间。它不同于短休息递减组。保持同一动作可减少额外热身并保留可比性；只有当新动作的收益值得其转换成本与不同负荷要求时，才有必要更换。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Straight Sets; Rest Between Straight Sets; Down Sets"
+            },
+            {
+              "id": "training-methods-advanced",
+              "title": "进阶组法及其局限",
+              "markdown": "| 方法 | 用途与局限 |\n| --- | --- |\n| 累积次数组 | 达到总次数目标；周与周之间的表现较难比较 |\n| 非重叠超级组 | 配对无关或拮抗肌以节约时间；全身疲劳仍可能干扰 |\n| 预疲劳超级组 | 同一目标肌先孤立再复合；改变限制因素并增加局部疲劳 |\n| Myoreps短歇组 | 首个艰苦组后做短歇小组；应由目标肌而非呼吸限制 |\n| 递减组 | 在短歇训练组间降重；应记录降幅而非无止境即兴减重 |\n| 血流限制训练 | 可使轻负荷有效；需要适当设备、筛查与专业指导 |\n\n进阶组法是工具，不是必然升级。全身疲劳很大的动作通常不适合极短休息。任何新方法仍须满足可进阶、可恢复和用途明确的条件。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Giant Sets; Supersets; Myoreps; Drop Sets; Occlusion Training"
+            },
+            {
+              "id": "training-methods-method-details",
+              "title": "记录组法细节",
+              "markdown": "原书Myoreps示例先做约0–2 RIR的10–20次起始组，休息几次呼吸后，再做5–10次小组。递减组在类似短歇思路上增加降重。它们强调效率与局部疲劳，适用性取决于目标，而非制造多大不适。预疲劳配对先做孤立，使同一肌肉在后续复合动作中成为限制因素。\n\n原表5.1提出记账启发：普通常规组或后续降重组计1组；累积次数组中的一段、递减组或血流限制组，可按主要目标肌的约2/3个常规组计；Myorep小组也可计约2/3，疲劳反应高时可计1组。非重叠超级组对每个目标各计1组；预疲劳配对粗计2组，作者更细估计约1.5组。这些分数是作者记账约定，不是经过验证的生物转换常数。\n\n若采用此约定，应明确标注，并保持组法、休息、负荷与幅度一致。不要把未标注的分数估计混入普通组数，再假定精确等价。此处有意不把血流限制设备设置教成自主操作流程。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Myoreps; Drop Sets; Pre-Exhaust Supersets; ch. 5 Table 5.1"
+            }
+          ],
+          "recap": [
+            "恢复时间应足以让目标肌接受挑战。",
+            "基于具体收益选择进阶方法，并记录代价。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "progression",
+          "title": "为后续训练保留进阶空间",
+          "summary": "依据实际反应协调组数、次数、负荷与RIR。",
+          "sections": [
+            {
+              "id": "progression-proxies",
+              "title": "谨慎估计刺激",
+              "markdown": "作者把目标肌挑战感、泵感与扰动合并为原始刺激量（RSM）。每项0–3分，总计0–9分。其MEV估计法把约4–6分视作有用的起始线索，但这是一种执教启发法，不是经过验证的肌肥大检测。RSM针对个人与肌群，不适合跨人排名。\n\n应联合多个观察。没有酸痛不能证明没有刺激，泵感很大也不能证明张力足够。比较动作时，要先留出学习时间，并保持组数可比。很高的RSM也可能伴随过量疲劳，下章将讨论这项代价。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Detecting and Comparing Stimuli; Raw Stimulus Magnitude; RP MEV Stimulus Estimator Algorithm"
+            },
+            {
+              "id": "progression-decisions",
+              "title": "按反应进阶，而非凭兴奋加量",
+              "markdown": "从估计的有效剂量附近开始。如果酸痛远早于下次训练消退，且可比表现提高，可以考虑小幅加组。如果刚好及时恢复且达到目标，就维持组数。如果酸痛重叠并伴随表现下降，应调查疲劳，而不是增加训练。表现限制优先于追求酸痛。\n\n通过加重量或加次数，使训练保持选定次数区间与努力轨迹。积累阶段可从较高RIR逐渐走向较低RIR，同时保留后续训练能力。不能因为重量、组数和接近力竭程度都能单独增加，就同时大幅提高三者。累积次数组应结合其他可比常规组监测疲劳；递减组和Myoreps则要记录休息与负荷条件。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, The Progression Component of Overload; RP Set Progression Algorithm"
+            },
+            {
+              "id": "progression-errors",
+              "title": "同时避免不足与过量超负荷",
+              "markdown": "垃圾训练量增加疲劳，却未对目标适应产生有意义贡献：可能缺乏专项性、轻重量时离力竭太远，或已超出单课有效容量。更多训练不自动等于更多有效训练。忽视动作顺序、限制有效幅度，或用舒适度取代实际刺激目标，也会削弱效果。\n\n另一极端是长期过重负荷、强迫次数与超越力竭训练，可能比收益更快地消耗恢复资源。比较训练时必须保持技术一致。若新纪录来自缩短幅度、借力或他人帮助，就不应记作同等条件下的进阶。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Under-Application of Overload; Over-Application of Overload"
+            }
+          ],
+          "recap": [
+            "联合使用刺激与恢复观察。",
+            "保留连续有效训练，而非只把一课推到极限。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-overload-q1",
+          "objective": "解释肌肥大刺激之间的相互作用",
+          "prompt": "什么最能描述渐进超负荷？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "随着能力适应，提高相关挑战。",
+              "explanation": "刺激必须随时间保持有效。"
+            },
+            {
+              "id": "b",
+              "text": "每课都举超过最大能力的重量。",
+              "explanation": "超负荷不等于超最大能力训练。"
+            },
+            {
+              "id": "c",
+              "text": "即使幅度缩短也必须加重量。",
+              "explanation": "执行变化会使比较不可靠。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "进阶服务特定适应，并保留有意义的执行标准。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "growth-stimuli"
+        },
+        {
+          "id": "hyp-overload-q2",
+          "objective": "正确区分负荷、努力程度与训练量",
+          "prompt": "两组都用60 kg，一组5 RIR，另一组1 RIR，哪个变量明确不同？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "千克的定义。",
+              "explanation": "单位不会随努力程度改变。"
+            },
+            {
+              "id": "b",
+              "text": "相对努力程度。",
+              "explanation": "RIR描述距离力竭的程度。"
+            },
+            {
+              "id": "c",
+              "text": "绝对负荷。",
+              "explanation": "外部重量相同。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "负荷与努力程度是不同维度。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "effective-ranges"
+        },
+        {
+          "id": "hyp-overload-q3",
+          "objective": "正确区分负荷、努力程度与训练量",
+          "prompt": "相同总负重可以支持哪个推论？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "肌肉增长必然相同。",
+              "explanation": "努力、幅度、募集与恢复可能不同。"
+            },
+            {
+              "id": "b",
+              "text": "以焦耳计的机械功相同。",
+              "explanation": "总负重未包含力与位移细节。"
+            },
+            {
+              "id": "c",
+              "text": "次数与外部重量乘积的总和相同。",
+              "explanation": "这就是总负重所记录的内容。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "总负重是记录指标，不能等同增长或机械功。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "effective-ranges"
+        },
+        {
+          "id": "hyp-overload-q4",
+          "objective": "比较训练方法并规划可持续的进阶",
+          "prompt": "短歇深蹲中，目标肌尚未受足够挑战，呼吸就终止每组，关键问题是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "限制因素不符合目标肌刺激。",
+              "explanation": "延长休息或调整方法可能恢复局部限制。"
+            },
+            {
+              "id": "b",
+              "text": "休息越短必然增长越多。",
+              "explanation": "心肺限制会削弱相关刺激。"
+            },
+            {
+              "id": "c",
+              "text": "泵感保证同等超负荷。",
+              "explanation": "泵感不能证明目标负荷足够。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "只有按预期挑战目标时，方法才有用。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "training-methods"
+        },
+        {
+          "id": "hyp-overload-q5",
+          "objective": "比较训练方法并规划可持续的进阶",
+          "prompt": "酸痛延续到下次训练，可比表现也下降，哪些决策符合原书？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "考虑降低训练负担以促进恢复，而非继续进阶。",
+              "explanation": "这些反应可支持疲劳管理。"
+            },
+            {
+              "id": "b",
+              "text": "调查疲劳与恢复需求。",
+              "explanation": "两个信号均提示剂量可能超过当前恢复能力。"
+            },
+            {
+              "id": "c",
+              "text": "自动增加几组以恢复刺激。",
+              "explanation": "更多工作可能加重恢复不足。"
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "进阶算法受恢复与表现约束。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "progression"
+        },
+        {
+          "id": "hyp-overload-q6",
+          "objective": "解释肌肥大刺激之间的相互作用",
+          "prompt": "关于酸痛，哪个陈述最合理？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "更酸总意味着增长更多。",
+              "explanation": "过量损伤可妨碍有效训练。"
+            },
+            {
+              "id": "b",
+              "text": "不酸证明没有适应。",
+              "explanation": "有效训练不一定总造成酸痛。"
+            },
+            {
+              "id": "c",
+              "text": "它可辅助评价刺激，但不证明增长，也不应追求最大。",
+              "explanation": "它是有恢复成本的不完美代理。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "应结合其他观察使用酸痛信息，避免因果夸大。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "growth-stimuli"
+        }
+      ]
+    },
+    {
+      "id": "fatigue",
+      "title": "疲劳管理",
+      "objectives": [
+        "区分局部、全身与轴向疲劳",
+        "评价刺激与疲劳之间的权衡",
+        "根据反馈选择预防和恢复策略"
+      ],
+      "lessons": [
+        {
+          "id": "fatigue-signals",
+          "title": "识别训练的代价",
+          "summary": "疲劳不可完全避免，但不必要或过量疲劳可以管理。",
+          "sections": [
+            {
+              "id": "fatigue-signals-types",
+              "title": "局部、全身与轴向疲劳",
+              "markdown": "局部疲劳影响受训肌肉及相关组织。[全身疲劳](term:fatigue)可能降低未直接训练肌群的准备状态与表现。轴向疲劳来自脊柱支撑结构承重；虽然属于局部问题，却能限制许多后续动作。躯干疲劳可能同时影响划船和深蹲，即使两者主要目标不同。\n\n有用线索包括连续表现下降、持续结缔组织不适、异常高的主观用力感，以及原本未使用肌群的表现下降。仅仅觉得累，不足以判断无法完成超负荷。原书特别重视可比表现，同时也要求结合主观感受解释。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Types of Fatigue; Detecting Fatigue"
+            },
+            {
+              "id": "fatigue-signals-masking",
+              "title": "疲劳会掩盖适应",
+              "markdown": "有效积累阶段可以同时增加适应与疲劳。暂时表现下降不必然意味着肌肉减少；减量后成绩突然提高，也不意味着低训练量造成了更好增长。相较于把清醒的第一周与疲惫的最后一周比较，在相近恢复条件下测试更有意义。\n\n但这不代表可以忽视持续恶化。重复表现下降伴随酸痛重叠或关节不适，是调整计划的理由。目标是保持足以继续高质量训练的恢复能力，而非长期筋疲力尽，也非始终处于完全无疲劳状态。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Fatigue’s Effects on Hypertrophy; Dropping fatigue (and stimulus) to reveal performance"
+            }
+          ],
+          "recap": [
+            "综合使用疲劳指标，尤其关注可比表现。",
+            "能继续有效训练意味着恢复足够，并不要求零疲劳。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "stimulus-fatigue",
+          "title": "评价单位疲劳成本的刺激",
+          "summary": "只有结合代价，高刺激才有实际意义。",
+          "sections": [
+            {
+              "id": "stimulus-fatigue-ratio",
+              "title": "SFR代表什么",
+              "markdown": "[刺激疲劳比](term:sfr)（SFR）的概念为 **肌肥大刺激 ÷ 所产生的疲劳**。原书用挑战感、泵感和肌肉扰动估计刺激，用关节／结缔组织扰动、主观用力和未用肌表现变化估计疲劳。这些评分属于非正式代理，其比值不是实验室增长测量。\n\n胸部支撑划船可能在良好刺激背部的同时，比无支撑划船减少躯干疲劳。但这不意味着某版本普遍更优：身体比例、执行方式与其余训练都会改变比较。在极小剂量下把比值最大化，也不等于总增长最大化；仍需要足够的有效工作。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, The Stimulus to Fatigue Ratio; Determining SFR; Improving the SFR"
+            },
+            {
+              "id": "stimulus-fatigue-technique",
+              "title": "增加刺激并减少无谓外溢",
+              "markdown": "稳定支撑、受控转换、合适幅度与准确目标肌发力，可以在不单纯加重量的情况下改善权衡。避免用惯性把负荷转移离目标，也避免与目标无关的额外轴向负荷。复合与孤立动作都可能具有高或低SFR，取决于个人与情境。\n\n极高训练量或极低RIR造成不成比例的疲劳时，SFR通常变差。因此原书把今日有效训练与第二个问题同时考虑：这个剂量是否会不必要地阻断后续计划进阶？同一个艰苦组，在积累末期可能合理，在提前结束整个进程序列时则不合理。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, SFR and Volume; SFR and RIR; Planning Future Stimuli"
+            }
+          ],
+          "recap": [
+            "SFR是非正式比较，不是生理检测。",
+            "先改进执行与动作适配，再考虑自动加量。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "fatigue-tools",
+          "title": "预防、恢复课与减量",
+          "summary": "让恢复措施的规模匹配疲劳规模。",
+          "sections": [
+            {
+              "id": "fatigue-tools-prevention",
+              "title": "预防可避免的疲劳",
+              "markdown": "在当前训练量地标内训练、使用安全技术，并让微周期具有波动。波动指分配较难与较易训练、轮换肌群优先级，以及管理躯干或辅助肌重叠负荷，并不要求日程完全对称。休息日能提供全身和心理缓解，把相同训练无限分散到更多天未必能替代它。\n\n原书常主张每周至少一个完整休息日，并在年度内主动安排休息。这些属于作者的编程建议。睡眠与饮食有助恢复，却不能无限抵消超过可恢复能力的工作量。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Fatigue Prevention; Taking Rest Days; Employing Microcycle Pulsatility"
+            },
+            {
+              "id": "fatigue-tools-scale",
+              "title": "选择适当减量规模",
+              "markdown": "| 工具 | 预期用途 |\n| --- | --- |\n| 恢复课 | 当疲劳打乱原本有效的积累时，短暂降低局部训练 |\n| 减量 | 用一个降低训练的微周期处理更广泛的累积疲劳 |\n| 积极休息 | 用较长低压力间歇缓解持续身体或心理负担 |\n\n原书恢复课示例把组数和次数分别减半；减量周后半还可以降低负荷。若6 × 10变成同重量3 × 5，总负重降为四分之一，而非二分之一。重点是明显降低刺激，不是某个神奇精确公式。减量动作可保留原动作、谨慎引入下一周期动作，或选择低疲劳替代。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Taking Recovery Sessions; Taking Deloads; Taking Active Rest Periods"
+            },
+            {
+              "id": "fatigue-tools-judgment",
+              "title": "预先规划并随反应调整",
+              "markdown": "预先安排安全技术、合理剂量与休息日，再根据未预料的恢复需求自我调节。多个肌群反复需要恢复课，可能意味着应做完整减量，而不是不断修补局部问题。保留这些反馈，以改进下一次计划。\n\n不要只因动力不足就降低训练，也不要因为肌肉仍能发力，就忽视持续关节疼痛。原书的疾病和伤病例子属于执教情境，并不提供诊断或医疗许可。发热、明显损伤及持续恶化症状需要适当临床决策，不能把网站练习当作康复治疗。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Employing Pre-Planned and Autoregulated Fatigue Management; Under-Application of Fatigue Management"
+            },
+            {
+              "id": "fatigue-tools-return-plan",
+              "title": "根据反应安排恢复后的训练",
+              "markdown": "如果恢复课是因为过早达到MRV，原书建议先回到起始有效剂量与原上限之间的中间训练量，再按反应进阶。如果只是暂时疾病或已解决的小问题，则建议从原计划适度减少，而非必然重启整个积累。这是不同执教情境，不应互换规则。\n\n积极休息属于更广减量，原书常讨论1–4周；若主要是形体训练的心理疲劳，可能较短；累积运动应激较大时可能较长。短间歇可以不做正式举重，较长时可以保留维持训练。作者还讨论每年至少完整离开训练一周，常接在减量后。这些是来源策略，不要求所有休闲训练者安排相同休息日历。\n\n以表现为主的检查，也应记录症状改善、稳定或恶化。恢复课不是已确立的医疗治疗；原书本身也把伤后回归建立在适当专业意见之上。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Taking Recovery Sessions; Taking Active Rest Periods; Employing Pre-Planned and Autoregulated Fatigue Management"
+            }
+          ],
+          "recap": [
+            "恢复措施在规模与目的上不同。",
+            "疲劳预防与基于反馈的减量相互补充。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-fatigue-q1",
+          "objective": "区分局部、全身与轴向疲劳",
+          "prompt": "艰苦髋铰链训练降低后续原本未用上肢肌的表现，提示什么疲劳模式？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "全身因素，可能同时存在局部与轴向疲劳。",
+              "explanation": "未用肌群变化提示更广影响。"
+            },
+            {
+              "id": "b",
+              "text": "只有上肢目标肌局部疲劳。",
+              "explanation": "最初活动并未直接训练它。"
+            },
+            {
+              "id": "c",
+              "text": "确定证明过度训练综合征。",
+              "explanation": "单次观察不能确立临床综合征。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "疲劳类别可并存，观察不能诊断综合征。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-signals"
+        },
+        {
+          "id": "hyp-fatigue-q2",
+          "objective": "评价刺激与疲劳之间的权衡",
+          "prompt": "某动作提供相似目标刺激，但持续关节不适更少，该比较中什么可能改善？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "不顾技术必须加重的需要。",
+              "explanation": "此比较不能推出这个结论。"
+            },
+            {
+              "id": "b",
+              "text": "刺激与疲劳的权衡。",
+              "explanation": "相同刺激、较低成本在概念上改善比值。"
+            },
+            {
+              "id": "c",
+              "text": "证明增长了某个具体肌肉量。",
+              "explanation": "SFR不是组织测量。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "SFR比较收益与成本，但不直接测量增长。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "stimulus-fatigue"
+        },
+        {
+          "id": "hyp-fatigue-q3",
+          "objective": "根据反馈选择预防和恢复策略",
+          "prompt": "同重量恢复课从6 × 10变成3 × 5，保留原总负重的多少？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "二分之一。",
+              "explanation": "两个因子都减半，不只是一个。"
+            },
+            {
+              "id": "b",
+              "text": "全部。",
+              "explanation": "单次重量未变，但总次数减少。"
+            },
+            {
+              "id": "c",
+              "text": "四分之一。",
+              "explanation": "15次除以60次等于0.25。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "计算说明剂量明显降低，而不是强制恢复公式。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-tools"
+        },
+        {
+          "id": "hyp-fatigue-q4",
+          "objective": "根据反馈选择预防和恢复策略",
+          "prompt": "哪些属于原书的疲劳预防策略？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "在当前训练量地标内训练，并使用受控技术。",
+              "explanation": "这些可减少可避免的累积。"
+            },
+            {
+              "id": "b",
+              "text": "在微周期内轮换艰苦与较易接触。",
+              "explanation": "波动有助于管理重叠需求。"
+            },
+            {
+              "id": "c",
+              "text": "只要次数未降，就忽视持续关节疼痛。",
+              "explanation": "肌肉表现保留不代表组织成本消失。"
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "预防是在疲劳过量前组织剂量与执行。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-tools"
+        },
+        {
+          "id": "hyp-fatigue-q5",
+          "objective": "区分局部、全身与轴向疲劳",
+          "prompt": "训练者减量后立即表现提高，这能说明什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "先前训练没有产生适应。",
+              "explanation": "适应可能被掩盖。"
+            },
+            {
+              "id": "b",
+              "text": "疲劳降低可能让已有适应显现。",
+              "explanation": "表现表达取决于当前疲劳。"
+            },
+            {
+              "id": "c",
+              "text": "低量周一定比积累期增长更多肌肉。",
+              "explanation": "即时表现不能证明这种因果说法。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "不要混淆表现显现与全部基础适应的产生。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-signals"
+        },
+        {
+          "id": "hyp-fatigue-q6",
+          "objective": "根据反馈选择预防和恢复策略",
+          "prompt": "多个肌群反复需要局部恢复课，哪种检查最有用？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "是否每课都应超越力竭。",
+              "explanation": "这可能加重原因。"
+            },
+            {
+              "id": "b",
+              "text": "能否靠动力永久消除疲劳。",
+              "explanation": "动力不能替代恢复。"
+            },
+            {
+              "id": "c",
+              "text": "更广累积疲劳是否需要减量。",
+              "explanation": "反复局部修补可能提示整体计划问题。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "让措施规模匹配疲劳模式。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-tools"
+        }
+      ]
+    },
+    {
+      "id": "sra",
+      "title": "刺激、恢复与适应",
+      "objectives": [
+        "区分恢复时间与增长过程",
+        "解释训练频率的权衡",
+        "依据表现与恢复记录推导训练频率"
+      ],
+      "lessons": [
+        {
+          "id": "sra-curves",
+          "title": "两个时钟：恢复与增长",
+          "summary": "有用的模型不等于精确的生物计时器。",
+          "sections": [
+            {
+              "id": "sra-curves-separate",
+              "title": "不要混淆两个时间进程",
+              "markdown": "一次训练既刺激适应，也产生疲劳。[刺激—恢复—适应](term:sra)（SRA）框架用于思考何时可以再次有效训练。增长相关过程与表现恢复不是同一条曲线；肌肉可能在仍有疲劳时增长，也可能在感觉恢复时已不再受上次训练持续刺激。\n\n作者描述增长常发生于约1–3天，而有经验者的恢复可能更久。这是来源中的概念范围，不是个人预测。组织类型、动作、剂量、努力程度与训练经历都会改变进程。平滑示意曲线无法找出精确的最佳训练时刻。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, SRA in the Context of Hypertrophy; Figures 4.1–4.4"
+            },
+            {
+              "id": "sra-curves-frequency",
+              "title": "频率用于分配剂量",
+              "markdown": "每周训练量等于各课训练量之和。频率的重要作用之一，是把艰苦组分配到能维持刺激质量的训练课。每周12组集中一课，不自动等于分两天各6组；尤其当长课后半受技术、糖原可用性或全身疲劳限制时更如此。\n\n若随后恢复，积累末期可以计划功能性过度负荷，但这不意味着可以永久恢复不足。必须同时考虑单课与每周限制；某个肌群可恢复周量提高后，仍可能超过全身恢复能力。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Per-week Volumes; Functional Overreaching; How Per Session and Weekly Volume Caps Impact Frequency"
+            }
+          ],
+          "recap": [
+            "恢复与适应具有不同时间进程。",
+            "频率用于分配可恢复且有效的训练。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "frequency-tradeoffs",
+          "title": "为什么两个极端都可能失败",
+          "summary": "更高频率能解决一些问题，也会引入新问题。",
+          "sections": [
+            {
+              "id": "frequency-tradeoffs-low",
+              "title": "频率过低",
+              "markdown": "低频的大型训练课可能造成过量局部损伤、技术下降、肌肉感知减弱与全身疲劳。糖原耗竭和兴奋—收缩耦联限制，还会降低后续组质量。若每课造成不必要的大损伤，或让有潜力的增长时间闲置，仅延长课间时间并不能解决问题。\n\n原书讨论了单课每肌群约3–8组、每周常见2–4次的可能有效区域，同时承认广泛个体例外。这些是有经验训练者的起始思路，并非普遍上下限。研究对象、力竭定义和周量是否相等，都会影响结论解释。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Excessively Low Frequencies; The Current Research on Hypertrophy Frequency"
+            },
+            {
+              "id": "frequency-tradeoffs-high",
+              "title": "频率过高",
+              "markdown": "极少组数的高频训练需要反复热身，也可能失去连续几组对技术熟悉、目标肌感知和代谢物积累的帮助。关节与结缔组织可能比肌肉恢复更慢，所以仅肌肉能耐受的频率，未必能连续维持数月。\n\n极高频还可能把周总量推至全身无法恢复。个人因素包括肌肉大小、力量、纤维分布、结构、性别与具体动作。群体平均差异不能决定个人日程。辅助肌同样需要计算：竖脊肌、肘部或肩部组织可能在名义不同的肌群日中反复受负荷。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Excessively High Frequencies; Intrinsic Variables that Affect Best Frequency Choices; Supporting Muscle Group Overuse"
+            }
+          ],
+          "recap": [
+            "最多休息与最高频率都不自动最优。",
+            "同时记录肌肉、结缔组织与全身恢复。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "derive-frequency",
+          "title": "根据观察推导频率",
+          "summary": "用可重复观察，而非僵硬的肌群日历。",
+          "sections": [
+            {
+              "id": "derive-frequency-algorithm",
+              "title": "建立反馈循环",
+              "markdown": "从接近MEV的合理单课剂量开始。观察酸痛与疲劳何时消退，再比较下一次接触的表现。如果达不到可比基线，应先增加恢复或减少剂量，而不是马上认定该肌天生需要长间隔。起始训练远超MEV，会使所有肌群都看似恢复缓慢。\n\n原书较简单的流程从约每周两次接触开始，在可恢复量内进阶，并在完成中周期后回顾。若总能提前恢复且表现良好，下个中周期可测试每周增加一次。刚好及时恢复可维持频率；酸痛重叠与成绩下降则提示减少频率、降低剂量或调整动作。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Practical Application: Frequency in Program Design"
+            },
+            {
+              "id": "derive-frequency-example",
+              "title": "动作会改变恢复间隔",
+              "markdown": "**原创比较示例：** 训练者做4组腿弯举后恢复很快，却在同样组数的艰苦髋铰链动作后长期扰动。相同组数不代表相同恢复需求。调整动作组合，可能在保留肌群周刺激的同时，不必让每次接触都产生同样损伤。\n\n应记录单课剂量、努力程度、酸痛消退时间、可比表现和关节反应。在下一中周期后重新评价，而不是因某一天异常就更改所有变量。能执行且恢复良好的实际日程，比无法坚持的理论对称安排更有价值。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Frequency-Deriving Algorithm examples; The Quest for the Perfectly Symmetrical Plan"
+            },
+            {
+              "id": "derive-frequency-decision-table",
+              "title": "原创频率决策表",
+              "markdown": "| 反复出现的模式 | 需要调查的问题 | 下次可测试的改变 |\n| --- | --- | --- |\n| 提前恢复且可比表现提高 | 是否还有有效接触空间？ | 适度加频，同时保持剂量可解释 |\n| 刚好恢复且达到稳定目标 | 当前分配是否已经有效？ | 保持频率并检查进阶 |\n| 酸痛重叠且表现下降 | 问题在剂量、动作损伤还是间隔？ | 减少需求或延长恢复 |\n| 肌肉似已准备好，但关节持续不适 | 组织时间进程是否不匹配？ | 检查负荷、方法与低压力阶段 |\n\n此原创表归纳原书反馈逻辑，不假装计算生理最优。原书建议在2–5次连续接触中推导间隔，或用完成的中周期进行较简单方法，而非凭一课下结论。\n\n其频率理论解释涉及肌肉大小与力、纤维相关疲劳特征、结构与拉长负荷、性别平均差异及全身需求。例如，在拉长位置艰苦训练腘绳肌的髋铰链，与三角肌中束训练的恢复代价可能不同。这些例子说明为什么要观察个体反应，不能根据酸痛识别个人纤维组成。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Practical Application: Frequency in Program Design; Intrinsic Variables that Affect Best Frequency Choices"
+            }
+          ],
+          "recap": [
+            "剂量与频率必须一起检验。",
+            "依据重复模式，在中周期之间适度调整。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-sra-q1",
+          "objective": "区分恢复时间与增长过程",
+          "prompt": "为什么不能把增长与恢复当作完全相同的时钟？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "增长过程与表现恢复可能有不同时间进程。",
+              "explanation": "模型把两个过程区分开。"
+            },
+            {
+              "id": "b",
+              "text": "恢复总在48小时整完成。",
+              "explanation": "间隔随剂量、组织与个人改变。"
+            },
+            {
+              "id": "c",
+              "text": "酸痛肌肉不可能有适应发生。",
+              "explanation": "疲劳与适应可以重叠。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "SRA是概念框架，不是个人精确秒表。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "sra-curves"
+        },
+        {
+          "id": "hyp-sra-q2",
+          "objective": "解释训练频率的权衡",
+          "prompt": "每周一次极长肌群课可能低效的原因是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "热身总比正式组刺激更多增长。",
+              "explanation": "这颠倒热身的预期用途。"
+            },
+            {
+              "id": "b",
+              "text": "局部和全身疲劳上升，可能降低后续组质量。",
+              "explanation": "同样周组数不代表课内质量相同。"
+            },
+            {
+              "id": "c",
+              "text": "每周超过一次必然阻止增长。",
+              "explanation": "原书不支持这种限制。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "分配会影响相同名义周量的质量与可恢复性。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "frequency-tradeoffs"
+        },
+        {
+          "id": "hyp-sra-q3",
+          "objective": "解释训练频率的权衡",
+          "prompt": "极高频训练可能增加哪种成本？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "保证没有全身疲劳。",
+              "explanation": "更大周工作量可能超过全身能力。"
+            },
+            {
+              "id": "b",
+              "text": "消除所有个体差异。",
+              "explanation": "差异仍是选择频率的核心。"
+            },
+            {
+              "id": "c",
+              "text": "重复热身时间与结缔组织负荷。",
+              "explanation": "肌肉准备好不保证结缔组织准备好。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "高频有收益也有成本，并非自动最优。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "frequency-tradeoffs"
+        },
+        {
+          "id": "hyp-sra-q4",
+          "objective": "依据表现与恢复记录推导训练频率",
+          "prompt": "训练者起始远超MEV，恢复很久，便认定该肌必须低频训练，混淆因素是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "起始剂量本身延长了恢复。",
+              "explanation": "流程需要测试合理的有效起始剂量。"
+            },
+            {
+              "id": "b",
+              "text": "恢复永远不取决于剂量。",
+              "explanation": "剂量是重要影响因素。"
+            },
+            {
+              "id": "c",
+              "text": "酸痛精确测量肌肉大小。",
+              "explanation": "酸痛不测量肌肉大小。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "频率与剂量必须一起解释。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "derive-frequency"
+        },
+        {
+          "id": "hyp-sra-q5",
+          "objective": "依据表现与恢复记录推导训练频率",
+          "prompt": "哪些观察支持下个中周期测试适度加频？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "酸痛持续重叠并且表现恶化。",
+              "explanation": "这些信号不支持增加需求。"
+            },
+            {
+              "id": "b",
+              "text": "持续提前恢复。",
+              "explanation": "这可能提示还有有效接触空间。"
+            },
+            {
+              "id": "c",
+              "text": "当前各课可比表现良好。",
+              "explanation": "表现支持恢复足够。"
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "应使用重复反应模式，而非某个异常好的单日。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "derive-frequency"
+        },
+        {
+          "id": "hyp-sra-q6",
+          "objective": "解释训练频率的权衡",
+          "prompt": "规划恢复时为什么要计算辅助肌工作？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "每个动作名称保证负荷只作用于独立组织。",
+              "explanation": "复合动作和支撑组织存在重叠。"
+            },
+            {
+              "id": "b",
+              "text": "辅助肌从不疲劳。",
+              "explanation": "其疲劳可限制后续动作。"
+            },
+            {
+              "id": "c",
+              "text": "名称不同的动作可能反复负荷相同组织。",
+              "explanation": "名义肌群日可能隐藏重叠。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "恢复规划应反映实际受负荷组织，而不只是分化日标签。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "frequency-tradeoffs"
+        }
+      ]
+    },
+    {
+      "id": "variation",
+      "title": "变换",
+      "objectives": [
+        "区分定向变换与随机更换",
+        "从刺激、疲劳和时间评价动作",
+        "在保留进阶的同时协调训练变化"
+      ],
+      "lessons": [
+        {
+          "id": "purposeful-variation",
+          "title": "有目的地改变",
+          "summary": "定向变换保留目标，策略性变换选择时机。",
+          "sections": [
+            {
+              "id": "purposeful-variation-resistance",
+              "title": "适应阻力与重复应力",
+              "markdown": "变换是有意识地改变训练，以减轻停滞或集中的重复应力。定向变换使新刺激仍对准目标适应；策略性变换选择适合当前阶段的版本。每周随机更改一切，可能牺牲技术练习、可比成绩数据与适应积累。\n\n原书列出动作选择、动作速度、负荷、训练量、组法与顺序等可调整变量。只有存在明确收益时才改变。若一个动作仍能提供良好刺激、不断进步且关节反应可接受，不必仅因月份变化就更换。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Directed Variation in Hypertrophy; Strategic Variation in Hypertrophy"
+            },
+            {
+              "id": "purposeful-variation-replace",
+              "title": "更换动作前的三个问题",
+              "markdown": "先问：可比表现是否停滞？动作是否不断引起关节或结缔组织问题？目标肌刺激是否变得迟钝？多个负面信号会加强更换理由。即使成绩仍提高，疼痛也可能要求处理；高表现不能消除成本。\n\n不要只因当前动作艰苦，就改为舒服但更不适合的动作。预先规划轮换可减少偏见，而基于反应的调整能更久保留有效动作。新变式也需要学习期，不能把最初肌肉感知较弱直接当作不适合个人的证据。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Exercise Deletion and Replacement"
+            }
+          ],
+          "recap": [
+            "变换应解决明确问题。",
+            "保留有效动作，同时处理停滞与累积组织成本。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "compare-exercises",
+          "title": "比较刺激、疲劳与时间",
+          "summary": "限制资源不同，有用的动作也会不同。",
+          "sections": [
+            {
+              "id": "compare-exercises-indices",
+              "title": "四种比较视角",
+              "markdown": "| 视角 | 要回答的问题 |\n| --- | --- |\n| RSM | 动作看起来提供多少目标肌刺激？ |\n| SFR | 每单位疲劳成本获得多少刺激？ |\n| STR | 每单位训练时间获得多少刺激？ |\n| SFTR | 刺激、疲劳与时间成本综合如何？ |\n\n这些是执教比较视角，不是精确生理单位。时间稀缺时，即使疲劳成本高，高效复合动作或超级组仍可能有价值。强壮的高级训练者若受恢复限制，支撑动作或孤立动作可能更合适。比较应针对同一个人、同一个目标，并保持条件合理相似。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Exercise Variation; Raw Stimulus Magnitude; Stimulus to Time Ratio"
+            },
+            {
+              "id": "compare-exercises-number",
+              "title": "足够变化而不碎片化",
+              "markdown": "原书常建议单课每肌群约 **1–3个动作**，每周约 **2–4个动作**；应将其理解为宽泛的作者指南。动作过多会重复器械准备与热身，使每个动作只剩少量有效组，并过早用尽可用变式。幅度适当完整的动作已经募集目标肌的大部分单位，不必每课覆盖所有想象得到的角度。\n\n例如，每周两课可以共享一个可靠复合动作，再各用一个互补孤立或其他复合动作。记录每个动作覆盖的作用或区域重点。这是原创结构例子，不是普遍模板，也不能保证上述动作数量适合每个人。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Per Session Exercise Number; Figure 5.1"
+            }
+          ],
+          "recap": [
+            "相对于当前限制资源评价动作权衡。",
+            "避免把过多时间花在准备而非有效训练上。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "coordinate-variables",
+          "title": "协调负荷、节奏与顺序",
+          "summary": "变换仍需服务专项性与超负荷。",
+          "sections": [
+            {
+              "id": "coordinate-variables-ranges",
+              "title": "让方法匹配动作",
+              "markdown": "原书把负荷大致组织为5–10、10–20与20–30次区间。不是所有区间都同样适合所有动作。极高次数负重髋铰链可能先受呼吸或躯干耐力限制，极重孤立训练则可能把力转移离目标或刺激关节。不必强迫每课都覆盖所有次数范围。\n\n为了保持可比性，积累期间同一天的动作与次数区间应相对稳定。受控慢离心或停顿可以允许更轻负荷、改进技术或减少非目标负荷，但并非天生优越的增长技巧。原书也讨论离心强化负荷，其收益与额外疲劳、实施需求之间仍有不确定性。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Movement Velocity Variation; Load Variation; Eccentric accentuated loading"
+            },
+            {
+              "id": "coordinate-variables-order",
+              "title": "有逻辑地改变剂量与顺序",
+              "markdown": "训练量变化仍应处于当前地标内。轴向疲劳较高的动作可少做几组，以低疲劳互补动作承担更多组数。可以在不同日期强调不同次数区间，而不必每周更换动作。把优先肌群放在能获得高质量训练的位置，并考虑前面动作是否会疲劳后续动作的关键支撑组织。\n\n引入递减组、Myoreps或超级组，应有省时或使目标肌成为限制因素等明确用途。花哨节奏、持续求新和不合适的负荷—动作配对，可能破坏更重要原则。新手通常更应掌握少数可靠动作，而非采用复杂周轮换。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Volume Variation; Training Modality Variation; Exercise Order Variation; Over-Application of Variation"
+            }
+          ],
+          "recap": [
+            "使用不同次数区间，同时保留可重复进阶。",
+            "新方法必须有值得纳入计划的理由。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-variation-q1",
+          "objective": "区分定向变换与随机更换",
+          "prompt": "哪个例子最能说明策略性变换？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "全身需求上升时，选择较低轴向疲劳变式。",
+              "explanation": "该选择解决当前编程问题。"
+            },
+            {
+              "id": "b",
+              "text": "每课后更换全部动作以避免重复。",
+              "explanation": "这可能破坏定向适应与比较。"
+            },
+            {
+              "id": "c",
+              "text": "仅因网上出现新动作而更改。",
+              "explanation": "新颖本身不是充分理由。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "策略性变换在适当时机采用适当变式。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "purposeful-variation"
+        },
+        {
+          "id": "hyp-variation-q2",
+          "objective": "从刺激、疲劳和时间评价动作",
+          "prompt": "某动作仍进步且刺激良好，但关节不适不断累积，哪个结论最好？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "这证明所有复合动作都不合适。",
+              "explanation": "单个动作反应不能支持这种概括。"
+            },
+            {
+              "id": "b",
+              "text": "即使成绩提高，也应检查技术、负荷与替代可能。",
+              "explanation": "组织成本独立于表现也值得关注。"
+            },
+            {
+              "id": "c",
+              "text": "所有纪录良好，所以完全不变。",
+              "explanation": "表现不能消除累积成本。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "更换决策应结合表现、刺激与组织反应。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "purposeful-variation"
+        },
+        {
+          "id": "hyp-variation-q3",
+          "objective": "从刺激、疲劳和时间评价动作",
+          "prompt": "训练者健身时间极少，但恢复能力充足，哪种视角直接针对主要限制？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "只看最大外部重量。",
+              "explanation": "负荷本身忽略时间限制。"
+            },
+            {
+              "id": "b",
+              "text": "不同动作名称的数量。",
+              "explanation": "变化数量不等于刺激效率。"
+            },
+            {
+              "id": "c",
+              "text": "刺激时间比。",
+              "explanation": "时间效率符合稀缺资源。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "选择匹配限制资源的比较视角。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "compare-exercises"
+        },
+        {
+          "id": "hyp-variation-q4",
+          "objective": "从刺激、疲劳和时间评价动作",
+          "prompt": "一课对同一肌群安排过多动作，为什么可能适得其反？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "反复准备与热身可能挤占有效重复训练。",
+              "explanation": "碎片化会消耗时间与适应连续性。"
+            },
+            {
+              "id": "b",
+              "text": "所有有效幅度都要求每组换动作。",
+              "explanation": "适当动作可覆盖很多目标功能。"
+            },
+            {
+              "id": "c",
+              "text": "更多动作名保证更多区域增长。",
+              "explanation": "动作数量不保证刺激质量。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "足够变化有益，过度碎片化有代价。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "compare-exercises"
+        },
+        {
+          "id": "hyp-variation-q5",
+          "objective": "在保留进阶的同时协调训练变化",
+          "prompt": "哪些选择保留有目的的变换？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "不顾技术与目标使用花哨节奏。",
+              "explanation": "这种变化缺少合理用途。"
+            },
+            {
+              "id": "b",
+              "text": "根据每个动作的限制匹配次数区间。",
+              "explanation": "这有助于保留有效目标刺激。"
+            },
+            {
+              "id": "c",
+              "text": "积累期间保持动作稳定以便比较。",
+              "explanation": "一致性支持追踪进阶。"
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "变换仍必须服从目标与有效超负荷。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "coordinate-variables"
+        },
+        {
+          "id": "hyp-variation-q6",
+          "objective": "在保留进阶的同时协调训练变化",
+          "prompt": "新动作最初肌肉感知弱，但没有异常疼痛，合理解释是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "此人在遗传上一定无法使用该动作。",
+              "explanation": "该结论超出观察证据。"
+            },
+            {
+              "id": "b",
+              "text": "从此可以忽略全部训练原则。",
+              "explanation": "个人反馈细化原则而非取消原则。"
+            },
+            {
+              "id": "c",
+              "text": "技术与感知可能需要学习期。",
+              "explanation": "早期印象不足以完整评价适配性。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "解释陌生动作前应允许适当学习。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "purposeful-variation"
+        }
+      ]
+    },
+    {
+      "id": "phase",
+      "title": "阶段增效",
+      "objectives": [
+        "解释不同时间尺度的阶段增效",
+        "安排积累、减量与维持阶段",
+        "保留适应并为后续训练创造条件"
+      ],
+      "lessons": [
+        {
+          "id": "time-scales",
+          "title": "让今天支持明天",
+          "summary": "阶段增效从单次重复延伸到整个训练生涯。",
+          "sections": [
+            {
+              "id": "time-scales-scales",
+              "title": "不同尺度的增效",
+              "markdown": "阶段增效通过安排训练，使某阶段既在当前有效，也改善后续训练，并防止适应衰退：不应在追求另一个目标时无谓丢失已有收获。小尺度上，热身重复和管理良好的训练组为后续工作做准备；大尺度上，技术阶段可准备更艰苦负荷，维持阶段可为下一轮有效增肌创造条件。\n\n这不意味着每次先前努力都会改善其后一切。深蹲前先做极度疲劳躯干的动作，可能产生相反作用。应考虑下一次接触的目标、残留疲劳，以及哪些原有适应需要维持。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Sub-microcycle Phase Potentiation; Adaptive Decay"
+            },
+            {
+              "id": "time-scales-progress",
+              "title": "为下周保留道路",
+              "markdown": "作者的负荷进阶规则是：只加足以让相同或略低RIR下仍能完成至少可比次数的重量。次数进阶规则与之对应：在保留至少可比负荷和目标努力轨迹的前提下加次数。目的是形成连续有效训练；适当情况下，常以至少四周积累为目标。\n\n器械增量很大，不必强迫提前进入力竭周。可以先在合理区间积累次数，再跨越下一重量档。同重量、相近技术下完成更多次也是进阶。反之，加重过快会减少未来可做组数，缩短增长阶段。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Microcycle-to-Microcycle Potentiation; Hypertrophy Load Progression; Hypertrophy Rep Progression"
+            },
+            {
+              "id": "time-scales-scale-table",
+              "title": "原创时间尺度对应表",
+              "markdown": "| 尺度 | 应保留的准备作用 | 应避免的代价 |\n| --- | --- | --- |\n| 单次之间 | 稳定准备与熟练执行 | 失控的一次破坏下一次 |\n| 动作之间 | 温度、准备状态或有意目标预疲劳 | 优先动作前耗尽辅助肌 |\n| 周与周之间 | 足够超负荷及可行下一步 | 大跳跃使积累提前结束 |\n| 中周期之间 | 有用技术与保留肌肉 | 带着过量疲劳进入下一起点 |\n| 训练块或生涯 | 更强限制能力与有反应性的训练 | 反复重建无谓丢失的收获 |\n\n此表是对原书大小尺度例子的原创综合。有意的目标预疲劳，不同于意外耗尽支撑组织：前者旨在让目标肌限制下一动作，后者则妨碍目标肌获得足够训练。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Sub-microcycle Phase Potentiation; Microcycle-to-Microcycle Potentiation; Macrocycle-to-Macrocycle Potentiation"
+            }
+          ],
+          "recap": [
+            "用当前和后续效果共同评价一个阶段。",
+            "增加挑战时保留可比表现。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "mesocycle-sequence",
+          "title": "安排中周期顺序",
+          "summary": "改变重点不同于丢弃以前所有适应。",
+          "sections": [
+            {
+              "id": "mesocycle-sequence-volume",
+              "title": "维持与再敏化",
+              "markdown": "反复高量中周期可能提高有效训练所需剂量和工作能力，同时降低对熟悉剂量的敏感性。原书提出用低量[维持阶段](term:resensitization)降低疲劳并恢复反应性。它不同于短暂减量：在MV附近维持数周，是比短期降疲劳更大的策略改变。\n\n作者讨论约3–6周的常见维持／再敏化结构，同时承认精确时长与个体反应存在不确定性。更久不自动更好；无限延长维持也会失去增长机会。应区分实验证据、合理机制与执教规则。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Mesocycle-to-Mesocycle Potentiation; Volume Potentiation"
+            },
+            {
+              "id": "mesocycle-sequence-bias",
+              "title": "调整重心，而非排除区间",
+              "markdown": "作者示例逐步改变低、中、高次数组的比例：先为50/35/15%，再为25/50/25%，最后为15/35/50%。各阶段总和均为100%。它用于说明中周期间重点迁移，不是已证明适合所有人的优越比例。\n\n保留不同区间的一定接触，可避免疲劳骤变与反复重新校准。适当时可以从较重、较低频重点，走向较轻、较高频重点，再进入低压力阶段。动作、节奏与辅助肌安排也应匹配阶段。原书反对把细致序列简化成100%重、100%中、100%轻的机械切换。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Loading Potentiation; Frequency Potentiation; Overly Limited Per-Mesocycle Rep Ranges"
+            }
+          ],
+          "recap": [
+            "减量与维持阶段服务不同时间尺度。",
+            "逐步转移重点，同时保留有用接触。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "long-term",
+          "title": "训练块、大周期与训练生涯",
+          "summary": "长期规划要保持弹性并服务正确目标。",
+          "sections": [
+            {
+              "id": "long-term-blocks",
+              "title": "协调训练与营养阶段",
+              "markdown": "原书描述增肌、维持、减脂等顺序，并让训练剂量和营养匹配目的。较低训练量间歇可降低进入新训练块前的残余疲劳。阶段数量与时长取决于个人、比赛日期和反应；这些序列是示例，而非强制年度模板。\n\n频繁切换短增肌和减脂阶段，可能牺牲一致适应并反复付出过渡成本。大周期尺度上，应识别限制肌群或动作技术，并有计划地改善。逐步改变分化安排，能让过往经验继续有参考意义，而不是一次重置所有变量。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Block-to-Block Potentiation; Macrocycle-to-Macrocycle Potentiation"
+            },
+            {
+              "id": "long-term-career",
+              "title": "先建立基础",
+              "markdown": "作者把训练生涯重点概括为 **基础技术 → 相对努力程度 → 肌肉控制感**。这不意味着新手应完全忽视肌肉感知，也不意味着高级者可以忽视技术，而是说后续精细优化依赖安全、可重复的动作与努力程度判断能力。\n\n过长再敏化、不必要的力量阶段或始终保持很低体脂，可能与主要增肌目标冲突，但仍可属于合理个人选择。应说明机会成本，并根据个人真实目标评价计划，而不是假设所有选择都必须使肌肉增长最大化。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Early Career—to—Later Career Potentiation; Over-Application of Phase Potentiation"
+            }
+          ],
+          "recap": [
+            "规划时考虑保留收获与未来机会。",
+            "基础技术让后续精细优化成为可能。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-phase-q1",
+          "objective": "解释不同时间尺度的阶段增效",
+          "prompt": "阶段增效的核心目的是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "使当前训练有效，同时改善后续训练。",
+              "explanation": "当前和未来结果都重要。"
+            },
+            {
+              "id": "b",
+              "text": "使每个阶段与上一阶段完全无关。",
+              "explanation": "序列应保留并利用有用效果。"
+            },
+            {
+              "id": "c",
+              "text": "保证之前所有疲劳永远有益。",
+              "explanation": "残留疲劳可能损害下一阶段。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "增效是有目的的排序，也包含管理残余代价。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "time-scales"
+        },
+        {
+          "id": "hyp-phase-q2",
+          "objective": "解释不同时间尺度的阶段增效",
+          "prompt": "每周大幅加重导致次数下降并提前力竭，使积累过早结束，违背什么思路？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "永远不能加次数。",
+              "explanation": "次数进阶是有效替代。"
+            },
+            {
+              "id": "b",
+              "text": "保留足够表现以支持下一周有效训练。",
+              "explanation": "过大增量会消耗未来训练机会。"
+            },
+            {
+              "id": "c",
+              "text": "每次加重量必须最大化。",
+              "explanation": "原书主张只增加目标所需的量。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "进阶不应无谓缩短有效训练序列。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "time-scales"
+        },
+        {
+          "id": "hyp-phase-q3",
+          "objective": "安排积累、减量与维持阶段",
+          "prompt": "维持／再敏化阶段与减量有什么不同？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "它必须代表数月完全不活动。",
+              "explanation": "维持训练可以保留适应。"
+            },
+            {
+              "id": "b",
+              "text": "它证明每个人的精确恢复时间。",
+              "explanation": "时长仍存在不确定性与个体差异。"
+            },
+            {
+              "id": "c",
+              "text": "它以较长低量策略同时考虑未来反应性与疲劳。",
+              "explanation": "它的尺度与目标不同于短暂减量。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "应区分短暂疲劳措施与更广训练量策略。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "mesocycle-sequence"
+        },
+        {
+          "id": "hyp-phase-q4",
+          "objective": "安排积累、减量与维持阶段",
+          "prompt": "原书50/35/15%的示例，关键应如何理解？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "它说明不同次数区间的重点逐步迁移。",
+              "explanation": "这些值是示例，不是普遍最优。"
+            },
+            {
+              "id": "b",
+              "text": "每个训练者必须使用完全相同比例。",
+              "explanation": "原书允许个体替代。"
+            },
+            {
+              "id": "c",
+              "text": "每个中周期只能有一个次数区间。",
+              "explanation": "该例保留多个区间。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "重点可以改变，而无需完全排除其他有用接触。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "mesocycle-sequence"
+        },
+        {
+          "id": "hyp-phase-q5",
+          "objective": "保留适应并为后续训练创造条件",
+          "prompt": "哪些训练生涯重点符合原书？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "用持续求新替代技术能力。",
+              "explanation": "新颖不能补上缺少的基础。"
+            },
+            {
+              "id": "b",
+              "text": "建立可重复的基础技术。",
+              "explanation": "它支持后续安全进阶。"
+            },
+            {
+              "id": "c",
+              "text": "依赖高级优化前，先建立努力程度判断。",
+              "explanation": "RIR控制支持有效决策。"
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "基础让后续精细优化有效。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "long-term"
+        },
+        {
+          "id": "hyp-phase-q6",
+          "objective": "保留适应并为后续训练创造条件",
+          "prompt": "为什么频繁短期增肌／减脂切换可能有代价？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "个人偏好永远不能支持这种选择。",
+              "explanation": "理解代价后，偏好可以合理。"
+            },
+            {
+              "id": "b",
+              "text": "任何维持阶段都会摧毁全部已有肌肉。",
+              "explanation": "维持本来用于保留适应。"
+            },
+            {
+              "id": "c",
+              "text": "它们可能打断一致适应并反复造成过渡。",
+              "explanation": "序列连续性是框架的一部分。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "一个选择可以符合个人目标，同时对最大增长有机会成本。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "long-term"
+        }
+      ]
+    },
+    {
+      "id": "individualization",
+      "title": "个体化",
+      "objectives": [
+        "识别个体反应差异的来源",
+        "依据训练水平与饮食阶段调整训练",
+        "通过重复观察调整而非照抄计划"
+      ],
+      "lessons": [
+        {
+          "id": "response-differences",
+          "title": "为什么相同计划产生不同反应",
+          "summary": "个体化改变原则的应用，而不是取消原则。",
+          "sections": [
+            {
+              "id": "response-differences-factors",
+              "title": "差异来源",
+              "markdown": "工作能力指完成工作的能力；恢复能力指在接触之间恢复功能的能力。两者相关但不能互换。身体比例影响力臂和动作中的限制肌群。纤维特征、初始肌肉大小、适应反应、年龄、训练经历、睡眠、营养和生活压力，都会影响有效训练选择。\n\n原书还讨论遗传对肌肉形状和增长潜力的影响，但这不能让简单外观观察预测个人最终上限，动作也不能改变原本附着点结构。同一个人的不同肌群也可能反应不同。群体平均值只能作为起始假设，随后仍需观察个人。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Work Capacity; Recovery Ability; Genetics; Lifestyle"
+            },
+            {
+              "id": "response-differences-feedback",
+              "title": "长期观察同一个人",
+              "markdown": "根据重复反馈，个体化训练量地标、动作、进阶、频率和阶段时长。有用日志应记录执行、负荷、次数、RIR、刺激感受、疲劳、睡眠和相关背景。环境改变后，以前的地标只是待验证假设，不是永久事实。\n\n不要把所有不方便的动作都贴上不适合身体的标签。新动作可能需要时间形成技术与感知。另一方面，照抄职业运动员或搭档的剂量，会忽略恢复与经验差异。应做小而有信息量的调整，使结果可以解释。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization for Specificity; Individualization for Overload; Under-Application of Individualization"
+            },
+            {
+              "id": "response-differences-confounds",
+              "title": "原创反应与混淆因素表",
+              "markdown": "| 观察 | 可能的影响因素 | 不应自动推论 |\n| --- | --- | --- |\n| 多组中完成更多次数 | 工作能力、技术或疲劳差异 | 课间恢复更快 |\n| 早期增长快 | 起始围度、反应性或新手状态 | 最终增长上限最高 |\n| 后几年反应改变 | 训练水平与环境改变 | 新方法导致全部差异 |\n| 某肌群更适合某动作 | 结构、执行与局部反应 | 所有肌群都最适合同一动作 |\n| 性别群体平均值不同 | 群体特征与典型负荷 | 每个人都需群体平均日程 |\n\n原书区分初始肌肉大小、增长速率、单位刺激反应和长期潜力；它们相关但不能互换。公平的个人实验也要考虑饮食、睡眠、压力与训练水平变化。作者讨论用一个训练块偏重某次数区间，同时保留其他区间，再比较多个指标。这仍属于观察实验；改变重点并不能完美隔离某条细胞通路。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Genetics: Initial Muscle Sizes; Genetics: Gain Rates; Genetics: Maximum Growth Potential; Lifestyle; Individualization for Variation"
+            }
+          ],
+          "recap": [
+            "工作能力与恢复能力不同。",
+            "重复反馈让一般原则适合特定个人。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "training-age",
+          "title": "初、中、高级训练决策",
+          "summary": "经验会改变所需复杂度与恢复成本。",
+          "sections": [
+            {
+              "id": "training-age-beginner",
+              "title": "初学者需要技术基础",
+              "markdown": "原书倾向让新手广泛发展全身，并使用少量可靠动作。只有技术至少同样好、努力程度仍受控制时才加重量；作者检查表使用约至少2 RIR。早期快速力量提高不应超越动作质量。\n\n新手常能以低训练量增长，通常不需要专项强化、复杂代谢组法或频繁更换动作。每周几次全身课可在不过度增加进馆天数的情况下反复练技术。这些是来源中的编程模式，不是仅按入馆年数划分水平的测验。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization Across Training Age: Beginners"
+            },
+            {
+              "id": "training-age-experienced",
+              "title": "随着训练水平提高",
+              "markdown": "中级者常需要更明确的加组进阶、更广次数区间和更好SFR。力量提高后，以前可耐受的复合动作可能产生足够高的全身疲劳，需要采用替代动作。减量与策略性低量阶段也更重要。\n\n高级者可能需要精确肌群剂量、更谨慎的关节管理与专项强化。各局部的需求增加后，可能在每个肌群都获得最佳增长训练前就超过全身资源。更多训练课不是高级身份象征，其价值取决于是否保留有效表现、恢复与可持续生活安排。高级优化仍离不开一致技术和诚实努力判断。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization Across Training Age: Intermediates; Advanced"
+            }
+          ],
+          "recap": [
+            "先提高技术能力，再增加复杂度。",
+            "训练发展通常让恢复管理更加重要。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "diet-specialization",
+          "title": "饮食阶段与专项强化",
+          "summary": "恢复条件决定能够支持多少有效训练。",
+          "sections": [
+            {
+              "id": "diet-specialization-diet",
+              "title": "适应窗口会改变",
+              "markdown": "原书模型认为，热量盈余时MEV—MRV窗口较宽，热量不足时较窄。减脂阶段的恢复与增长更受限制，尤其对有经验者，保留肌肉本身就是相应成功标准。窗口变窄不意味着可以用无限额外努力补偿。\n\n维持热量时，如果目标就是再敏化，可采用低量阶段。减脂中，作者常倾向高SFR选择，并随疲劳上升谨慎进阶。不能只凭热量平衡算出地标的精确变化。应记录个人实际表现与组织反应，而非自动规定加减几组。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization of Training for Different Diet Phases"
+            },
+            {
+              "id": "diet-specialization-specialize",
+              "title": "优先发展部分肌群，维持其他肌群",
+              "markdown": "专项强化让优先肌群接受增长训练，同时把其他肌群保持在维持附近。当所有肌群不能同时获得有效增长剂量时，它可处理全身资源瓶颈。有经验者的MV常明显低于MEV，因此减少非重点训练可在保留收获的同时释放资源。\n\n不要让非重点肌群停在含糊的中间剂量：既增加疲劳，又没有明显增长；也不要降低到维持需求以下。应有计划地轮换重点，并让重点肌群也获得低压力阶段。原书通常不主张在热量不足、增长机会已受限时进行增长专项强化。新手通常也无需此策略。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Specialization Phases; Specialization Phases Across Training Age"
+            }
+          ],
+          "recap": [
+            "减脂阶段同时改变目标与恢复背景。",
+            "专项强化重新分配资源，同时保留其他肌群。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-individualization-q1",
+          "objective": "识别个体反应差异的来源",
+          "prompt": "工作能力与恢复能力有什么区别？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "一个关注完成工作，另一个关注接触间恢复。",
+              "explanation": "高工作耐受不保证快速恢复。"
+            },
+            {
+              "id": "b",
+              "text": "两者在任何情况都完全相同。",
+              "explanation": "原书区分了二者。"
+            },
+            {
+              "id": "c",
+              "text": "两者都不会因人而异。",
+              "explanation": "个体差异是本章核心。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "不能仅凭单课耐受推断可恢复周量。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "response-differences"
+        },
+        {
+          "id": "hyp-individualization-q2",
+          "objective": "通过重复观察调整而非照抄计划",
+          "prompt": "个体化新计划时，哪种观察最有用？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "一条社交媒体体型说法。",
+              "explanation": "它不能替代训练反应证据。"
+            },
+            {
+              "id": "b",
+              "text": "在有记录条件下，反复观察个人反应。",
+              "explanation": "这能让调整适合实际个人。"
+            },
+            {
+              "id": "c",
+              "text": "职业运动员的精确组数。",
+              "explanation": "其恢复与训练经历可能不同。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "以群体指导起步，再依据个人反应细化。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "response-differences"
+        },
+        {
+          "id": "hyp-individualization-q3",
+          "objective": "依据训练水平与饮食阶段调整训练",
+          "prompt": "新手只有缩短幅度并力竭才能加重量，什么符合原书检查表？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "继续加重，因为任何纪录都证明增长。",
+              "explanation": "该比较已不再等价。"
+            },
+            {
+              "id": "b",
+              "text": "立即开始高级超越力竭方法。",
+              "explanation": "这不能解决基础问题。"
+            },
+            {
+              "id": "c",
+              "text": "维持或调整负荷，直到技术与努力受控。",
+              "explanation": "加重前需要技术质量与足够RIR。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "早期力量增长不应超越执行质量。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "training-age"
+        },
+        {
+          "id": "hyp-individualization-q4",
+          "objective": "依据训练水平与饮食阶段调整训练",
+          "prompt": "原书通常如何描述热量不足时的适应窗口？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "增长与恢复机会更加受限。",
+              "explanation": "保留肌肉可能是有经验者的相应目标。"
+            },
+            {
+              "id": "b",
+              "text": "所有人都可以无限增加训练量。",
+              "explanation": "热量不足不会创造无限恢复。"
+            },
+            {
+              "id": "c",
+              "text": "仅靠热量就能算出精确组数变化。",
+              "explanation": "仍需个人反应与情境信息。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "营养改变背景，却不能自动确定精确个人地标。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "diet-specialization"
+        },
+        {
+          "id": "hyp-individualization-q5",
+          "objective": "依据训练水平与饮食阶段调整训练",
+          "prompt": "哪些是专项强化的预期特征？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "无限期让所有其他肌群低于维持量。",
+              "explanation": "这可能丢失适应，而非高效重新分配。"
+            },
+            {
+              "id": "b",
+              "text": "优先让选定肌群接受增长训练。",
+              "explanation": "这能定向分配有限资源。"
+            },
+            {
+              "id": "c",
+              "text": "用足够低量训练维持其他肌群。",
+              "explanation": "该策略旨在保留已有收获。"
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "专项强化是资源再分配，不是随意忽视。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "diet-specialization"
+        },
+        {
+          "id": "hyp-individualization-q6",
+          "objective": "通过重复观察调整而非照抄计划",
+          "prompt": "训练者仅试一次陌生动作，便认定泵感低所以无效，缺少什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "证明所有个人感受永远错误。",
+              "explanation": "主观观察有用，但不完整。"
+            },
+            {
+              "id": "b",
+              "text": "放弃所有稳定技术的理由。",
+              "explanation": "解释结果需要稳定执行。"
+            },
+            {
+              "id": "c",
+              "text": "学习时间、可比尝试与多种反应指标。",
+              "explanation": "初始感知可随技术提高。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "个体化使用经过解释的证据，而非孤立感受。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "response-differences"
+        }
+      ]
+    },
+    {
+      "id": "special",
+      "title": "整合与特殊情境",
+      "objectives": [
+        "整合各原则以排查进展问题",
+        "说明省时训练与保守训练的权衡",
+        "将增肌训练纳入其他运动项目"
+      ],
+      "lessons": [
+        {
+          "id": "audit-progress",
+          "title": "检查停滞的计划",
+          "summary": "先检查完整框架，再改变某个偏好的变量。",
+          "sections": [
+            {
+              "id": "audit-progress-audit",
+              "title": "先按原则检查",
+              "markdown": "先检查专项性：目标肌是否真的以促进增长的方式训练？再看剂量、努力和进阶，随后检查疲劳、频率、变换与阶段结构。复杂日程无法挽救不足刺激，而更拼命的训练也不能解决长期恢复不足。\n\n原书的排查表还包括营养、睡眠、一致执行、适当再敏化、耐心与现实预期。应跨中周期在相似条件下比较表现。肌肉变化常很缓慢，测量误差也足以使每日波动不能被解释为组织增减。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Troubleshooting Lack of Progress; Measuring Progress"
+            },
+            {
+              "id": "audit-progress-measure",
+              "title": "哪些证据能、不能说明进展",
+              "markdown": "多个技术一致中周期中的重复次数力量，是有用的间接线索，但技术学习和执行变化会混淆它。泵感、RSM与SFR有助于训练过程决策，而不是证明最终增长。照片与围度需要一致条件，体成分工具也有其精度限制。\n\n**原创检查示例：** 训练者声称两周无进展，却换了动作、增加借力，并在不同时间称重。首先应统一比较条件，并继续合适的观察期。对于记录尚无法证实的停滞，不应自动加量。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Rep Strength; Body Composition Measurement; Mesocycle to Mesocycle Progress"
+            }
+          ],
+          "recap": [
+            "按重要程度检查基础因素。",
+            "统一测量条件，并留出合适观察时间。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "constraints",
+          "title": "在时间与风险限制内训练",
+          "summary": "有用的折中需要明确其代价。",
+          "sections": [
+            {
+              "id": "constraints-time",
+              "title": "时间有限时",
+              "markdown": "原书建议在时间有限时优先使用高效复合动作，减少器械准备与热身转换，采用合适拮抗肌超级组，并在局部疲劳仍是限制因素时使用短歇孤立方法。固定适量组数，可能比每周大幅加量更可执行。时间少的高级者，可优先发展较少肌群，同时维持其他部位。\n\n这是刺激与时间的权衡，不是用最少时间取得无限结果。若呼吸或辅助肌过早终止训练，缩短休息会适得其反。作者在总剂量很低时讨论较低RIR，但疲劳、技术控制和动作安全仍然重要。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Hypertrophy Tips for Those with Less Time"
+            },
+            {
+              "id": "constraints-caution",
+              "title": "保守训练与伤后回归",
+              "markdown": "原书保守训练示例降低负荷、避免突然方向转换、使用受控节奏与稳定器械、谨慎进阶，并在极端疲劳前结束积累。它们有意用部分潜在增长换取较低需求。需求较低不等于零风险，网站也无法诊断某动作疼痛的原因。\n\n原书把伤后回归概述为完成康复后，逐步恢复可耐受局部训练、动作范围、复合动作与负荷，并在该情境讨论血流限制。这些是来源概念，不是自主康复处方。具体损伤、禁忌、设备与临床指导决定适用方案；不能根据测验分数或计算器判断可以复训。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Very Low Injury Risk Training; Post-Injury Return to Training Guidelines"
+            },
+            {
+              "id": "constraints-rehab-map",
+              "title": "原书回归概念的原创对应表",
+              "markdown": "| 来源阶段 | 教育目的 |\n| --- | --- |\n| 完成规定康复 | 在健身进阶前建立临床准备条件 |\n| 考虑适当监督下的轻局部训练 | 适当时重新引入可耐受刺激 |\n| 通过局部训练恢复幅度 | 在许可范围恢复受控动作 |\n| 重新引入复合动作 | 把局部能力整合进更大动作 |\n| 逐渐恢复负荷 | 不仓促过渡地测试更高需求 |\n| 回归正常训练 | 继续个体化监测，而非假定永久不再受伤 |\n\n此表是对原书六阶段讨论的概念对应，不是把原方案重现成操作指令。原书可选血流限制阶段，仅适用于结构和临床情况合适者。作者也明确要求：不应违背医疗专业意见，或在引起损伤处疼痛时照书执行。固定时间表不能确定某个损伤是否已准备好。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Post-Injury Return to Training Guidelines"
+            }
+          ],
+          "recap": [
+            "省时方法需要合适的限制因素。",
+            "医疗恢复概念不代表个人复训许可或康复处方。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "other-sports",
+          "title": "协调增肌、有氧与其他运动",
+          "summary": "运动项目需求分析决定增肌的角色。",
+          "sections": [
+            {
+              "id": "other-sports-cardio",
+              "title": "有氧相容性取决于剂量",
+              "markdown": "原书讨论能量使用、局部疲劳、结缔组织负荷、训练时间与信号竞争等潜在干扰，也承认一定体能训练有助于原本久坐者耐受抗阻训练，心血管活动还服务于最大增肌以外的目标。不能把干扰讨论理解为应避免全部有氧。\n\n当肌肉增长优先时，作者通常倾向较低疲劳、较低冲击选项，并在可行时分开训练课。其具体心率和时长示例属于一般执教启发，不是个人安全界限。应观察有氧是否降低实际抗阻质量与恢复，而非假设每次有氧都产生相同负作用。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Cardio and Hypertrophy Training"
+            },
+            {
+              "id": "other-sports-sport",
+              "title": "运动表现拥有最终优先权",
+              "markdown": "对运动员而言，更多肌肉只有在支持该项目的体成分、力量体重比、力—速度、技术与战术需求时才有用。增加体重在某情境有益，在另一情境可能有代价。增肌还存在机会成本：增长所花时间与疲劳，可能减少技术练习或比赛准备。\n\n对力量／爆发力项目，原书常强调5–10次区间的复合动作与主动用力意图，并降低其他需求以容纳这些训练。这不同于纯形体训练。把艰苦训练集中在同一天、适当分开课次，可保留真正恢复日；单纯把每项活动放在不同日期，反而可能取消全部休息日。精确安排仍取决于项目与运动员。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Hypertrophy Training for Other Sports and Activities; Key Points for Including Hypertrophy Training"
+            },
+            {
+              "id": "other-sports-context-order",
+              "title": "情境会改变顺序建议",
+              "markdown": "原书在不同情境给出不同顺序示例。有氧与增肌专节主张分开课次；必须合并时，基于信号解释讨论先有氧再抗阻。运动整合节则在增肌优先阶段强调先举重再心血管训练，以保留超负荷。本课程不抹去这一张力，也不把任一建议转成普遍规则。相关决策应考虑阶段优先级、实际表现、疲劳与可行性。\n\n原书运动项目示例，把某肌群常规每周接触减少约0.5–1次；半次的意思是保留一次更轻接触，而非去健身房半次。它也讨论可行时将同日艰苦课次分隔4–8小时，以集中应激并保留恢复日。这些是作者示例，不是个人时间处方。\n\n非运动性活动产热（NEAT），如步行与家务，也是原书内容：日常活动能够增加能量消耗，其疲劳成本不同于艰苦有氧。热量不足时普通活动明显下降，是检查恢复与能量的背景线索，不是诊断测试。",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Cardio and Hypertrophy Training; Incorporating Hypertrophy Training into Sports and other Activities"
+            }
+          ],
+          "recap": [
+            "考虑剂量、负荷重叠与运动员的真实目标。",
+            "更多肌肉不自动等于更好运动表现。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-special-q1",
+          "objective": "整合各原则以排查进展问题",
+          "prompt": "让停滞计划更复杂前，应先检查什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "专项性、剂量、努力、疲劳与测量一致性。",
+              "explanation": "基础因素可能解释表面停滞。"
+            },
+            {
+              "id": "b",
+              "text": "计划是否使用足够多令人印象深刻的动作名。",
+              "explanation": "复杂度不是适应机制。"
+            },
+            {
+              "id": "c",
+              "text": "一天体重变化是否证明肌肉丢失。",
+              "explanation": "短期体重波动有许多原因。"
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "用可靠观察检查完整框架。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "audit-progress"
+        },
+        {
+          "id": "hyp-special-q2",
+          "objective": "说明省时训练与保守训练的权衡",
+          "prompt": "拮抗肌超级组为什么可能帮助时间有限者？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "它们保证与无限训练时间相同结果。",
+              "explanation": "省时方法仍有权衡。"
+            },
+            {
+              "id": "b",
+              "text": "可以用一个肌群的休息时间训练另一个肌群。",
+              "explanation": "疲劳可管理时，这能提高单位时间刺激。"
+            },
+            {
+              "id": "c",
+              "text": "它们消除所有全身疲劳。",
+              "explanation": "全身疲劳仍可限制第二动作。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "只有保留有效目标训练，省时才有价值。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "constraints"
+        },
+        {
+          "id": "hyp-special-q3",
+          "objective": "说明省时训练与保守训练的权衡",
+          "prompt": "本课程对伤后回归的讨论能提供什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "为所有损伤提供诊断与保证安全的负荷。",
+              "explanation": "一般课程无法确定这些。"
+            },
+            {
+              "id": "b",
+              "text": "通过测验后可忽视恶化疼痛。",
+              "explanation": "测验表现不评估伤病准备状态。"
+            },
+            {
+              "id": "c",
+              "text": "理解原书分阶段概念，而非个人复训许可。",
+              "explanation": "仍需要临床背景与专业指导。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "教育概念与个体康复决策不同。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "constraints"
+        },
+        {
+          "id": "hyp-special-q4",
+          "objective": "将增肌训练纳入其他运动项目",
+          "prompt": "哪些因素可能导致有氧与增肌干扰？选择所有适用项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "局部疲劳与组织负荷重叠。",
+              "explanation": "相同组织可能承受竞争需求。"
+            },
+            {
+              "id": "b",
+              "text": "能量与时间同训练、恢复竞争。",
+              "explanation": "资源有限。"
+            },
+            {
+              "id": "c",
+              "text": "只要叫有氧就一定干扰，与剂量无关。",
+              "explanation": "剂量与情境会改变权衡。"
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "干扰依赖情境；有氧也服务合理体能与健康目标。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "other-sports"
+        },
+        {
+          "id": "hyp-special-q5",
+          "objective": "将增肌训练纳入其他运动项目",
+          "prompt": "为什么增加肌肉可能没有改善运动表现？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "所有运动的体成分需求都相同。",
+              "explanation": "运动需求各异。"
+            },
+            {
+              "id": "b",
+              "text": "额外体重、疲劳或减少技术练习可能与项目需求冲突。",
+              "explanation": "项目需求分析决定其用途。"
+            },
+            {
+              "id": "c",
+              "text": "肌肉永远无法支持运动表现。",
+              "explanation": "符合相关需求时它能提供帮助。"
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "对运动员而言，增肌是服务项目目标的手段。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "other-sports"
+        },
+        {
+          "id": "hyp-special-q6",
+          "objective": "整合各原则以排查进展问题",
+          "prompt": "训练者改变动作幅度、在不同时段称重，随后声称两周停滞，合理第一步是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "立即把训练量翻倍。",
+              "explanation": "更多剂量可能未解决已证实问题，却增加疲劳。"
+            },
+            {
+              "id": "b",
+              "text": "认定此人已达不可改变的遗传上限。",
+              "explanation": "证据无法支持此结论。"
+            },
+            {
+              "id": "c",
+              "text": "统一比较条件，并留出合适观察期。",
+              "explanation": "这些记录尚不能确立清晰组织变化趋势。"
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "测量质量应先于对进展的强结论。",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "audit-progress"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "hypertrophy",
+      "term": "肌肥大训练",
+      "aliases": [
+        "增肌训练"
+      ],
+      "definition": "直接促进肌肉增长、在热量不足时保留肌肉，或发展支持未来增长能力的训练。其目的不同于测试最大力量。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "specific-goals"
+      ]
+    },
+    {
+      "id": "exercise",
+      "term": "训练动作",
+      "aliases": [],
+      "definition": "用于刺激某块或某组肌肉的具名运动模式。不同动作的目标与支撑组织可能重叠。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "needs-analysis"
+      ]
+    },
+    {
+      "id": "rep",
+      "term": "重复次数",
+      "aliases": [
+        "单次重复"
+      ],
+      "definition": "按要求技术，从起点通过预定活动范围再返回的一次动作执行。幅度改变会影响可比性。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "set",
+      "term": "训练组",
+      "aliases": [
+        "组"
+      ],
+      "definition": "一段相对连续的重复动作，与其他组之间以休息分开。理解执行、努力和负荷背景后，组数统计才有意义。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "training-methods"
+      ]
+    },
+    {
+      "id": "session",
+      "term": "训练课",
+      "aliases": [],
+      "definition": "专门用于训练的一段时间，通常包括热身与一个或多个动作。训练课频率与某肌群的接触频率不一定相同。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "sra-curves"
+      ]
+    },
+    {
+      "id": "rest",
+      "term": "休息时间",
+      "aliases": [
+        "组间休息"
+      ],
+      "definition": "重复、训练组、动作或训练课之间用于减轻疲劳的时间。相关系统需要恢复到足以完成下一任务的程度。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "training-methods"
+      ]
+    },
+    {
+      "id": "one-rm",
+      "term": "单次最大重量",
+      "aliases": [
+        "1RM"
+      ],
+      "definition": "在规定执行标准下，某个动作能完成一次的最大外部负荷。它针对具体动作，而非普遍全身能力。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "microcycle",
+      "term": "微周期",
+      "aliases": [],
+      "definition": "包含计划训练课与休息日的最短重复周期。通常但不必一定为一周。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "mesocycle",
+      "term": "中周期",
+      "aliases": [],
+      "definition": "为相关适应组织的一组微周期；原书中常包含积累及随后较短减量。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "mesocycle-sequence"
+      ]
+    },
+    {
+      "id": "accumulation",
+      "term": "积累阶段",
+      "aliases": [],
+      "definition": "通过协调增加组数、次数、负荷或努力程度，使挑战逐渐提高的连续微周期。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "deload",
+      "term": "减量",
+      "aliases": [
+        "减量周"
+      ],
+      "definition": "旨在降低累积疲劳并保留适应的低训练微周期，与单次恢复课的尺度不同。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "fatigue-tools"
+      ]
+    },
+    {
+      "id": "accumulation-deload",
+      "term": "积累与减量比例",
+      "aliases": [],
+      "definition": "中周期中积累时间与减量时间之间的关系。相对于必要恢复，更多有效积累可改善训练连续性。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "block",
+      "term": "训练块",
+      "aliases": [],
+      "definition": "共享统一目标的一个或多个中周期，例如增长肌肉，或在保留肌肉的同时减脂。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "macrocycle",
+      "term": "大周期",
+      "aliases": [],
+      "definition": "围绕长期目标组织的一系列训练块。具体时长依目的而定，不必恰好等于一年。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "periodization",
+      "term": "周期化",
+      "aliases": [],
+      "definition": "有意识地安排训练变量与阶段顺序，以支持适应、管理疲劳，并在需要时准备表现。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "autoregulation",
+      "term": "自我调节",
+      "aliases": [],
+      "definition": "依据实际需求调整训练变量或疲劳管理，而非只遵循预定改变。它依赖对反馈的解释，不只是瞬时偏好。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "response-differences"
+      ]
+    },
+    {
+      "id": "volume",
+      "term": "训练量",
+      "aliases": [
+        "训练容量"
+      ],
+      "definition": "规定时间内完成的工作数量。在本增肌框架中，常用每肌群单课或每周的有效艰苦组数作实用代理。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "load",
+      "term": "负荷",
+      "aliases": [
+        "绝对负荷"
+      ],
+      "definition": "某动作使用的绝对外部阻力，单独不能说明特定个人需要多大努力。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "relative-load",
+      "term": "相对负荷",
+      "aliases": [
+        "1RM百分比"
+      ],
+      "definition": "相对于同动作最大能力表示的负荷，通常以1RM百分比计算：负荷除以1RM再乘100%。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "effort",
+      "term": "相对努力程度",
+      "aliases": [],
+      "definition": "某组训练相对于当前能力的困难程度。原书用RIR表示努力，它不同于相对负荷。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "rir",
+      "term": "剩余次数",
+      "aliases": [
+        "RIR",
+        "力竭前剩余次数"
+      ],
+      "definition": "估计一组结束时还能完成多少次完整、技术合格的重复。0 RIR意味着不能再完成一次合格完整重复。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "frequency",
+      "term": "频率",
+      "aliases": [
+        "训练频率"
+      ],
+      "definition": "单位时间内训练课或肌群接触的次数。应说明统计对象；每周进馆次数与某肌群接触次数可以不同。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "derive-frequency"
+      ]
+    },
+    {
+      "id": "mv",
+      "term": "维持训练量",
+      "aliases": [
+        "MV"
+      ],
+      "definition": "在相关条件下足以防止现有肌肉减少的训练量，不一定足以刺激明显新增肌肉。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges",
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "mev",
+      "term": "最低有效训练量",
+      "aliases": [
+        "MEV"
+      ],
+      "definition": "估计开始产生明显增长的训练剂量，随个人、肌群、训练经历、动作与当前条件变化。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges",
+        "progression"
+      ]
+    },
+    {
+      "id": "mav",
+      "term": "最大适应训练量",
+      "aliases": [
+        "MAV"
+      ],
+      "definition": "当前最有利于增长的训练量区域。原书框架中它会移动，不是普遍固定组数。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "mrv",
+      "term": "最大可恢复训练量",
+      "aliases": [
+        "MRV"
+      ],
+      "definition": "超过后恢复便无法支持持续有效训练的上部训练量区域。局部与全身限制可以不同。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "fatigue-tools",
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "fatigue",
+      "term": "疲劳",
+      "aliases": [],
+      "definition": "由身体与心理应激产生的急性或累积表现能力下降，可表现为局部、全身或与轴向负荷相关的疲劳。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "fatigue-signals"
+      ]
+    },
+    {
+      "id": "overreaching",
+      "term": "过度负荷状态",
+      "aliases": [
+        "功能性过度负荷"
+      ],
+      "definition": "累积疲劳阻止持续超负荷的状态。计划性功能性过度负荷之后安排恢复，不等于无计划的长期恢复不足。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "sra-curves"
+      ]
+    },
+    {
+      "id": "minicut",
+      "term": "短期减脂",
+      "aliases": [],
+      "definition": "相对短暂、较积极的减脂间歇，旨在为后续增肌准备或暂时改变外观，而非长期饮食模式。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "gain-phase",
+      "term": "增肌阶段",
+      "aliases": [
+        "增重阶段"
+      ],
+      "definition": "以肌肉增长为目标的训练与营养阶段，原书框架中通常使用热量盈余，但这不等于个人饮食方案。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "fat-loss",
+      "term": "减脂阶段",
+      "aliases": [
+        "减脂期"
+      ],
+      "definition": "通过热量不足减少脂肪并保留肌肉的阶段，其恢复与增长机会不同于热量盈余。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "maintenance-phase",
+      "term": "体重维持阶段",
+      "aliases": [],
+      "definition": "体重与能量平衡大致稳定的阶段。若目标为恢复或再敏化，可配合低量训练。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "mesocycle-sequence"
+      ]
+    },
+    {
+      "id": "resensitization",
+      "term": "再敏化阶段",
+      "aliases": [],
+      "definition": "通常接近维持量的低训练阶段，旨在降低疲劳与适应阻力，为未来有效训练准备；精确最优时长仍不确定。",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "mesocycle-sequence"
+      ]
+    },
+    {
+      "id": "sfr",
+      "term": "刺激疲劳比",
+      "aliases": [
+        "SFR"
+      ],
+      "definition": "相关训练刺激与疲劳成本的概念比较。原书主观评分是非正式执教代理，而非肌肉增长的直接测量。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+      "lessonIds": [
+        "stimulus-fatigue"
+      ]
+    },
+    {
+      "id": "rsm",
+      "term": "原始刺激量",
+      "aliases": [
+        "RSM"
+      ],
+      "definition": "原书依据挑战感、泵感与扰动估计目标肌刺激的指标。它针对个人和肌群，不能证明后续肥大。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+      "lessonIds": [
+        "progression"
+      ]
+    },
+    {
+      "id": "sra",
+      "term": "刺激—恢复—适应",
+      "aliases": [
+        "SRA"
+      ],
+      "definition": "将训练接触、疲劳消退和适应联系起来，以安排下一次有效接触的框架。增长与表现恢复不必遵循相同时钟。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+      "lessonIds": [
+        "sra-curves"
+      ]
+    },
+    {
+      "id": "rom",
+      "term": "关节活动范围",
+      "aliases": [
+        "ROM",
+        "动作幅度"
+      ],
+      "definition": "动作使用的运动幅度。原书中有效完整范围受目标刺激、技术控制与耐受限制，而非不惜代价追求最大幅度。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+      "lessonIds": [
+        "growth-stimuli"
+      ]
+    },
+    {
+      "id": "variation",
+      "term": "变换",
+      "aliases": [
+        "训练变换"
+      ],
+      "definition": "有意识地改变训练变量，以应对适应阻力或重复应力，同时保持目标适应方向。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+      "lessonIds": [
+        "purposeful-variation"
+      ]
+    },
+    {
+      "id": "specificity",
+      "term": "专项性",
+      "aliases": [
+        "特异性"
+      ],
+      "definition": "训练应直接改善目标结果，或准备支持目标的能力的原则。它指导什么才算有效超负荷。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+      "lessonIds": [
+        "specific-goals"
+      ]
+    },
+    {
+      "id": "phase-potentiation",
+      "term": "阶段增效",
+      "aliases": [],
+      "definition": "有目的地排序训练，使当前训练同时为后续有效训练准备，并避免已有适应无谓丢失。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "str",
+      "term": "刺激时间比",
+      "aliases": [
+        "STR"
+      ],
+      "definition": "原书将估计刺激与准备、热身、正式组及相应休息总时间比较的指标，是依赖情境的效率启发。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+      "lessonIds": [
+        "compare-exercises"
+      ]
+    },
+    {
+      "id": "sftr",
+      "term": "刺激—疲劳—时间比",
+      "aliases": [
+        "SFTR"
+      ],
+      "definition": "综合考虑估计刺激、疲劳和时间成本的动作选择视角，并非标准化生理测量。",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+      "lessonIds": [
+        "compare-exercises"
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "id": "hypertrophy-volume",
+      "type": "volume",
+      "title": "比较训练组与总负重",
+      "lessonId": "effective-ranges",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Volume As it Relates to Tension and ROM; Effective Stimulus Ranges",
+      "objective": "区分训练量记录指标与肌肥大结果。",
+      "rationale": "原书使用有效艰苦组数，并解释为何数学训练量不能单独证明增长等价。",
+      "assumptions": "仅作算术演示。输入使用一致外部重量单位与相同动作标准，不预测增长、恢复、医疗结果或个人训练。不会据此推断RIR和技术。",
+      "staticAlternative": "3组、10次、40 kg总负重为1,200 kg；5组、5次、48 kg同为1,200 kg，相等不证明相同刺激。",
+      "verification": "核对总负重 = 组数 × 次数 × kg，相对负荷 = kg ÷ 1RM kg × 100；拒绝非正1RM与非有限输入。控件范围仅为教育交互，并非安全处方。",
+      "config": {
+        "units": "kg",
+        "sets": 3,
+        "reps": 10,
+        "load": 40,
+        "oneRM": 100
+      }
+    },
+    {
+      "id": "hypertrophy-intensity",
+      "type": "intensity",
+      "title": "探索绝对与相对负荷",
+      "lessonId": "effective-ranges",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Volume As it Relates to Tension and ROM; Effective Stimulus Ranges",
+      "objective": "计算指定动作1RM的百分比，并区分其与RIR。",
+      "rationale": "原书把相对负荷和相对努力当作不同变量，二者都不能单独预测增长。",
+      "assumptions": "仅作算术演示。输入使用一致外部重量单位与相同动作标准，不预测增长、恢复、医疗结果或个人训练。不会据此推断RIR和技术。",
+      "staticAlternative": "60 kg相对100 kg的1RM是60%；同重量相对80 kg的1RM是75%。RIR仍需要单独观察。",
+      "verification": "核对总负重 = 组数 × 次数 × kg，相对负荷 = kg ÷ 1RM kg × 100；拒绝非正1RM与非有限输入。控件范围仅为教育交互，并非安全处方。",
+      "config": {
+        "units": "kg",
+        "sets": 3,
+        "reps": 10,
+        "load": 40,
+        "oneRM": 100
+      }
+    }
+  ]
+}

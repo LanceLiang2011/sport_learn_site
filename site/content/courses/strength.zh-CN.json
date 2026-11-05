@@ -1,0 +1,3334 @@
+{
+  "id": "strength",
+  "language": "zh-CN",
+  "authors": [
+    "Mike Israetel",
+    "James Hoffmann",
+    "Chad Wesley Smith"
+  ],
+  "source": {
+    "title": "Scientific Principles of Strength Training",
+    "authors": [
+      "Mike Israetel",
+      "James Hoffmann",
+      "Chad Wesley Smith"
+    ],
+    "edition": "Edition not stated in inspected title pages",
+    "format": "PDF",
+    "attribution": "Mike Israetel, James Hoffmann, Chad Wesley Smith. Scientific Principles of Strength Training. Renaissance Periodization / Juggernaut Training Systems. 保留来源语言的书目信息。"
+  },
+  "chapters": [
+    {
+      "id": "foundations",
+      "title": "01 · 训练的基本语言",
+      "objectives": [
+        "区分负荷、努力程度、训练量与频率。",
+        "理解训练课、小周期、训练阶段与大周期的关系。",
+        "区分一般力量与专项表现。"
+      ],
+      "lessons": [
+        {
+          "id": "training-variables",
+          "title": "负荷、努力程度与功",
+          "summary": "负荷与努力程度是不同变量。",
+          "sections": [
+            {
+              "id": "training-variables-1",
+              "title": "三个数字，三种含义",
+              "markdown": "本书用 **intensity（强度）** 表示外部阻力，通常记录为杠铃上的 kg 或 lb；用 **relative intensity（相对强度）** 表示接近向心力竭的程度。这与把一次最大重复重量百分比称为“相对强度”的惯例不同。训练日志必须说明所用定义。保留多次重复余量的大重量单次，可以比接近力竭的轻重量一组负荷更高、努力程度更低。\n\n[频率](term:frequency) 是规定时间内的训练次数。“每周三练”没有说明动作、难度或分布。动作选择要指出具体运动；只写“练腿”不能重现训练安排。",
+              "source": "Scientific Principles of Strength Training, pp. 12–14 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "training-variables-2",
+              "title": "训练量是一种比较工具",
+              "markdown": "对同一人的同一动作，本书用负荷训练量作为方便的近似指标：\n\n**负荷训练量 = 组数 × 每组次数 × 负重（kg·次）。**\n\n这不是以焦耳计的机械功。机械功还需要位移与力；千克是质量单位，而不是力的单位。4 × 5 × 100 kg 对应 2,000 kg·次。动作幅度、动作种类、器械杠杆或训练者改变时，这个数的意义也改变。因此弯举与硬拉的吨位相同，不等于刺激或疲劳相同。记录训练量时还应记录动作、幅度、努力程度和休息，并在可比条件下比较。",
+              "source": "Scientific Principles of Strength Training, pp. 12–14 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "负荷与努力程度是不同变量。",
+            "负荷训练量省略位移，主要适合同类动作比较。"
+          ],
+          "interactionIds": [
+            "strength-volume"
+          ]
+        },
+        {
+          "id": "training-timescales",
+          "title": "从训练课到大周期",
+          "summary": "计划单位由训练目的定义。",
+          "sections": [
+            {
+              "id": "training-timescales-1",
+              "title": "嵌套的计划单位",
+              "markdown": "一堂训练课是有起止的一次训练。小周期覆盖同类训练课再次出现前的完整安排，通常是一周，但不必固定七天。累积期由难度逐渐增加的小周期组成。减量期是明显降低训练负担的小周期，目的是降低疲劳并保留适应。\n\n中周期围绕明确适应组织多个小周期，常由累积期与减量期组成。训练阶段把一个或多个目的相近的中周期组合起来。大周期则排列不同阶段，服务于更大目标，通常以比赛为节点。这些单位由功能定义，不能只看日历长度。",
+              "source": "Scientific Principles of Strength Training, pp. 14–18 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "training-timescales-2",
+              "title": "训练与营养是不同维度",
+              "markdown": "肌肥大、基础力量和巅峰表现指训练目标；增重、维持与减脂指体重或营养目标。它们互相影响，却不是同义词。肌肥大型训练阶段也可以在减脂时用于保留肌肉；维持热量的饮食可配合不同训练目标。\n\n一个说明性的顺序是：发展肌肉 → 发展力量 → 巅峰期 → 比赛 → 积极休息。积极休息没有累积期。3:1 的累积与减量比例表示三个时间单位累积、一个时间单位减量，并不要求所有人都用四周的“训练月”。各阶段长度要同时符合恢复能力和比赛日程。",
+              "source": "Scientific Principles of Strength Training, pp. 14–18 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "timescale-map",
+              "title": "计划与测量对照图",
+              "markdown": "| 量 | 应记录内容 | 常见错误推断 |\n|---|---|---|\n| 外部负荷 | kg 或 lb，包含杠铃杆 | 杠铃更重就必然更困难 |\n| 接近力竭程度 | 指定条件下还可完成的次数 | 相同 1RM 百分比意味着相同努力 |\n| 负荷训练量 | 组数 × 次数 × kg | 不同动作吨位相同就适应相同 |\n| 频率 | 指定时间内的课次 | 课次更多，周工作量就必然更多 |\n| 小周期 | 同类课模式的再次出现 | 每个小周期都必须七天 |\n| 阶段目标 | 发展目标与保留目标 | 营养与训练阶段名称可互换 |\n\n假设训练者先记录 100 kg × 8，保留两次余量；之后在相同余量和幅度下完成 102.5 kg × 8，这样可以解释为负荷进阶。如果第二组缩短幅度或做到力竭，就同时改变了多个变量，比较前应记录差异。测量的目的在于保留比较的意义，而不只是收集更大数字。",
+              "source": "Scientific Principles of Strength Training, pp. 12–20 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "计划单位由训练目的定义。",
+            "营养阶段不能与训练阶段混为一谈。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "strength-mobility",
+          "title": "能力、技术与活动能力",
+          "summary": "专项表现受限制环节制约。",
+          "sections": [
+            {
+              "id": "strength-mobility-1",
+              "title": "一般能力与限制环节",
+              "markdown": "力量是产生最大力的能力。专项力量是在具体动作及其约束下表现出来的力量。若架上硬拉能锁定 250 kg，但从地面只能拉起 200 kg，则完整硬拉受限于 200 kg。局部幅度能力不能证明全程比赛动作能力。\n\n技术通过组织姿势与运动有效利用已有力量。身体比例会影响可用姿势，但个体化不能免除比赛规则和动作控制的要求。练习应针对真正的限制环节，而不是只训练最强的一段。",
+              "source": "Scientific Principles of Strength Training, pp. 17–20 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "strength-mobility-2",
+              "title": "活动能力不只是拉伸",
+              "markdown": "本书把活动能力定义为柔韧性、力量和技术的交集。柔韧性允许某个运动幅度，力量支撑姿势，技术让人知道并协调如何使用它们。一个人徒手能蹲到深度，却在可控负荷下无法维持姿势，问题不一定只在柔韧性。\n\n先判断缺失姿势是“达不到”“撑不住”，还是“尚未学会”，再考虑干预。这个区分是概念模型，不是诊断。稳态指维持内部环境相对稳定的过程，也连接了后续章节：训练打破稳态，恢复与适应对此作出反应。",
+              "source": "Scientific Principles of Strength Training, pp. 17–20 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "专项表现受限制环节制约。",
+            "活动能力综合了幅度、支撑和协调。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "foundations-q1",
+          "objective": "区分外部负荷与接近力竭程度。",
+          "prompt": "150 kg 单次还保留数次余量；100 kg 一组达到力竭。按本书定义，可得出什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "单次绝对强度更高，较轻那组相对强度更高。",
+              "explanation": "绝对强度指外部负荷；本书相对强度指接近力竭程度。难度不会改变公斤数，两种指标不必一致。"
+            },
+            {
+              "id": "o2",
+              "text": "较轻那组更困难，所以绝对强度更高。",
+              "explanation": "绝对强度指外部负荷；本书相对强度指接近力竭程度。难度不会改变公斤数，两种指标不必一致。"
+            },
+            {
+              "id": "o3",
+              "text": "两种强度指标必然相同。",
+              "explanation": "绝对强度指外部负荷；本书相对强度指接近力竭程度。难度不会改变公斤数，两种指标不必一致。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "绝对强度指外部负荷；本书相对强度指接近力竭程度。难度不会改变公斤数，两种指标不必一致。",
+          "source": "Scientific Principles of Strength Training, pp. 12–14 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "training-variables"
+        },
+        {
+          "id": "foundations-q2",
+          "objective": "用正确因子和单位计算负荷训练量。",
+          "prompt": "5 组、每组 4 次、80 kg 的负荷训练量近似值是多少？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "1,600 kg·次",
+              "explanation": "5 × 4 × 80 = 1,600。焦耳需要力与位移；320 漏掉了五组。"
+            },
+            {
+              "id": "o2",
+              "text": "400 焦耳",
+              "explanation": "5 × 4 × 80 = 1,600。焦耳需要力与位移；320 漏掉了五组。"
+            },
+            {
+              "id": "o3",
+              "text": "320 kg·次",
+              "explanation": "5 × 4 × 80 = 1,600。焦耳需要力与位移；320 漏掉了五组。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "5 × 4 × 80 = 1,600。焦耳需要力与位移；320 漏掉了五组。",
+          "source": "Scientific Principles of Strength Training, pp. 12–14 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "training-variables"
+        },
+        {
+          "id": "foundations-q3",
+          "objective": "理解小周期、阶段、大周期与积极休息。",
+          "prompt": "哪些关于计划单位的说法正确？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "小周期常是一周，但不必如此。",
+              "explanation": "功能定义单位。阶段组合相关中周期，大周期排列阶段；积极休息有意不设累积期。"
+            },
+            {
+              "id": "o2",
+              "text": "阶段可含多个共同目的的中周期。",
+              "explanation": "功能定义单位。阶段组合相关中周期，大周期排列阶段；积极休息有意不设累积期。"
+            },
+            {
+              "id": "o3",
+              "text": "每个积极休息阶段都必须有渐进累积。",
+              "explanation": "功能定义单位。阶段组合相关中周期，大周期排列阶段；积极休息有意不设累积期。"
+            },
+            {
+              "id": "o4",
+              "text": "大周期可围绕比赛安排。",
+              "explanation": "功能定义单位。阶段组合相关中周期，大周期排列阶段；积极休息有意不设累积期。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o4"
+          ],
+          "explanation": "功能定义单位。阶段组合相关中周期，大周期排列阶段；积极休息有意不设累积期。",
+          "source": "Scientific Principles of Strength Training, pp. 14–18 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "training-timescales"
+        },
+        {
+          "id": "foundations-q4",
+          "objective": "把活动能力作为幅度、力量与协调综合评价。",
+          "prompt": "训练者徒手能维持深蹲深度，适中负荷下却失去姿势。最合理的初步解释是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "除幅度外，也检查力量和协调。",
+              "explanation": "活动能力整合幅度、力量与技术。徒手姿势既不能证明仅缺柔韧性，也不能证明负重控制足够。"
+            },
+            {
+              "id": "o2",
+              "text": "假定被动拉伸越多越能解决。",
+              "explanation": "活动能力整合幅度、力量与技术。徒手姿势既不能证明仅缺柔韧性，也不能证明负重控制足够。"
+            },
+            {
+              "id": "o3",
+              "text": "徒手能到深度就说明活动能力完美。",
+              "explanation": "活动能力整合幅度、力量与技术。徒手姿势既不能证明仅缺柔韧性，也不能证明负重控制足够。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "活动能力整合幅度、力量与技术。徒手姿势既不能证明仅缺柔韧性，也不能证明负重控制足够。",
+          "source": "Scientific Principles of Strength Training, pp. 17–20 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "strength-mobility"
+        },
+        {
+          "id": "foundations-q5",
+          "objective": "识别完整动作中的限制环节。",
+          "prompt": "训练者架上能锁定 250 kg，从地面只能拉起 200 kg。什么决定完整硬拉表现？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "满足任务规则的完整幅度成功动作。",
+              "explanation": "限制环节约束完整任务。局部能力提供信息，但不能替代全程结果；取平均没有专项依据。"
+            },
+            {
+              "id": "o2",
+              "text": "单独最强的局部环节。",
+              "explanation": "限制环节约束完整任务。局部能力提供信息，但不能替代全程结果；取平均没有专项依据。"
+            },
+            {
+              "id": "o3",
+              "text": "局部与全程重量的平均值。",
+              "explanation": "限制环节约束完整任务。局部能力提供信息，但不能替代全程结果；取平均没有专项依据。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "限制环节约束完整任务。局部能力提供信息，但不能替代全程结果；取平均没有专项依据。",
+          "source": "Scientific Principles of Strength Training, pp. 17–20 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "strength-mobility"
+        }
+      ]
+    },
+    {
+      "id": "principles",
+      "title": "02 · 原则也是优先级",
+      "objectives": [
+        "解释七项原则的优先顺序。",
+        "依据机制而不是名称评价训练计划。"
+      ],
+      "lessons": [
+        {
+          "id": "priority-framework",
+          "title": "训练决策框架",
+          "summary": "先解决基础问题，再精细调整。",
+          "sections": [
+            {
+              "id": "priority-framework-1",
+              "title": "七项原则",
+              "markdown": "作者的排序为：**专项性 → 超负荷 → 疲劳管理 → 刺激—恢复—适应 → 变化 → 阶段促进 → 个体差异**。这是训练决策框架，不是各原则贡献百分比的实测结果。专项性决定什么适应值得追求；超负荷提供有效刺激；疲劳管理让有效训练能够反复进行；后面几项则进一步优化训练时机、形式与个体匹配。\n\n不同动作、频率或进阶规则的计划，都可能遵循相同原则。本书提供的是推理方法，而不是一个专有固定方案。",
+              "source": "Scientific Principles of Strength Training, pp. 8–11, 21–25 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "priority-framework-2",
+              "title": "按顺序检查",
+              "markdown": "假设一个卧推计划每周都精心更换动作，却没有足够的推举训练，也没有进阶。改进轮换方式不能弥补相关刺激缺失。应先问计划是否训练了目标所需肌群与技能，再问刺激是否足够并随时间发展，随后判断训练负担能否恢复。\n\n这些问题得到回答后，才应把重点放在频率、变化与阶段细节上。这个顺序避免小调整掩盖大问题。原则也互相约束：若增加超负荷破坏了恢复，就不是越多越好；全年保持最高专项性，也可能妨碍肌肉和一般力量的发展。",
+              "source": "Scientific Principles of Strength Training, pp. 8–11, 21–25 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "principle-decision-map",
+              "title": "为什么顺序重要",
+              "markdown": "| 优先级 | 核心问题 | 后一原则不能修复什么 |\n|---|---|---|\n| 专项性 | 是否训练所需系统？ | 跑步即使持续进阶，也不会自动变成专项深蹲 |\n| 超负荷 | 是否有足够且渐进的刺激？ | 休息不能创造缺失的刺激 |\n| 疲劳管理 | 高要求工作能否持续有效？ | 理想频率不能挽救无限过量要求 |\n| SRA | 刺激大小和间隔是否合理？ | 动作新奇不能修复所有日程问题 |\n| 变化 | 刺激是否仍有效且目标明确？ | 阶段名称不保证变式相关 |\n| 阶段促进 | 前期工作是否支持后期？ | 个体化不能逆转缺失的准备阶段 |\n| 个体差异 | 剂量和细节怎样匹配此人？ | 称作个人计划不代表免于其他原则 |\n\n前三项构成作者的核心可行框架：专项性给方向，超负荷提供适应机会，疲劳管理使过程能够重复。SRA 排序较后，是因为基础到位时，多种合理日程都可能有效。变化能优化已有进步的计划，但改变仍要专项且足够有挑战。阶段促进能改善长期组织，却不是每个初学者短期进步的必要条件。个体差异很重要，但多数调整是在共同机制内修改，而非替换机制。\n\n**应用：** 假设某运动员动作轮换精巧，却相关工作过少，应先检查剂量。若剂量相关且充足，但表现反复崩溃，则检查可恢复性。两者都合理后，再研究课间分布和长期刺激停滞。这是有顺序的调查，并不声称每次平台期都只有单一原因。",
+              "source": "Scientific Principles of Strength Training, pp. 21–25, 42–43, 74–75, 121–122, 207–208, 255, 286–288, 316–318 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "先解决基础问题，再精细调整。",
+            "层级用于权衡，不代表精确贡献百分比。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "principles-q1",
+          "objective": "在精细调整前优先提供相关且充分的刺激。",
+          "prompt": "一个计划变化复杂，却几乎没有相关负荷。应先修正什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "相关动作暴露与足够超负荷。",
+              "explanation": "专项性与超负荷优先于细化。辅助顺序和减量细节不能替代缺失的刺激。"
+            },
+            {
+              "id": "o2",
+              "text": "三个辅助动作的精确顺序。",
+              "explanation": "专项性与超负荷优先于细化。辅助顺序和减量细节不能替代缺失的刺激。"
+            },
+            {
+              "id": "o3",
+              "text": "更复杂的减量分类。",
+              "explanation": "专项性与超负荷优先于细化。辅助顺序和减量细节不能替代缺失的刺激。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "专项性与超负荷优先于细化。辅助顺序和减量细节不能替代缺失的刺激。",
+          "source": "Scientific Principles of Strength Training, pp. 8–11, 21–25 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "priority-framework"
+        },
+        {
+          "id": "principles-q2",
+          "objective": "把原则层级理解为定性框架。",
+          "prompt": "原则层级图能说明什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "作者处理权衡的优先框架。",
+              "explanation": "排序是概念性的。较低原则能优化合理计划，但图示没有量化因果贡献。"
+            },
+            {
+              "id": "o2",
+              "text": "每个原则造成表现的精确实测百分比。",
+              "explanation": "排序是概念性的。较低原则能优化合理计划，但图示没有量化因果贡献。"
+            },
+            {
+              "id": "o3",
+              "text": "可以忽视全部较低原则。",
+              "explanation": "排序是概念性的。较低原则能优化合理计划，但图示没有量化因果贡献。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "排序是概念性的。较低原则能优化合理计划，但图示没有量化因果贡献。",
+          "source": "Scientific Principles of Strength Training, pp. 8–11, 21–25 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "priority-framework"
+        },
+        {
+          "id": "principles-q3",
+          "objective": "解释共同原则及其相互约束。",
+          "prompt": "哪些说法符合框架？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "不同计划可以实现相同原则。",
+              "explanation": "方法可以不同，机制可以相同。破坏后续有效训练的超负荷与疲劳管理冲突。"
+            },
+            {
+              "id": "o2",
+              "text": "专项性决定重要的适应方向。",
+              "explanation": "方法可以不同，机制可以相同。破坏后续有效训练的超负荷与疲劳管理冲突。"
+            },
+            {
+              "id": "o3",
+              "text": "更大超负荷永远优先于恢复。",
+              "explanation": "方法可以不同，机制可以相同。破坏后续有效训练的超负荷与疲劳管理冲突。"
+            },
+            {
+              "id": "o4",
+              "text": "各原则会互相约束。",
+              "explanation": "方法可以不同，机制可以相同。破坏后续有效训练的超负荷与疲劳管理冲突。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o4"
+          ],
+          "explanation": "方法可以不同，机制可以相同。破坏后续有效训练的超负荷与疲劳管理冲突。",
+          "source": "Scientific Principles of Strength Training, pp. 8–11, 21–25 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "priority-framework"
+        },
+        {
+          "id": "principles-q4",
+          "objective": "识别负责足够渐进刺激的原则。",
+          "prompt": "哪项原则处理足够且渐进的刺激？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "超负荷",
+              "explanation": "超负荷提供刺激。阶段顺序与个体调整组织其应用，却不能取代它。"
+            },
+            {
+              "id": "o2",
+              "text": "只有阶段促进",
+              "explanation": "超负荷提供刺激。阶段顺序与个体调整组织其应用，却不能取代它。"
+            },
+            {
+              "id": "o3",
+              "text": "只有个体差异",
+              "explanation": "超负荷提供刺激。阶段顺序与个体调整组织其应用，却不能取代它。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "超负荷提供刺激。阶段顺序与个体调整组织其应用，却不能取代它。",
+          "source": "Scientific Principles of Strength Training, pp. 8–11, 21–25 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "priority-framework"
+        },
+        {
+          "id": "principles-q5",
+          "objective": "评价实际编程而不是计划名称。",
+          "prompt": "两个计划名称不同，但相关剂量、进阶与恢复相近。最合理的评价是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "比较实际原则与观察结果。",
+              "explanation": "名称不会引发适应。实际训练与结果提供证据；标签本身既不能证明优越，也不能证明机制不同。"
+            },
+            {
+              "id": "o2",
+              "text": "更有名的必然更好。",
+              "explanation": "名称不会引发适应。实际训练与结果提供证据；标签本身既不能证明优越，也不能证明机制不同。"
+            },
+            {
+              "id": "o3",
+              "text": "名称不同证明生理机制不同。",
+              "explanation": "名称不会引发适应。实际训练与结果提供证据；标签本身既不能证明优越，也不能证明机制不同。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "名称不会引发适应。实际训练与结果提供证据；标签本身既不能证明优越，也不能证明机制不同。",
+          "source": "Scientific Principles of Strength Training, pp. 8–11, 21–25 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "priority-framework"
+        }
+      ]
+    },
+    {
+      "id": "specificity",
+      "title": "03 · 专项性与迁移",
+      "objectives": [
+        "区分广义与狭义专项性。",
+        "识别训练兼容性与定向适应的权衡。",
+        "选择服务于明确需求的辅助动作。"
+      ],
+      "lessons": [
+        {
+          "id": "specificity-spectrum",
+          "title": "训练迁移的连续谱",
+          "summary": "专项性是连续谱，不等于外形模仿。",
+          "sections": [
+            {
+              "id": "specificity-spectrum-1",
+              "title": "从肌肉到比赛动作",
+              "markdown": "专项性指训练目标任务所依赖的系统。增加深蹲相关肌群的体积属于广义专项；提高其产力能力更狭窄；在接近比赛的负荷下完成合规深蹲，则更狭窄。辅助动作不必外观完全相同，但应能说明它如何迁移到目标。\n\n原书的专项性树把肌肉发展连接到多个运动。共享基础能力不等于不同运动完全相同。若目标是最大化力量举总成绩，越接近比赛就越应强调真正的深蹲、卧推与硬拉；较早阶段则可以更多发展其基础能力。",
+              "source": "Scientific Principles of Strength Training, pp. 26–43 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "specificity-spectrum-2",
+              "title": "兼容性也是资源问题",
+              "markdown": "本书讨论力量与耐力、柔韧性、功率、肌肥大以及专项力量之间的关系。不同训练既可能相互支持，也可能争夺时间、可恢复训练量，以及下一堂课所需的生理状态。作者最强烈的批评，针对的是把最大力量举成绩作为唯一目标时仍投入大量耐力训练；这不意味着所有心肺活动都有害。\n\n力量强调高产力，功率则结合力与速度。举起时尽力加速，不代表接近极限的杠铃会快速运动。柔韧性应满足所需姿势，而额外练习需证明其时间和恢复成本值得。这些是目标相关的权衡，不是运动价值的普遍排名。",
+              "source": "Scientific Principles of Strength Training, pp. 26–43 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "compatibility-map",
+              "title": "迁移与干扰机制图",
+              "markdown": "| 组合 | 可能支持 | 来源讨论的可能冲突 |\n|---|---|---|\n| 力量 + 耐力 | 足够一般适能帮助耐受训练 | 大量额外工作、疲劳及竞争性适应 |\n| 力量 + 柔韧性 | 获得所需姿势 | 不必要幅度训练占时间，急性效应取决于剂量时机 |\n| 力量 + 功率 | 共享高产力意图 | 过轻的速度重点可能缺少目标产力刺激 |\n| 力量 + 肌肥大 | 更多肌肉支持后续产力 | 高量疲劳可能损害眼前大重量执行 |\n| 一般 + 专项力量 | 一般能力支持比赛动作 | 极限表达需要更精确技能和更低疲劳 |\n\n作者从肌肉结构、结缔组织受力方向与神经协调解释比赛专项性增加。肌内运动单位、肌群间贡献及完整动作的时序，都可能在不同变式间变化。实践结论是提前转向真实比赛技术、留出适应时间，而不是在最后几周最重训练时才发现差别。\n\n例如，触胸即推的卧推表现不能证明暂停卧推能力。用前者安排后者，可能高估可完成次数。同样，硬拉取消助力带也改变约束。来源把外部训练的情境分为四维：训练量、冲击或扰动、方式和时机。少量独立爱好不同于重训练前的大量活动。一般身体准备（GPP）也应与运动相关：它准备后续专项训练所需能力，而不只是制造耗竭。",
+              "source": "Scientific Principles of Strength Training, pp. 29–57 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "专项性是连续谱，不等于外形模仿。",
+            "同时评估迁移价值与恢复成本。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "directed-adaptation",
+          "title": "让适应有时间形成",
+          "summary": "主导重点可以与适度变化并存。",
+          "sections": [
+            {
+              "id": "directed-adaptation-1",
+              "title": "集中的训练重点",
+              "markdown": "定向适应要求持续安排相近刺激，使某种能力得以发展并保留。偶尔接触一个次数区间，不能替代连续数周有组织的练习。作者认为，在冲突目标间频繁转换，会削弱某一目标的最佳发展。这支持设置主导重点，并不禁止周内所有变化。\n\n例如，基础力量阶段可以有适度的次数差异，但主要目的保持稳定。辅助动作应针对某个肌群、动作或技术需求，连续使用足够时间以观察反应。每堂课都换动作，会难以区分学习效应和稳定进步。",
+              "source": "Scientific Principles of Strength Training, pp. 40–57 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "directed-adaptation-2",
+              "title": "在合适时机使用工具",
+              "markdown": "大周期早期，薄弱肌群可能值得投入较多辅助训练；临近比赛时，同样的训练却可能占用比赛动作需要的恢复资源。练习比赛标准也包括规定幅度与受控执行；动作重量更大却不再合规，不能证明比赛能力提高。\n\n本书反对只是让人疲劳、却缺少明确方向的一般准备。训练应发展必要能力、解决真实限制，或服务于另一个明确重视的目标。若还重视另一项运动，就应承认目标是混合的，而不是声称该计划只为最大化力量举。",
+              "source": "Scientific Principles of Strength Training, pp. 40–57 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "主导重点可以与适度变化并存。",
+            "辅助训练要符合需求与阶段。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "specificity-errors",
+          "title": "专项性不足与过度",
+          "summary": "全年保持临赛状态可能挤占长期发展。",
+          "sections": [
+            {
+              "id": "specificity-errors-1",
+              "title": "为什么不全年练极限单次？",
+              "markdown": "始终用接近比赛的大重量训练，有助于随时展示力量，却可能使可持续训练量不足，妨碍肌肉和一般力量的发展。作者还指出动作僵化与全年保持临赛状态的机会成本。需要展示表现时，高专项性很重要，但它并非唯一有价值的训练状态。\n\n另一极端是只因“不同”而选择动作，这可能没有迁移价值。定向变化处于两者之间：前蹲可以强调股四头肌，窄握推举可以增加肱三头肌贡献，但前提是执行方式确实保留这种重点。如果变式又回到原先的主导模式，其目的就可能落空。",
+              "source": "Scientific Principles of Strength Training, pp. 58–71 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "specificity-errors-2",
+              "title": "实用的迁移检查",
+              "markdown": "为每个动作写下四点：目标能力、预期迁移、当前阶段和代价。例如：“发展膝伸肌能力；支持深蹲；一般准备早期；增加适量腿部训练，同时监控躯干疲劳。”具体剂量与结果仍需观察；这是一项可检验的理由，不是已经证明的效果。\n\n本章延伸阅读涉及训练迁移、区域性肌肥大、同期训练、疲劳和拉伸。这些来源服务于概念讨论；课程不声称已经独立核验所有被引研究或重现其结果。原书图示通过文字解释，不直接再版。",
+              "source": "Scientific Principles of Strength Training, pp. 58–71 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "全年保持临赛状态可能挤占长期发展。",
+            "说明每个变式的迁移机制。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "specificity-q1",
+          "objective": "通过支持能力解释广义专项性。",
+          "prompt": "为什么增肌动作不必外形等同比赛动作，也可以具有力量举专项性？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "它发展了可迁移的基础能力。",
+              "explanation": "专项性是连续谱。相关肌肉发展可以迁移，但迁移程度不同，并非所有动作相等。"
+            },
+            {
+              "id": "o2",
+              "text": "所有动作专项性相同。",
+              "explanation": "专项性是连续谱。相关肌肉发展可以迁移，但迁移程度不同，并非所有动作相等。"
+            },
+            {
+              "id": "o3",
+              "text": "只有比赛单次能产生有用适应。",
+              "explanation": "专项性是连续谱。相关肌肉发展可以迁移，但迁移程度不同，并非所有动作相等。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "专项性是连续谱。相关肌肉发展可以迁移，但迁移程度不同，并非所有动作相等。",
+          "source": "Scientific Principles of Strength Training, pp. 26–43 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "specificity-spectrum"
+        },
+        {
+          "id": "specificity-q2",
+          "objective": "用持续主导重点实现定向适应。",
+          "prompt": "训练者每堂课换主目标，无法评估进步。哪个改变最符合定向适应？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "维持一致的主导重点，持续到能观察适应。",
+              "explanation": "持续性促进并检验适应，但不要求永久僵化；每日新奇可能妨碍可解释进阶。"
+            },
+            {
+              "id": "o2",
+              "text": "永远删除所有变化。",
+              "explanation": "持续性促进并检验适应，但不要求永久僵化；每日新奇可能妨碍可解释进阶。"
+            },
+            {
+              "id": "o3",
+              "text": "每天选陌生新动作。",
+              "explanation": "持续性促进并检验适应，但不要求永久僵化；每日新奇可能妨碍可解释进阶。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "持续性促进并检验适应，但不要求永久僵化；每日新奇可能妨碍可解释进阶。",
+          "source": "Scientific Principles of Strength Training, pp. 40–57 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "directed-adaptation"
+        },
+        {
+          "id": "specificity-q3",
+          "objective": "评价全年极限单次的机会成本。",
+          "prompt": "为什么全年极限比赛单次可能限制长期发展？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "可能挤占肌肉和一般力量所需的可持续训练量。",
+              "explanation": "极重单次很专项但代价较高。问题在机会成本与可持续发展，不是缺少迁移。"
+            },
+            {
+              "id": "o2",
+              "text": "它们从不具有力量举专项性。",
+              "explanation": "极重单次很专项但代价较高。问题在机会成本与可持续发展，不是缺少迁移。"
+            },
+            {
+              "id": "o3",
+              "text": "它们没有疲劳成本。",
+              "explanation": "极重单次很专项但代价较高。问题在机会成本与可持续发展，不是缺少迁移。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "极重单次很专项但代价较高。问题在机会成本与可持续发展，不是缺少迁移。",
+          "source": "Scientific Principles of Strength Training, pp. 58–71 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "specificity-errors"
+        },
+        {
+          "id": "specificity-q4",
+          "objective": "根据剂量、目标与恢复成本评价外部训练。",
+          "prompt": "评价额外耐力活动应考虑哪些因素？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "对可恢复力量训练量的影响。",
+              "explanation": "兼容性取决于目标与剂量。来源批评大量冲突投入，而不是所有心肺接触。"
+            },
+            {
+              "id": "o2",
+              "text": "训练者真实目标组合。",
+              "explanation": "兼容性取决于目标与剂量。来源批评大量冲突投入，而不是所有心肺接触。"
+            },
+            {
+              "id": "o3",
+              "text": "时间与疲劳成本。",
+              "explanation": "兼容性取决于目标与剂量。来源批评大量冲突投入，而不是所有心肺接触。"
+            },
+            {
+              "id": "o4",
+              "text": "任何心肺活动自动有害的规则。",
+              "explanation": "兼容性取决于目标与剂量。来源批评大量冲突投入，而不是所有心肺接触。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o3"
+          ],
+          "explanation": "兼容性取决于目标与剂量。来源批评大量冲突投入，而不是所有心肺接触。",
+          "source": "Scientific Principles of Strength Training, pp. 26–43 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "specificity-spectrum"
+        },
+        {
+          "id": "specificity-q5",
+          "objective": "检查变式执行是否保留预期重点。",
+          "prompt": "原想强调股四头肌的前蹲，执行时却复制比赛深蹲的髋主导模式。应检查什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "该变式是否仍产生目标重点。",
+              "explanation": "执行决定要求。名称不保证定向变化，无关工作也不能修复机制缺失。"
+            },
+            {
+              "id": "o2",
+              "text": "只看它是否叫前蹲。",
+              "explanation": "执行决定要求。名称不保证定向变化，无关工作也不能修复机制缺失。"
+            },
+            {
+              "id": "o3",
+              "text": "能否增加无关动作掩盖失配。",
+              "explanation": "执行决定要求。名称不保证定向变化，无关工作也不能修复机制缺失。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "执行决定要求。名称不保证定向变化，无关工作也不能修复机制缺失。",
+          "source": "Scientific Principles of Strength Training, pp. 58–71 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "specificity-errors"
+        }
+      ]
+    },
+    {
+      "id": "overload",
+      "title": "04 · 超负荷而非无节制加码",
+      "objectives": [
+        "应用刺激阈值与渐进两个条件。",
+        "让刺激符合肌肥大、力量或巅峰期目标。",
+        "识别力竭和随机训练量暴增如何降低有效训练。"
+      ],
+      "lessons": [
+        {
+          "id": "overload-conditions",
+          "title": "当下足够，长期渐进",
+          "summary": "超负荷兼有足够刺激和长期渐进。",
+          "sections": [
+            {
+              "id": "overload-conditions-1",
+              "title": "两个条件",
+              "markdown": "本书的超负荷有两个部分：刺激要足够具有挑战，能够引发有意义的适应；随着适应出现，平均要求要超过近期经验。新颖负荷未必与目标相关，相关负荷也可能随时间变得过于容易。因此专项性优先于超负荷。\n\n进阶可以增加重量、次数、组数或其组合，但要保留预期训练效应。比较窗口应长于相邻两堂课。轻训练和减量与渐进超负荷并不矛盾，因为它们让后续有效训练成为可能。要求每堂课创造纪录，是把局部难度与可持续进阶混为一谈。",
+              "source": "Scientific Principles of Strength Training, pp. 72–78 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "overload-conditions-2",
+              "title": "最大可恢复训练量取决于情境",
+              "markdown": "最大可恢复训练量（MRV）是训练者能够充分恢复并获益的最高训练负担。它是变化中的估计，而不是由体重算出的固定数值。动作、负荷、接近力竭程度、饮食、睡眠与比较时间尺度都影响它。若目标是最大化成绩，作者提倡靠近这一边界训练，同时承认超过边界会增加成本，却没有相称收益。\n\n在重复训练中跟踪标准化表现，并结合恢复情境解释。同等条件下可完成次数持续下降，可能提示剂量过大，但一堂状态差的课并不能精确测出 MRV。应记录条件、观察模式，再判断是否存在稳定限制。",
+              "source": "Scientific Principles of Strength Training, pp. 72–78 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "超负荷兼有足够刺激和长期渐进。",
+            "MRV 随训练者与情境改变。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "goal-specific-overload",
+          "title": "不同目标，不同超负荷",
+          "summary": "来源中的负荷区间是情境化训练建议。",
+          "sections": [
+            {
+              "id": "goal-specific-overload-1",
+              "title": "理解本书的负荷区间",
+              "markdown": "作者的实践框架采用约 60% 1RM 及以上进行力量举导向的肌肥大训练，约 75% 及以上发展基础力量，超过 85% 进行近极限技术练习。这些是来源中的训练建议，不是普遍生物学分界线。原书认为较轻训练大多不适合肌肥大的主张，不应被推广为适用于所有抗阻训练的绝对规则。\n\n在该框架内，肌肥大强调足够而可恢复的训练量；力量强调中等训练量下的高产力暴露；巅峰期强调低训练量的大重量合规动作练习。阶段目标决定哪个变量应优先。",
+              "source": "Scientific Principles of Strength Training, pp. 78–86 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "goal-specific-overload-2",
+              "title": "一个数值比较",
+              "markdown": "一个原创算例：4 × 8 × 100 kg = 3,200 kg·次；3 × 5 × 110 kg = 1,650 kg·次。第二堂课重量更大，但负荷训练量更低。它可能适合向力量阶段过渡，却不能只因杠铃更重就称为训练量增加。\n\n巅峰期中，由于产力余量很小，准备、出杠或躯干支撑的小误差会更关键。大重量练习提供轻重量不能完全复制的任务信息，但其疲劳成本也限制了总量。最后的赛前减量有意降低超负荷，此时的直接目标转为保留能力并消除疲劳。",
+              "source": "Scientific Principles of Strength Training, pp. 78–86 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "来源中的负荷区间是情境化训练建议。",
+            "重量更大的训练课也可能训练量更低。"
+          ],
+          "interactionIds": [
+            "strength-intensity"
+          ]
+        },
+        {
+          "id": "overload-errors",
+          "title": "力竭、速度训练与负担暴增",
+          "summary": "根据完整训练序列评价超负荷。",
+          "sections": [
+            {
+              "id": "overload-errors-1",
+              "title": "刺激与代价并不相同",
+              "markdown": "作者质疑始终达不到足够力量或肌肥大刺激的速度训练。杠铃移动快，不代表对每个目标都产生了足够超负荷。辅助动作同样要对目标能力具有足够挑战；只为逃避努力而选容易动作，会削弱计划。应记录可比条件下反复出现的最好表现，而不是依靠记忆。\n\n另一极端是每个大重量组都做到力竭，这可能带来不成比例的疲劳和不稳定执行。本书对力量举通常更倾向于接近而不达到力竭的高挑战训练。努力程度增加可能提升即时刺激，却降低以后能够重复完成的有效工作。",
+              "source": "Scientific Principles of Strength Training, pp. 86–103 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "overload-errors-2",
+              "title": "保护下一次训练",
+              "markdown": "一次临时加码的挑战日，可能远超原定剂量，使下一周变成纯恢复而不是训练。首堂课确有刺激，但收益存在上限，干扰后续训练的成本却可能继续。应比较完整训练序列，而不只是看某一堂课多么惊人。\n\n可问：增加是否经过计划？是否服务于当前目标？下一堂训练仍能完成其目的么？进阶是否依据实际反应？心理投入很重要，但疲劳或疼痛都不应被视为有效超负荷的证明。后续章节将解释计划恢复如何支持持续进阶。",
+              "source": "Scientific Principles of Strength Training, pp. 86–103 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "overload-decision-map",
+              "title": "让进阶可以解释",
+              "markdown": "| 观察 | 先问什么 | 为什么重要 |\n|---|---|---|\n| 杠铃增重但组次下降 | 负荷训练量真的增加了吗？ | 刺激变化可能服务于另一阶段 |\n| 极轻重量快速重复 | 目标产力或肌肉刺激足够吗？ | 最大意图不等于低负荷速度训练 |\n| 更难的辅助动作 | 是否在可恢复剂量内挑战有用能力？ | 更大全身扰动本身不是目标 |\n| 临时纪录训练 | 接下来计划课还能有效吗？ | 单课收益可能损失后续机会 |\n| 声称新的最好成绩 | 幅度、器械与努力是否可比？ | 条件不一致可能伪装成进阶 |\n\n本书为其力量举目标偏好充分的复合自由重量辅助训练，并提出杠铃、哑铃、绳索到器械的顺序。这是基于预期总体扰动的作者偏好，不是已经普遍证实的肌肥大效果排名。来源本身也允许在全身恢复受限、却需要额外局部训练时使用较低扰动的孤立动作。**目标刺激应与全身代价分开评价。**\n\n最大意图指努力施力，不要求观察到的杠铃速度快。来源认为速度日的表面收益，可能来自低要求与恢复作用，而非速度练习本身。推断特殊机制前，先确定这堂课的角色。记录实际重量、组次和执行方式，可以避免把记忆中的“最好”变成虚构进阶基准。",
+              "source": "Scientific Principles of Strength Training, pp. 78–103 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "根据完整训练序列评价超负荷。",
+            "努力要有目的，也要有可恢复的剂量。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "overload-q1",
+          "objective": "应用刺激阈值与渐进两个条件。",
+          "prompt": "本书超负荷由哪两个条件定义？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "当前足够的相关挑战，及长期超越近期要求的进阶。",
+              "explanation": "刺激阈值与渐进是两个条件。力竭、时长和新奇本身均不能证明相关性或可持续进阶。"
+            },
+            {
+              "id": "o2",
+              "text": "每组力竭，每课破纪录。",
+              "explanation": "刺激阈值与渐进是两个条件。力竭、时长和新奇本身均不能证明相关性或可持续进阶。"
+            },
+            {
+              "id": "o3",
+              "text": "新动作名称与更长训练时间。",
+              "explanation": "刺激阈值与渐进是两个条件。力竭、时长和新奇本身均不能证明相关性或可持续进阶。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "刺激阈值与渐进是两个条件。力竭、时长和新奇本身均不能证明相关性或可持续进阶。",
+          "source": "Scientific Principles of Strength Training, pp. 72–78 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "overload-conditions"
+        },
+        {
+          "id": "overload-q2",
+          "objective": "通过乘法比较训练课负荷训练量。",
+          "prompt": "4 × 8 × 100 kg 与 3 × 5 × 110 kg，哪个负荷训练量更大？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "4 × 8 × 100 kg",
+              "explanation": "3,200 大于 1,650 kg·次。更大重量和主观难度不能单独决定负荷训练量。"
+            },
+            {
+              "id": "o2",
+              "text": "3 × 5 × 110 kg",
+              "explanation": "3,200 大于 1,650 kg·次。更大重量和主观难度不能单独决定负荷训练量。"
+            },
+            {
+              "id": "o3",
+              "text": "两者都困难，因此相等。",
+              "explanation": "3,200 大于 1,650 kg·次。更大重量和主观难度不能单独决定负荷训练量。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "3,200 大于 1,650 kg·次。更大重量和主观难度不能单独决定负荷训练量。",
+          "source": "Scientific Principles of Strength Training, pp. 78–86 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "goal-specific-overload"
+        },
+        {
+          "id": "overload-q3",
+          "objective": "理解来源负荷区间而不将其普遍化。",
+          "prompt": "应如何使用来源中约 60%、75% 和 85% 的负荷参考？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "作为具有目标与局限的情境化训练区间。",
+              "explanation": "这些参考属于本书力量举框架，并非普遍分界，不能据此对所有增肌训练下绝对结论。"
+            },
+            {
+              "id": "o2",
+              "text": "作为所有人所有目标的精确生物边界。",
+              "explanation": "这些参考属于本书力量举框架，并非普遍分界，不能据此对所有增肌训练下绝对结论。"
+            },
+            {
+              "id": "o3",
+              "text": "证明更轻训练绝不可能刺激肌肉生长。",
+              "explanation": "这些参考属于本书力量举框架，并非普遍分界，不能据此对所有增肌训练下绝对结论。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "这些参考属于本书力量举框架，并非普遍分界，不能据此对所有增肌训练下绝对结论。",
+          "source": "Scientific Principles of Strength Training, pp. 78–86 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "goal-specific-overload"
+        },
+        {
+          "id": "overload-q4",
+          "objective": "识别破坏可持续超负荷的做法。",
+          "prompt": "哪些做法可能破坏有效超负荷序列？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "计划外的大幅加量。",
+              "explanation": "前三者可能使后续超负荷无法实现；计划轻训练则可能支持而非违背进阶。"
+            },
+            {
+              "id": "o2",
+              "text": "反复大重量力竭，损害后续训练。",
+              "explanation": "前三者可能使后续超负荷无法实现；计划轻训练则可能支持而非违背进阶。"
+            },
+            {
+              "id": "o3",
+              "text": "坚持每堂连续训练都更难。",
+              "explanation": "前三者可能使后续超负荷无法实现；计划轻训练则可能支持而非违背进阶。"
+            },
+            {
+              "id": "o4",
+              "text": "为下次高要求训练服务的计划轻课。",
+              "explanation": "前三者可能使后续超负荷无法实现；计划轻训练则可能支持而非违背进阶。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o3"
+          ],
+          "explanation": "前三者可能使后续超负荷无法实现；计划轻训练则可能支持而非违背进阶。",
+          "source": "Scientific Principles of Strength Training, pp. 86–103 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "overload-errors"
+        },
+        {
+          "id": "overload-q5",
+          "objective": "结合恢复情境解释 MRV 证据。",
+          "prompt": "一周睡眠不足后出现一堂差表现，对 MRV 可以推断什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "恢复情境重要，但单次结果不能确定永久上限。",
+              "explanation": "MRV 随情境变化，需要模式性证据。睡眠会影响恢复，单次课不足以确定永久数值。"
+            },
+            {
+              "id": "o2",
+              "text": "MRV 永久固定为该课训练量。",
+              "explanation": "MRV 随情境变化，需要模式性证据。睡眠会影响恢复，单次课不足以确定永久数值。"
+            },
+            {
+              "id": "o3",
+              "text": "睡眠不可能影响可恢复剂量。",
+              "explanation": "MRV 随情境变化，需要模式性证据。睡眠会影响恢复，单次课不足以确定永久数值。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "MRV 随情境变化，需要模式性证据。睡眠会影响恢复，单次课不足以确定永久数值。",
+          "source": "Scientific Principles of Strength Training, pp. 72–78 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "overload-conditions"
+        }
+      ]
+    },
+    {
+      "id": "fatigue",
+      "title": "05 · 管理疲劳",
+      "objectives": [
+        "区分来源中的四类疲劳。",
+        "理解 MRV、工作能力和恢复的关系。",
+        "区分休息、轻训练、减量与积极休息。",
+        "结合计划恢复与依据观察的调整。"
+      ],
+      "lessons": [
+        {
+          "id": "fatigue-systems",
+          "title": "能力与疲劳同时产生",
+          "summary": "疲劳涉及多种来源与时间尺度。",
+          "sections": [
+            {
+              "id": "fatigue-systems-1",
+              "title": "四个类别，多个时间尺度",
+              "markdown": "本书把累积疲劳分为能量储备、神经系统扰动、化学信号和组织结构四类。糖原支持反复高要求工作；磷酸原系统则能在组间更快恢复。神经疲劳可能影响产力、协调与学习。化学信号变化及肌肉、结缔组织损伤可能涉及更长时间尺度。\n\n这是作者的解释模型。不能仅凭疲倦感觉就识别某种神经递质缺乏或激素状态。mTOR、AMPK、睾酮和皮质醇等机制描述经过简化，不应当作居家诊断方法。实际编程更应依据表现、情境和重复观察。",
+              "source": "Scientific Principles of Strength Training, pp. 104–121 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "fatigue-systems-2",
+              "title": "过度负荷不是荣誉勋章",
+              "markdown": "来源区分正常可恢复训练、短期过度负荷与更持续的过度训练。计划性的功能性过度负荷，是有意让刺激暂时超过恢复，再通过足够轻松的训练兑现收益。睡眠不足也能造成恢复失配，但没有增加任何有用训练刺激。\n\n作者对某些过度训练类别的命名，与标准临床用法并不完全相同。课程强调可操作的区别：有计划的短暂下降并随后恢复，与长期退步不同。一堂差表现不能证明任一状态。累积疲劳最终必须降低；表现恶化时仍不断加码，会违背训练本身的目的。",
+              "source": "Scientific Principles of Strength Training, pp. 104–121 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "疲劳涉及多种来源与时间尺度。",
+            "不要根据主观疲倦推断生化诊断。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "mrv-context",
+          "title": "为什么可恢复剂量会变化",
+          "summary": "工作能力与恢复共同约束 MRV。",
+          "sections": [
+            {
+              "id": "mrv-context-1",
+              "title": "工作能力与恢复相遇",
+              "markdown": "工作能力指能够完成多少训练，恢复能力指之后恢复准备状态并产生适应的能力。MRV 同时受到两者约束。针对任务的训练适能提高，可能扩展工作能力，但睡眠不足或饮食限制仍会降低可恢复剂量。某阶段能承受的剂量，不能不加调整地搬到另一负荷区间。\n\n即使组数、次数和重量相同，接近力竭程度仍很重要。反复把每组做至力竭，可能降低可持续训练量。应同时记录实际次数、努力程度和负荷，并在生活或训练条件改变时更新 MRV 估计。",
+              "source": "Scientific Principles of Strength Training, pp. 121–142 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "mrv-context-2",
+              "title": "动作与人为什么不同",
+              "markdown": "作者讨论了动作类别、运动幅度、肌肉量、绝对力量、经验、肌纤维特点、性别相关均值和技术。总体上，他们认为硬拉比深蹲更易累积疲劳，卧推较少，但也承认个体不同。这些是趋势，不是不同动作之间的固定换算系数。\n\n即使 1RM 百分比相同，更强壮或体型更大的人也可能造成更大的绝对扰动。更高效的技术可减少不必要负担。群体平均值不能决定某个人的精确恢复日程，单次重复测试也不能可靠读出肌纤维类型。实用结论是为每项主要动作分别记录反应。",
+              "source": "Scientific Principles of Strength Training, pp. 121–142 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "fatigue-decision-map",
+              "title": "阶段特定上限与恢复工具",
+              "markdown": "| 情境 | 来源希望保留什么 | 观察什么 |\n|---|---|---|\n| 肌肥大 | 持续肌肉发展 | 反复工作能力与恢复情境；肌肉量难以急性测量 |\n| 力量 | 大重量产力表现 | 可比次数表现与执行 |\n| 巅峰期 | 稳定极限负荷表达 | 专项重复成功与技术 |\n| 积极休息 | 快速疲劳降低 | 低要求是否确实允许恢复 |\n\n本书在有用时间尺度，尤其是中周期上定义 MRV，而非根据某一差组判断。其图示从低于平均上限开始，逐步接近，可能在计划减量前短暂超过。这不意味着每个早期周都应已达到最大，也不意味着可以根据一堂没精神的课测出肌肉流失：许多场地指标只是间接且非特异的近似信号。\n\n休息日还有心理作用。通勤、准备及健身房与困难工作的关联，本身也可能成为要求；轻课不能替代离开一天的全部收益。积极休息可以有方向地用于技术学习、柔韧限制和适当管理的康复，而不变成新的超负荷阶段。来源一处说约两周，另一处说 2–4 周，汇总表又说 1–3 周。这些变化强调共同原则与个体反应，而不是虚假的日历精度。",
+              "source": "Scientific Principles of Strength Training, pp. 120–160, 179–182, 343 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "工作能力与恢复共同约束 MRV。",
+            "相同百分比不保证相同疲劳。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "recovery-tools",
+          "title": "选择恢复的时间尺度",
+          "summary": "恢复工具在时长与要求上都有差异。",
+          "sections": [
+            {
+              "id": "recovery-tools-1",
+              "title": "四种工具，不同用途",
+              "markdown": "休息日没有训练；轻训练降低要求，同时保留动作练习；减量期在一个小周期内安排更持久的下降；积极休息则常放在较长大周期之后，持续降低要求，而不是开始新的累积。它们在时长与刺激上都不同，不能只凭“感觉轻松”定义。\n\n来源示例常同时降低训练量和重量，有时降低至原超负荷日的大约一半，但作者明确称这些比例为训练经验估计。理解“50% 训练量”和“50% 强度”要小心：若组数和重量同时减半，负荷训练量将降为四分之一，而非一半。应说明规则指组数还是吨位。",
+              "source": "Scientific Principles of Strength Training, pp. 143–160 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "recovery-tools-2",
+              "title": "先有计划，再依据观察调整",
+              "markdown": "计划恢复提供结构，自我调节则处理实际与预期的偏差。恢复好于预期时，作者倾向于适量调整组数或负荷；疲劳意外偏高时，可针对性安排轻训练。反复需要紧急减量，提示最初工作量估计需要修正。\n\n调整也要保护比赛日期和后续阶段所需时间。把有效的肌肥大阶段延长两周，可能挤占随后的力量准备。应跟踪累积与减量比例，但不能把它当成凌驾于实际恢复之上的得分。日志应记录每次调整的理由，以及下一次可比训练的反应。",
+              "source": "Scientific Principles of Strength Training, pp. 143–160 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "恢复工具在时长与要求上都有差异。",
+            "自我调节应完善计划，也要尊重后续阶段。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "fatigue-errors",
+          "title": "充分恢复，同时保留训练",
+          "summary": "目标是有效训练，不是最大疲劳或最多休息。",
+          "sections": [
+            {
+              "id": "fatigue-errors-1",
+              "title": "管理不足",
+              "markdown": "来源批评长期训练量过大、始终使用过重负荷、照搬精英计划、硬跟更强的伙伴，以及拒绝减量和积极休息。仍然构成超负荷的“减量”，无法完成其功能。恢复资源、训练年限或药物暴露不同时，社交比较尤其容易误导。\n\n应对方式不是崇尚不适，而是识别失配：技术是否恶化？可比表现是否反复下降？当前剂量是否给下一次必要训练留下空间？降低剂量可以改善完整训练序列，即使单独看这堂轻课不够“厉害”。",
+              "source": "Scientific Principles of Strength Training, pp. 161–185 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "fatigue-errors-2",
+              "title": "管理过度",
+              "markdown": "回避一切疲劳，会妨碍足够超负荷。过于频繁的减量、远低于所需努力程度的工作，或不断用休息替代计划训练，都会减少有效训练时间。另一方面，完全停训会移除有用练习，也未必是保留适应最有效的方法；应依据具体问题选工具。\n\n目标不是每天疲劳为零，而是提供足以进步且可恢复的刺激，周期性降低负担以恢复有效工作，并区分正常短暂疲劳与持续问题。本章的生理叙述支持这一编程原则，但不提供经过验证的疲劳计算器。",
+              "source": "Scientific Principles of Strength Training, pp. 161–185 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "目标是有效训练，不是最大疲劳或最多休息。",
+            "反复临时休息时应重新检查剂量。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "fatigue-q1",
+          "objective": "区分主观疲劳与生化诊断。",
+          "prompt": "训练后疲倦能确定哪种生化状态？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "单凭感觉不能诊断具体生化状态。",
+              "explanation": "来源机制类别是解释模型，主观疲倦不是激素或神经递质检测。"
+            },
+            {
+              "id": "o2",
+              "text": "精确的睾酮不足。",
+              "explanation": "来源机制类别是解释模型，主观疲倦不是激素或神经递质检测。"
+            },
+            {
+              "id": "o3",
+              "text": "已测出的神经递质耗竭。",
+              "explanation": "来源机制类别是解释模型，主观疲倦不是激素或神经递质检测。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "来源机制类别是解释模型，主观疲倦不是激素或神经递质检测。",
+          "source": "Scientific Principles of Strength Training, pp. 104–121 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "fatigue-systems"
+        },
+        {
+          "id": "fatigue-q2",
+          "objective": "解释相同负荷百分比为何可能产生不同疲劳。",
+          "prompt": "两人使用相同 1RM 百分比，为什么疲劳仍可能不同？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "绝对负荷、体型、努力与恢复条件可能不同。",
+              "explanation": "相同百分比不能匹配所有疲劳因素，器械品牌不能替代剂量和个人情境。"
+            },
+            {
+              "id": "o2",
+              "text": "百分比保证生理扰动完全相同。",
+              "explanation": "相同百分比不能匹配所有疲劳因素，器械品牌不能替代剂量和个人情境。"
+            },
+            {
+              "id": "o3",
+              "text": "只有杠铃品牌能解释差异。",
+              "explanation": "相同百分比不能匹配所有疲劳因素，器械品牌不能替代剂量和个人情境。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "相同百分比不能匹配所有疲劳因素，器械品牌不能替代剂量和个人情境。",
+          "source": "Scientific Principles of Strength Training, pp. 121–142 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "mrv-context"
+        },
+        {
+          "id": "fatigue-q3",
+          "objective": "计算组数与负荷同时降低的合并效果。",
+          "prompt": "每组次数不变，组数和重量各减半，负荷训练量如何改变？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "降为四分之一。",
+              "explanation": "0.5 × 0.5 = 0.25。使用训练量规则前要说明指组数还是吨位。"
+            },
+            {
+              "id": "o2",
+              "text": "降为二分之一。",
+              "explanation": "0.5 × 0.5 = 0.25。使用训练量规则前要说明指组数还是吨位。"
+            },
+            {
+              "id": "o3",
+              "text": "不变。",
+              "explanation": "0.5 × 0.5 = 0.25。使用训练量规则前要说明指组数还是吨位。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "0.5 × 0.5 = 0.25。使用训练量规则前要说明指组数还是吨位。",
+          "source": "Scientific Principles of Strength Training, pp. 143–160 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "recovery-tools"
+        },
+        {
+          "id": "fatigue-q4",
+          "objective": "在保留更大日程的前提下使用自我调节。",
+          "prompt": "哪些调整符合本章计划逻辑？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "依据观察反应微调计划剂量。",
+              "explanation": "自我调节在约束内完善计划；无限延长可能损害后续准备。"
+            },
+            {
+              "id": "o2",
+              "text": "保护后续阶段所需时间。",
+              "explanation": "自我调节在约束内完善计划；无限延长可能损害后续准备。"
+            },
+            {
+              "id": "o3",
+              "text": "反复紧急减量后复查基础训练量。",
+              "explanation": "自我调节在约束内完善计划；无限延长可能损害后续准备。"
+            },
+            {
+              "id": "o4",
+              "text": "不顾比赛日期，无限延长有效阶段。",
+              "explanation": "自我调节在约束内完善计划；无限延长可能损害后续准备。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o3"
+          ],
+          "explanation": "自我调节在约束内完善计划；无限延长可能损害后续准备。",
+          "source": "Scientific Principles of Strength Training, pp. 143–160 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "recovery-tools"
+        },
+        {
+          "id": "fatigue-q5",
+          "objective": "通过可持续有效工作定义疲劳管理。",
+          "prompt": "疲劳管理的目标是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "通过合适刺激和周期恢复，维持有效训练。",
+              "explanation": "回避一切疲劳与失控耗竭都可能损害适应，目标是可恢复的有效工作。"
+            },
+            {
+              "id": "o2",
+              "text": "每天保持零疲劳。",
+              "explanation": "回避一切疲劳与失控耗竭都可能损害适应，目标是可恢复的有效工作。"
+            },
+            {
+              "id": "o3",
+              "text": "累积最多不适。",
+              "explanation": "回避一切疲劳与失控耗竭都可能损害适应，目标是可恢复的有效工作。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "回避一切疲劳与失控耗竭都可能损害适应，目标是可恢复的有效工作。",
+          "source": "Scientific Principles of Strength Training, pp. 161–185 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "fatigue-errors"
+        }
+      ]
+    },
+    {
+      "id": "sra",
+      "title": "06 · 刺激—恢复—适应",
+      "objectives": [
+        "把 SRA 作为概念性的时机模型。",
+        "区分不同适应的时间过程。",
+        "结合单课剂量与间隔评价频率。"
+      ],
+      "lessons": [
+        {
+          "id": "sra-model",
+          "title": "理解 SRA 模型",
+          "summary": "恢复与适应存在重叠。",
+          "sections": [
+            {
+              "id": "sra-model-1",
+              "title": "是过程，不是生物秒表",
+              "markdown": "训练刺激扰动当前能力；恢复使既有功能回升，适应则让能力超过原始水平。这些过程互相重叠，不是整齐地先后排队。画出的 SRA 曲线是一种教学模型，而不是对个人准备状态的直接测量。\n\n第二次大刺激若过早到来，可能干扰目标反应；等待过久则可能使有用适应下降。计划性过度负荷是依赖后续恢复的例外。原书图示解释了这种逻辑，却不能确定适用于所有人的统一再训练日期。",
+              "source": "Scientific Principles of Strength Training, pp. 186–209 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "sra-model-2",
+              "title": "一堂课影响多个系统",
+              "markdown": "来源考虑技术学习、肌肉生长与结构、神经产力以及结缔组织。轻技术课更强调技能，高训练量课更强调肌肉发展，大重量工作更强调极限产力技能及相关要求。但每个系统仍都会受到一些刺激。\n\n书中认为技术过程一般快于肌肉发展，某些神经产力与结缔组织过程更慢。具体时间示例是作者的宽泛估计。若等待所有组织完全恢复才进行任何练习，技能接触可能变得过少。应识别主导目标，再用轻训练和周期性疲劳降低处理多个时间尺度。",
+              "source": "Scientific Principles of Strength Training, pp. 186–209 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "恢复与适应存在重叠。",
+            "一堂课会对多个适应系统产生影响。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "frequency-dose",
+          "title": "频率取决于剂量",
+          "summary": "增加课次可以是重新分配，也可以是增加负担，要区分。",
+          "sections": [
+            {
+              "id": "frequency-dose-1",
+              "title": "改变每次暴露的大小",
+              "markdown": "评价频率不能脱离单课训练量、负荷与努力程度。把同样周剂量分成更多堂课，会降低单课剂量；不减少原课就增加新课，则增加周负担。两者都叫“高频”，却是不同实验。\n\n本书指出两个边界：过小的单课可能达不到超负荷，过大的单课可能只增加恢复成本，而不带来相称适应。过低频率还可能让技能或适应在两次训练之间消退。因此中间有多种可行安排。应选择能反复完成足量、高质量工作的可持续日程。",
+              "source": "Scientific Principles of Strength Training, pp. 210–229 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "frequency-dose-2",
+              "title": "不同需要，不同日程",
+              "markdown": "来源认为技术水平、肌肉量、力量、单课量及具体动作都会影响安排。示例通常让卧推练习比大重量硬拉更频繁。重点是个体剂量反应，而不是由动作名称规定固定天数。\n\n本章给出与阶段相关的宽泛频率区间，书中不同讨论的建议范围也并不完全一致。不要把区间脱离周工作量当作硬性要求。一个原创比较是把每周 12 组安排为 6 + 6 或 4 + 4 + 4：周组数相同，但动作质量、局部疲劳和现实可行性可能不同。应观察这些结果，再评价哪种更好。",
+              "source": "Scientific Principles of Strength Training, pp. 210–229 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "sra-comparison-map",
+              "title": "读曲线，不虚构测量",
+              "markdown": "| 模型量 | 如何理解 | 不能据此确定什么 |\n|---|---|---|\n| 技术 SRA | 练习可较快改变协调 | 保证每天必须练的要求 |\n| 肌肉 SRA | 加载后发生恢复与蛋白重塑 | 单次信号上升对应的净组织增量 |\n| 神经产力 SRA | 产力能力可能在课后继续受影响 | 根据感觉算出的精确“中枢恢复日” |\n| 结缔组织 SRA | 某些结构重塑需要较长过程 | 从图中得到安全剂量或损伤诊断 |\n\n来源的肌肥大图，把分数合成率（FSR）叠加在表现曲线上。合成率上升属于过程指标；净肌肉变化还取决于分解及更长情境。书中也讨论羽状角，即肌纤维相对于肌腱的方向，作为会随动作变化的结构特征。两者都不能由酸痛评分推断。\n\n图示说明，只按快过程安排可能让慢系统持续受到扰动；只等最慢过程又可能导致技能或肌肉暴露不足。来源还提供中间或按阶段偏置的安排。大剂量图用二倍幅度与时长作示意，并不证明组数翻倍就让适应或恢复时间总是翻倍。心理唤醒、具体动作及对习惯频率的适应，会进一步复杂化关系。应通过图形成假设，再用训练日志评价。",
+              "source": "Scientific Principles of Strength Training, pp. 186–228 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "增加课次可以是重新分配，也可以是增加负担，要区分。",
+            "有效频率通常存在一个范围。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "session-spacing",
+          "title": "间隔与 SRA 误用",
+          "summary": "课次与间隔是不同安排变量。",
+          "sections": [
+            {
+              "id": "session-spacing-1",
+              "title": "次数相同，安排不同",
+              "markdown": "周一、周三、周五的三次下肢训练，与周一、周二、周三不同，虽然频率相同。集中安排可能损害后面的课，又留下很长空档。大致分散工作是合理起点。不均匀间隔也可能有效，但要调整每课难度，并有意识地安排恢复。\n\n来源还解释了为什么完全等间隔未必最好：小周期内较长的低要求时段，可以帮助疲劳管理。因此频率与分布是两个决策。计划应同时写出高要求训练的次数与间隔。",
+              "source": "Scientific Principles of Strength Training, pp. 229–242 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "session-spacing-2",
+              "title": "不要过度解读曲线",
+              "markdown": "频率过高可能妨碍目标超负荷；过低可能损失有用练习；集中安排甚至能在一周内同时造成两者。但等待每个系统完美恢复也有问题。当前目标决定哪个反应最重要，疲劳管理则保护更长训练序列。\n\n酸痛本身不是完整的准备度测量，也不是忽视问题的理由。该模型不能要求学习者带伤训练，也不能诊断疼痛原因。同样，计划性过度负荷应靠近已经安排的轻松时期，而不应自动放在漫长累积期的第一周。应结合测得表现与情境解释日程。",
+              "source": "Scientific Principles of Strength Training, pp. 229–242 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "课次与间隔是不同安排变量。",
+            "SRA 图用于推理，而非精确处方。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "sra-q1",
+          "objective": "把 SRA 理解为概念模型而不是时钟。",
+          "prompt": "画出的 SRA 曲线提供什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "刺激、恢复与适应重叠过程的概念解释。",
+              "explanation": "曲线教授关系，既非个人生物钟，也非组织直接测量。"
+            },
+            {
+              "id": "o2",
+              "text": "每个人下一堂课的精确日期。",
+              "explanation": "曲线教授关系，既非个人生物钟，也非组织直接测量。"
+            },
+            {
+              "id": "o3",
+              "text": "组织愈合的直接测量。",
+              "explanation": "曲线教授关系，既非个人生物钟，也非组织直接测量。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "曲线教授关系，既非个人生物钟，也非组织直接测量。",
+          "source": "Scientific Principles of Strength Training, pp. 186–209 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "sra-model"
+        },
+        {
+          "id": "sra-q2",
+          "objective": "区分重新分配周工作与增加工作。",
+          "prompt": "每周 12 组由两堂改为三堂，总量不变。改变了什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "分布与单课剂量。",
+              "explanation": "重新分配不同于加量。单课剂量改变，质量与反应仍需观察。"
+            },
+            {
+              "id": "o2",
+              "text": "周组数必然增加。",
+              "explanation": "重新分配不同于加量。单课剂量改变，质量与反应仍需观察。"
+            },
+            {
+              "id": "o3",
+              "text": "所有疲劳因素都变得相同。",
+              "explanation": "重新分配不同于加量。单课剂量改变，质量与反应仍需观察。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "重新分配不同于加量。单课剂量改变，质量与反应仍需观察。",
+          "source": "Scientific Principles of Strength Training, pp. 210–229 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "frequency-dose"
+        },
+        {
+          "id": "sra-q3",
+          "objective": "区分训练频率与训练分布。",
+          "prompt": "同为三练，周一三五为何不同于周一二三？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "间隔改变恢复机会和之后的长空档。",
+              "explanation": "次数与分布是不同变量，集中可能损害后续课并留下长空档。"
+            },
+            {
+              "id": "o2",
+              "text": "实际频率不同。",
+              "explanation": "次数与分布是不同变量，集中可能损害后续课并留下长空档。"
+            },
+            {
+              "id": "o3",
+              "text": "间隔从不影响质量。",
+              "explanation": "次数与分布是不同变量，集中可能损害后续课并留下长空档。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "次数与分布是不同变量，集中可能损害后续课并留下长空档。",
+          "source": "Scientific Principles of Strength Training, pp. 229–242 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "session-spacing"
+        },
+        {
+          "id": "sra-q4",
+          "objective": "解释不同适应时间过程及其局限。",
+          "prompt": "哪些关于不同适应时序的说法合理？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "一堂课能影响多个系统。",
+              "explanation": "不同系统反应不同，等待所有系统可能不必要地减少练习，模型仍需结合情境。"
+            },
+            {
+              "id": "o2",
+              "text": "主导目标帮助决定日程。",
+              "explanation": "不同系统反应不同，等待所有系统可能不必要地减少练习，模型仍需结合情境。"
+            },
+            {
+              "id": "o3",
+              "text": "任何动作练习前必须全部系统完全恢复。",
+              "explanation": "不同系统反应不同，等待所有系统可能不必要地减少练习，模型仍需结合情境。"
+            },
+            {
+              "id": "o4",
+              "text": "模型宽泛时间范围不是个人预测。",
+              "explanation": "不同系统反应不同，等待所有系统可能不必要地减少练习，模型仍需结合情境。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o4"
+          ],
+          "explanation": "不同系统反应不同，等待所有系统可能不必要地减少练习，模型仍需结合情境。",
+          "source": "Scientific Principles of Strength Training, pp. 186–209 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "sra-model"
+        },
+        {
+          "id": "sra-q5",
+          "objective": "在较长训练序列中评价过度负荷时机。",
+          "prompt": "漫长累积期第一周就严重过度负荷，有什么问题？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "疲劳可能损害仍需完成的大量训练。",
+              "explanation": "计划过度负荷依赖后续恢复，在大量必要训练之前进行，可能损害而非改善序列。"
+            },
+            {
+              "id": "o2",
+              "text": "早期过度负荷总能保证更多收益。",
+              "explanation": "计划过度负荷依赖后续恢复，在大量必要训练之前进行，可能损害而非改善序列。"
+            },
+            {
+              "id": "o3",
+              "text": "后续工作量无关紧要。",
+              "explanation": "计划过度负荷依赖后续恢复，在大量必要训练之前进行，可能损害而非改善序列。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "计划过度负荷依赖后续恢复，在大量必要训练之前进行，可能损害而非改善序列。",
+          "source": "Scientific Principles of Strength Training, pp. 229–242 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "session-spacing"
+        }
+      ]
+    },
+    {
+      "id": "variation",
+      "title": "07 · 策略性变化",
+      "objectives": [
+        "不借助“肌肉困惑”解释适应阻力。",
+        "让变式符合能力需求与训练阶段。",
+        "平衡持续练习和有价值的改变。"
+      ],
+      "lessons": [
+        {
+          "id": "adaptive-resistance",
+          "title": "为什么有效刺激也会趋于停滞",
+          "summary": "变化应服务于相关适应。",
+          "sections": [
+            {
+              "id": "adaptive-resistance-1",
+              "title": "负反馈与适应阻力",
+              "markdown": "负反馈会在某种结果累积后限制进一步反应。作者以此解释适应阻力：反复接受相同刺激，进步幅度可能逐渐减小。它与单纯疲劳不同；训练者即使能从某剂量中恢复，也未必能靠无限重复同一剂量持续获得相同收益。\n\n变化通过调整训练变量，更新有效刺激并分散负担。它可以涉及动作、训练量、负荷、次数区间、频率或速度。这不证明肌肉每天都需要“惊吓”。其逻辑是有组织地改变相关要求，同时受到专项性和定向适应所需时间的约束。",
+              "source": "Scientific Principles of Strength Training, pp. 243–255 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "adaptive-resistance-2",
+              "title": "停滞有多种形式",
+              "markdown": "本章把模型应用到技术、肌肥大、神经产力与结缔组织。更换动作可以改变募集模式和受力方向。较低量的力量阶段，能在长期肌肥大训练后提供不同刺激；较高次数的阶段则能打断持续近极限训练。\n\n书中的细胞解释和重新敏化机制属于假说与简化，并不是健身房里能直接读出的测量。不要把酸痛当作生长计：新动作可能很酸，却不能据此证明长期效果更好。应在合适阶段内比较可重复表现与耐受情况。",
+              "source": "Scientific Principles of Strength Training, pp. 243–255 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "变化应服务于相关适应。",
+            "疲劳与适应阻力相关，但不是同一个概念。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "directed-variation",
+          "title": "优势、限制与有意义的变式",
+          "summary": "限制因素要能在任务中观察到。",
+          "sections": [
+            {
+              "id": "directed-variation-1",
+              "title": "给变化明确方向",
+              "markdown": "作者区分发展高反应优势与处理限制因素。初学者先建立广泛基础，了解自己的反应；中级者可以投入于容易获得有效进步的优势；高级者则可能需要补上薄弱环节，让既有优势充分发挥。这些是作者的发展经验规则，并不是要求初学者忽视限制。\n\n薄弱环节必须确实限制任务。若硬拉尚未离地握力就失败，仅增强髋伸肌不能解决眼前约束。反过来，把每块肌肉都称为弱项，也无法提供优先级。应记录观察到的限制，再选择有合理机制的变式。",
+              "source": "Scientific Principles of Strength Training, pp. 256–269 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "directed-variation-2",
+              "title": "变化的时机与幅度",
+              "markdown": "远离比赛时通常有更多变化空间；比赛接近时，负荷与动作选择应逐渐接近合规任务。来源建议把有效变式保留足够久，以完成学习和进阶，通常至少一个中周期，而不是每堂课都改变。\n\n变式应在募集或杠杆上有实质差别，同时保留迁移价值。极小的握距变化可能不足以形成目标重点。书中给出握距、站距和杠位示例，但明确属于经验性实践指导。个体舒适度、可控性和目标机制，比把某个精确宽度当普遍阈值更重要。",
+              "source": "Scientific Principles of Strength Training, pp. 256–269 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "variation-decision-map",
+              "title": "变化决策矩阵",
+              "markdown": "| 当前情况 | 候选反应 | 约束 |\n|---|---|---|\n| 有效进步持续 | 保留并渐进该刺激 | 不要只为新奇而换 |\n| 相同刺激不再有效 | 先检查疲劳，再考虑相关改变 | 平台期不证明只有一个原因 |\n| 明确弱环节限制动作 | 选择针对性变式 | 保留足够有用优势训练 |\n| 比赛接近 | 向合规执行集中 | 新辅助不能挤占必要练习 |\n| 变式过于不稳定，无法加载 | 重新考虑角色 | 不同本身不证明超负荷 |\n\n来源的策略变化，会在发展过程中交替强化优势与限制因素，并不把外观上完美肌肉对称当作目的。训练者可以保留有效优势，同时使较弱贡献环节足以完成任务。“足够不同”应涉及加载或募集的实质改变，而不只是重新命名。\n\n假设为肱三头肌限制使用窄握推举。应检查其技术是否确实增加目标要求，负荷是否符合阶段，以及能否持续数周进阶。三者成立，才构成一致的实验。每天换动作，即使周总量看起来惊人，也无法支持同样解释。",
+              "source": "Scientific Principles of Strength Training, pp. 256–277 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "限制因素要能在任务中观察到。",
+            "变式应改变目标要求，也要允许进阶。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "variation-errors",
+          "title": "避免随机与僵化",
+          "summary": "持续与改变都应有理由。",
+          "sections": [
+            {
+              "id": "variation-errors-1",
+              "title": "变化不足",
+              "markdown": "无限期使用完全相同的负荷、组数和次数，会忽视剂量需求变化和不同阶段目标。只用比赛动作，也可能限制针对性发展。作者还认为，从不移除比赛动作会减少更新刺激的机会；这是他们的编程主张，不是要求按固定时间表移除每项动作。\n\n因为动作仍有效而保留，与因为口号而保留不同。日志应能说明保留理由。同样，变化应解决问题或服务新阶段，而不是无依据地满足日历要求。",
+              "source": "Scientific Principles of Strength Training, pp. 265–277 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "variation-errors-2",
+              "title": "变化过多",
+              "markdown": "四类问题包括：缺少专项迁移、不足以刺激目标、与阶段不符，以及变化过于频繁。限制产力的平衡练习，不能替代充分的力量超负荷；高疲劳孤立动作，也不会自动适合巅峰期。\n\n来源区分共同力量重点下的适度日波动，与每周在冲突优先级间剧烈切换。一堂课六次、另一堂四次，不必然违背定向适应。作者批评的是同时最大化所有目标。应检查实际工作量与目的，而不是认为 DUP 之类名称能保证成功或失败。",
+              "source": "Scientific Principles of Strength Training, pp. 265–277 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "持续与改变都应有理由。",
+            "计划名称不能替代工作量与目标检查。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "variation-q1",
+          "objective": "区分适应阻力与未恢复疲劳。",
+          "prompt": "适应阻力与疲劳有什么不同？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "即使恢复了，长期重复刺激的进步仍可能递减。",
+              "explanation": "来源区分反应递减和未恢复扰动，支持策略改变，而非每日随机新奇。"
+            },
+            {
+              "id": "o2",
+              "text": "两者必然是同一种测量。",
+              "explanation": "来源区分反应递减和未恢复扰动，支持策略改变，而非每日随机新奇。"
+            },
+            {
+              "id": "o3",
+              "text": "适应阻力证明每天都要新奇。",
+              "explanation": "来源区分反应递减和未恢复扰动，支持策略改变，而非每日随机新奇。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "来源区分反应递减和未恢复扰动，支持策略改变，而非每日随机新奇。",
+          "source": "Scientific Principles of Strength Training, pp. 243–255 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "adaptive-resistance"
+        },
+        {
+          "id": "variation-q2",
+          "objective": "用定向变化针对已证实任务瓶颈。",
+          "prompt": "腿髋力量足够，但握力限制硬拉，哪个重点更直接？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "处理已观察到的握力约束。",
+              "explanation": "限制因素训练针对真正瓶颈，继续增加已足够环节的工作可能无效。"
+            },
+            {
+              "id": "o2",
+              "text": "只增加已经足够的髋部训练。",
+              "explanation": "限制因素训练针对真正瓶颈，继续增加已足够环节的工作可能无效。"
+            },
+            {
+              "id": "o3",
+              "text": "认为每块肌肉限制程度相同。",
+              "explanation": "限制因素训练针对真正瓶颈，继续增加已足够环节的工作可能无效。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "限制因素训练针对真正瓶颈，继续增加已足够环节的工作可能无效。",
+          "source": "Scientific Principles of Strength Training, pp. 256–269 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "directed-variation"
+        },
+        {
+          "id": "variation-q3",
+          "objective": "根据明确适应需要选择动作变化。",
+          "prompt": "更换动作的较好理由是什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "新变式能够解决明确能力或阶段需求。",
+              "explanation": "变化需要机制与情境，酸痛和流行不能证明迁移或长期适应更好。"
+            },
+            {
+              "id": "o2",
+              "text": "规定每周酸痛必须更多。",
+              "explanation": "变化需要机制与情境，酸痛和流行不能证明迁移或长期适应更好。"
+            },
+            {
+              "id": "o3",
+              "text": "仅因名称流行。",
+              "explanation": "变化需要机制与情境，酸痛和流行不能证明迁移或长期适应更好。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "变化需要机制与情境，酸痛和流行不能证明迁移或长期适应更好。",
+          "source": "Scientific Principles of Strength Training, pp. 265–277 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "variation-errors"
+        },
+        {
+          "id": "variation-q4",
+          "objective": "识别非专项、不充分及过频变化。",
+          "prompt": "哪些可能属于过度应用变化？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "缺少明确相关迁移的变式。",
+              "explanation": "非专项、不足超负荷和过频改变会破坏目的；稳定有目的使用支持定向适应。"
+            },
+            {
+              "id": "o2",
+              "text": "不足以挑战目标的剂量。",
+              "explanation": "非专项、不足超负荷和过频改变会破坏目的；稳定有目的使用支持定向适应。"
+            },
+            {
+              "id": "o3",
+              "text": "每堂更换主动作，以致无法评估进阶。",
+              "explanation": "非专项、不足超负荷和过频改变会破坏目的；稳定有目的使用支持定向适应。"
+            },
+            {
+              "id": "o4",
+              "text": "在有目的阶段中稳定保留有效变式。",
+              "explanation": "非专项、不足超负荷和过频改变会破坏目的；稳定有目的使用支持定向适应。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o3"
+          ],
+          "explanation": "非专项、不足超负荷和过频改变会破坏目的；稳定有目的使用支持定向适应。",
+          "source": "Scientific Principles of Strength Training, pp. 265–277 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "variation-errors"
+        },
+        {
+          "id": "variation-q5",
+          "objective": "评价共同目标下的适度次数变化。",
+          "prompt": "同一力量重点计划里使用六次与四次组，是否自动违背定向适应？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "不会，应评价目标、剂量与兼容性。",
+              "explanation": "适度波动可以符合主目标，但不代表所有极端组合都同样合适。"
+            },
+            {
+              "id": "o2",
+              "text": "会，任何次数变化都禁止。",
+              "explanation": "适度波动可以符合主目标，但不代表所有极端组合都同样合适。"
+            },
+            {
+              "id": "o3",
+              "text": "不会，因为任意目标组合都同样兼容。",
+              "explanation": "适度波动可以符合主目标，但不代表所有极端组合都同样合适。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "适度波动可以符合主目标，但不代表所有极端组合都同样合适。",
+          "source": "Scientific Principles of Strength Training, pp. 265–277 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "variation-errors"
+        }
+      ]
+    },
+    {
+      "id": "phase",
+      "title": "08 · 阶段促进与赛前减量",
+      "objectives": [
+        "解释阶段顺序的重要性。",
+        "在转换中保留有用适应。",
+        "区分巅峰期与赛前减量，理解来源估计。"
+      ],
+      "lessons": [
+        {
+          "id": "phase-sequence",
+          "title": "建立、强化、表达",
+          "summary": "顺序有效的前提是先前适应得到保留。",
+          "sections": [
+            {
+              "id": "phase-sequence-1",
+              "title": "为什么顺序有用",
+              "markdown": "[阶段促进](term:phase-potentiation)通过组织训练，使先前适应支持后续适应。作者对力量举的核心顺序是：发展肌肉 → 基础力量 → 巅峰表现。更多肌肉为后续产力提供基础，一般力量则为专项极限表现提供能力。巅峰期放在最后，因为它准备比赛日所需的表达方式。\n\n该论证结合专项性、定向适应、兼容性与顺序，但并不声称其他方法无效。作者把阶段促进排在专项性、超负荷和疲劳管理之后，并认为其额外收益相对有限。精致的阶段图不能挽救缺少足够相关刺激的训练。",
+              "source": "Scientific Principles of Strength Training, pp. 278–291 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "phase-sequence-2",
+              "title": "适应衰退形成约束",
+              "markdown": "只有有用适应能保留，前一阶段才能促进下一阶段。维持通常比发展所需刺激更少，但不是完全不需要。低训练量巅峰期过长，可能使肌肉或一般力量下降；反之，尚未形成有意义适应就换阶段，也可能无法建立稳定基础。\n\n来源给出的可能时长很宽：肌肥大或力量阶段约三周至六个月，巅峰期约三周至三个月。这些是训练经验的上下界，不是要求所有人每阶段都持续这么久。应结合比赛日期与实际反应决定。",
+              "source": "Scientific Principles of Strength Training, pp. 278–291 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "顺序有效的前提是先前适应得到保留。",
+            "阶段细节应服从更基础的原则。"
+          ],
+          "interactionIds": [
+            "strength-sequence"
+          ]
+        },
+        {
+          "id": "phase-transitions",
+          "title": "把成果带入下一阶段",
+          "summary": "每阶段既发展某种能力，也保留其他能力。",
+          "sections": [
+            {
+              "id": "phase-transitions-1",
+              "title": "发展目标与保留目标",
+              "markdown": "每阶段既有发展目标，也有保留目标。肌肥大阶段主要发展肌肉与工作能力，同时保留与高产力举重的必要联系；力量阶段主要发展产力，同时用足够工作保留肌肉；巅峰期主要完善大重量执行，并尽可能保留肌肉与一般力量。\n\n作者的组数和负荷范围是宽泛计划工具，不是把所有阶段叠加到一起的处方。少量辅助工作可以使转换更顺畅。来源倾向于让明确多数的训练服务于阶段目标，但其中 70/30 的示例比例属于训练经验，不是实验确定的分界。",
+              "source": "Scientific Principles of Strength Training, pp. 289–292, 300–307 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "phase-transitions-2",
+              "title": "保护新发展的能力",
+              "markdown": "若薄弱股四头肌刚得到重点发展，立即移除所有偏重股四头肌的动作，可能让成果更难保留。下一阶段采用相关复合动作，可以提供连续性。同样，孤立动作带来的肱三头肌发展，可通过合适的推举变式延续，而不是彻底换成另一重点。\n\n肌肥大阶段过长可能收益递减；力量阶段过长可能耗尽现有肌肉量能带来的进步；巅峰期过长可能牺牲基础。每隔几天就换重点，则形成相反问题。应问当前阶段是否仍在产生目标收益，并为后续做好准备。",
+              "source": "Scientific Principles of Strength Training, pp. 289–292, 300–307 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "每阶段既发展某种能力，也保留其他能力。",
+            "转换时要保护新获得但尚不稳固的成果。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "tapering",
+          "title": "赛前减量：保留能力，降低疲劳",
+          "summary": "赛前减量降低疲劳，同时保留比赛能力。",
+          "sections": [
+            {
+              "id": "tapering-1",
+              "title": "巅峰准备不只是休息",
+              "markdown": "巅峰期发展在比赛极限动作中表达力量的能力。赛前减量是最后降低训练要求的过程，目的是移除疲劳并保留这种能力。在简单概念模型中，有用能力得以保留而疲劳下降，准备状态就会改善。这是关系模型，不是能够预测比赛日公斤数的已验证公式。\n\n来源把减量组织为：正常或有意提高的工作量，随后降低训练量但保留较高负荷，最后同时降低训练量与负荷，必要时再增加休息。功能性过度负荷不是必选项；额外刺激及其恢复要求必须适合训练者和剩余时间。",
+              "source": "Scientific Principles of Strength Training, pp. 292–299, 341–342 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "tapering-2",
+              "title": "个体减量与精度限制",
+              "markdown": "本书根据体重、成绩等级和经验设置减量类别，给出约一周、两周或三周的例子。作者认为，更大、更强、经验更丰富的人，常需要较长疲劳降低时间，同时能力保留也较久。这些类别属于来源的训练模型，不是普遍适用的评分系统。\n\n动作特异性疲劳也重要：作者通常建议比卧推更早降低硬拉要求。先前成功的减量是有用证据，但力量、体重或恢复改变后，下次反应也可能改变。应记录训练时机、工作量和比赛结果，谨慎修正，避免同时改变太多因素。比赛规则和实际日程共同约束计划。",
+              "source": "Scientific Principles of Strength Training, pp. 292–299, 341–342 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "taper-decision-map",
+              "title": "来源减量示例与局限",
+              "markdown": "| 部分 | 来源示例 | 如何解释 |\n|---|---|---|\n| 1 | 正常巅峰量，或可选其 1.5–2 倍 | 可选超负荷不等于必须 |\n| 2 | 正常巅峰量的约 50–90%，保留较高负荷 | 降低工作，同时保留专项暴露 |\n| 3 | 正常巅峰工作约 50% 量与 50% 负荷 | 后期同时降两者，明确各自基准 |\n\n来源设置三个粗略类别：体重区间（低于 165 lb、165–220 lb、高于 220 lb）、经验区间（少于 3 年、3–6 年、多于 6 年）及其命名成绩等级，各赋一、二或三分。总分 3–4、5–7、8–9 分，分别对应约一、二、三周减量示例。这些历史成绩标签属于来源，不是当前协会标准，也不是经过验证的个人计算器。\n\n最短类别为各部分提供可重叠范围，并非必须直接相加的三个固定时长。较长类别更均匀分配各部分。学习者应理解构造，再检查实际反应；选中某类不保证比赛更好。表格不计算安全极限试举或个人训练剂量。",
+              "source": "Scientific Principles of Strength Training, pp. 292–299, 341–342 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "赛前减量降低疲劳，同时保留比赛能力。",
+            "来源类别是初始假设，不是精确预测。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "phase-q1",
+          "objective": "解释肌肉—力量—巅峰顺序的支持逻辑。",
+          "prompt": "本书为什么通常按肌肥大、力量、巅峰期排序？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "先前能力可支持后续产力与比赛表达。",
+              "explanation": "促进依赖保留有用能力，并以所需任务收尾；完全抹除会使模型失效。"
+            },
+            {
+              "id": "o2",
+              "text": "按定义后阶段会抹掉全部先前适应。",
+              "explanation": "促进依赖保留有用能力，并以所需任务收尾；完全抹除会使模型失效。"
+            },
+            {
+              "id": "o3",
+              "text": "阶段名称任意，顺序从不重要。",
+              "explanation": "促进依赖保留有用能力，并以所需任务收尾；完全抹除会使模型失效。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "促进依赖保留有用能力，并以所需任务收尾；完全抹除会使模型失效。",
+          "source": "Scientific Principles of Strength Training, pp. 278–291 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "phase-sequence"
+        },
+        {
+          "id": "phase-q2",
+          "objective": "在阶段转换中保留新发展能力。",
+          "prompt": "阶段转换时，刚发展的弱肌群失去所有针对性暴露，应检查什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "是否保留足够相关刺激维持成果。",
+              "explanation": "维持通常比发展所需更少，但不是零；转换应保留后续所需能力。"
+            },
+            {
+              "id": "o2",
+              "text": "维持是否完全不需训练。",
+              "explanation": "维持通常比发展所需更少，但不是零；转换应保留后续所需能力。"
+            },
+            {
+              "id": "o3",
+              "text": "是否应忽视前一阶段。",
+              "explanation": "维持通常比发展所需更少，但不是零；转换应保留后续所需能力。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "维持通常比发展所需更少，但不是零；转换应保留后续所需能力。",
+          "source": "Scientific Principles of Strength Training, pp. 289–292, 300–307 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "phase-transitions"
+        },
+        {
+          "id": "phase-q3",
+          "objective": "区分巅峰能力发展与最后赛前减量。",
+          "prompt": "赛前减量与较广的巅峰期有何区别？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "减量降低最后阶段要求，以消除疲劳并保留能力。",
+              "explanation": "巅峰期发展大重量表达；减量强调保留它并降低疲劳，均不等于最大量增肌或完全停训。"
+            },
+            {
+              "id": "o2",
+              "text": "减量等同最大量增肌。",
+              "explanation": "巅峰期发展大重量表达；减量强调保留它并降低疲劳，均不等于最大量增肌或完全停训。"
+            },
+            {
+              "id": "o3",
+              "text": "巅峰期就是完全不活动。",
+              "explanation": "巅峰期发展大重量表达；减量强调保留它并降低疲劳，均不等于最大量增肌或完全停训。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "巅峰期发展大重量表达；减量强调保留它并降低疲劳，均不等于最大量增肌或完全停训。",
+          "source": "Scientific Principles of Strength Training, pp. 292–299, 341–342 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "tapering"
+        },
+        {
+          "id": "phase-q4",
+          "objective": "把减量类别理解为可修订初始估计。",
+          "prompt": "哪些关于来源减量类别的说法正确？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "以体型、成绩水平和经验作粗略参考。",
+              "explanation": "类别指导初步估计，反应和条件变化仍重要，各动作也可能需要不同时间。"
+            },
+            {
+              "id": "o2",
+              "text": "是初始假设而不是精确预测。",
+              "explanation": "类别指导初步估计，反应和条件变化仍重要，各动作也可能需要不同时间。"
+            },
+            {
+              "id": "o3",
+              "text": "永远替代观察个人反应。",
+              "explanation": "类别指导初步估计，反应和条件变化仍重要，各动作也可能需要不同时间。"
+            },
+            {
+              "id": "o4",
+              "text": "动作特异疲劳会影响时机。",
+              "explanation": "类别指导初步估计，反应和条件变化仍重要，各动作也可能需要不同时间。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o4"
+          ],
+          "explanation": "类别指导初步估计，反应和条件变化仍重要，各动作也可能需要不同时间。",
+          "source": "Scientific Principles of Strength Training, pp. 292–299, 341–342 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "tapering"
+        },
+        {
+          "id": "phase-q5",
+          "objective": "在阶段复杂性之前优先考虑充分相关加载。",
+          "prompt": "精致阶段计划没有足够超负荷，原则层级意味着什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "先补足刺激，再细化阶段。",
+              "explanation": "来源把基础原则排得更高；没有足够相关刺激，复杂性与顺序不能自动产生适应。"
+            },
+            {
+              "id": "o2",
+              "text": "阶段促进能弥补任何刺激缺失。",
+              "explanation": "来源把基础原则排得更高；没有足够相关刺激，复杂性与顺序不能自动产生适应。"
+            },
+            {
+              "id": "o3",
+              "text": "计划越复杂必然越好。",
+              "explanation": "来源把基础原则排得更高；没有足够相关刺激，复杂性与顺序不能自动产生适应。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "来源把基础原则排得更高；没有足够相关刺激，复杂性与顺序不能自动产生适应。",
+          "source": "Scientific Principles of Strength Training, pp. 278–291 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "phase-sequence"
+        }
+      ]
+    },
+    {
+      "id": "individual",
+      "title": "09 · 个体差异",
+      "objectives": [
+        "区分人与人之间及同一人不同时期的差异。",
+        "调整剂量、进阶、动作和阶段重点。",
+        "避免以个体化为由违背基础原则。"
+      ],
+      "lessons": [
+        {
+          "id": "individual-response",
+          "title": "相同原则，不同剂量",
+          "summary": "个体化是在共同原则内调整剂量。",
+          "sections": [
+            {
+              "id": "individual-response-1",
+              "title": "个体间与个体内差异",
+              "markdown": "个体间差异指不同人对相同训练的不同反应；个体内差异指同一人的反应随时间改变。即使遗传条件不变，训练经验、睡眠、饮食与压力也会改变。因此两年前有效的计划是一条证据，而不是永久的个人标签。\n\n来源把实用调整集中在五方面：MRV、疲劳与能力衰退、发展阶段与目标、动作选择，以及动作技术。这让个体化成为可管理的工作。它通常改变相关训练的数量与排列，而不是为每个人发明一套全新生理原则。",
+              "source": "Scientific Principles of Strength Training, pp. 308–317 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "individual-response-2",
+              "title": "能力与疲劳的下降速度不同",
+              "markdown": "有的人疲劳下降快、能力保留久，也有人相反。这会影响减量幅度与训练间隔，但不能只凭体型推断。既往可比训练与比赛记录，可以帮助形成工作假设。\n\n书中的初级、中级和高级标签，主要指发展状态与需求，年限只是粗略示例。初学者通常需要广泛发展技术与肌肉；中级者可强化高收益优势；高级者则可能更多投入限制因素、细致巅峰准备与较长疲劳管理。改变体重级别等目标，在任何阶段都可能改变这些优先级。",
+              "source": "Scientific Principles of Strength Training, pp. 308–317 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "individual-decision-map",
+              "title": "使调整匹配证据",
+              "markdown": "| 证据或差异 | 候选变量 | 为解释结果需保持什么 |\n|---|---|---|\n| 可恢复剂量过低或过高 | 组数与单课量 | 动作与努力定义 |\n| 进阶过急 | 起点与增幅 | 目标及比较动作 |\n| 变式适配或迁移差 | 动作选择 | 足够稳定的其他负担情境 |\n| 技术不符合身体比例 | 具体技术细节 | 任务标准与受控执行 |\n| 能力与疲劳下降速度不同 | 减量时机与幅度 | 可比结果记录 |\n\n平均可恢复量相同，不代表进阶方式相同。某人可能需要较低起点、较大增幅；另一人能承受较高起点，却需要较小增幅。来源建议通过反复阶段发现差异，而不是把最大增幅当作积极性的宣言。\n\n偏好可以帮助在有效选项中选择；陌生感也可能让初期有用的技术显得别扭。应区分可耐受学习与不适合的动作，在足够练习后评价，而不只看第一次。个人计划因此是由记录支持、可以修订的模型，不应变成无法检验的主张，把每次不佳都解释为此人是例外。",
+              "source": "Scientific Principles of Strength Training, pp. 308–336 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "个体化是在共同原则内调整剂量。",
+            "同一个人的需求也会随时间改变。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "technique-selection",
+          "title": "让计划匹配训练者",
+          "summary": "个体技术差异仍受良好执行与任务要求约束。",
+          "sections": [
+            {
+              "id": "technique-selection-1",
+              "title": "动作与技术选择",
+              "markdown": "肢体比例与关节结构影响有用姿势和杠杆。两个技术合格的深蹲不必外观完全一致。作者保留受控执行、躯干支撑等共同基础，同时允许站距、握距或运动策略有差异。概念上的自由不能替代直接指导，也不能免除比赛标准。\n\n有用动作应当能可靠执行、渐进加量，并与真实目标相连。另一位运动员喜欢的站距或辅助动作，只是候选。应评价舒适度、可控性、表现及其对目标动作的影响，而不是照抄照片。",
+              "source": "Scientific Principles of Strength Training, pp. 315–322 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "technique-selection-2",
+              "title": "改变一个重要变量",
+              "markdown": "从合理的一般计划开始，识别具体失配。若结构有效但总剂量无法恢复，调整组数通常比同时更换所有动作和频率更有信息。若辅助动作迁移差，可以改变选择，同时保持足够多其他因素稳定，以便解释结果。\n\n本书倾向于依据个人观察反应制定进阶。日志可记录预期改变、可比表现指标及复查日期，形成一个小型训练实验。它不能保证因果确定，却比根据某一天好坏给整个计划名称下结论更有证据。",
+              "source": "Scientific Principles of Strength Training, pp. 315–322 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "个体技术差异仍受良好执行与任务要求约束。",
+            "先修正具体失配，再考虑替换整个计划。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "individual-errors",
+          "title": "个体化不等于例外主义",
+          "summary": "个人反应需要反复证据。",
+          "sections": [
+            {
+              "id": "individual-errors-1",
+              "title": "照搬与怀旧",
+              "markdown": "完全照做伙伴的训练，会忽视能力和反应差异；照搬精英方案，还增加训练年限、耐量与恢复条件的差异；重复过去的个人方案，则可能忽视自身已改变。网络模板需要解释，不能一概拒绝或盲目服从。\n\n作者举例说明，一个结构尚可的计划，在减少组数或更换更有专项性的动作后可能有效。这些例子识别了原则层面的失配，并不证明任意调整都能让所有著名模板变成最优。",
+              "source": "Scientific Principles of Strength Training, pp. 323–336 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "individual-errors-2",
+              "title": "没有人免于基础原则",
+              "markdown": "“这个最适合我”应由反复结果支持，而不能只凭偏好。个体性不能为缺少相关刺激、长期失控疲劳或不满足目标的技术辩护。偏好会影响坚持，因此有价值，但要与已证明的表现效果区分。\n\n同样，一次计划效果不佳，不能证明整个结构错误。是否剂量过高？动作选择不匹配？恢复受到特殊限制？本章的中心观点是：个体差异有意义，但通常能够管理，基础训练需求仍然相同。",
+              "source": "Scientific Principles of Strength Training, pp. 323–336 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "个人反应需要反复证据。",
+            "调整剂量不同于放弃原则。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "individual-q1",
+          "objective": "识别同一人随时间发生的变化。",
+          "prompt": "同一人现在睡眠更少、力量比两年前大得多，属于哪个概念？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "个体内差异。",
+              "explanation": "比较的是同一人不同时期；共同原则仍适用，但剂量与恢复需求会改变。"
+            },
+            {
+              "id": "o2",
+              "text": "只有个体间差异。",
+              "explanation": "比较的是同一人不同时期；共同原则仍适用，但剂量与恢复需求会改变。"
+            },
+            {
+              "id": "o3",
+              "text": "证明训练原则已不适用。",
+              "explanation": "比较的是同一人不同时期；共同原则仍适用，但剂量与恢复需求会改变。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "比较的是同一人不同时期；共同原则仍适用，但剂量与恢复需求会改变。",
+          "source": "Scientific Principles of Strength Training, pp. 308–317 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "individual-response"
+        },
+        {
+          "id": "individual-q2",
+          "objective": "为具体剂量失配设计可解释调整。",
+          "prompt": "合理的计划结构似乎训练量过多，哪种实验最便于解释？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "调整组数，同时保持足够多其他条件稳定。",
+              "explanation": "针对疑似失配更易解释结果，同时多变或盲目复制会增加混杂。"
+            },
+            {
+              "id": "o2",
+              "text": "改变全部变量，根据一天结果推断原因。",
+              "explanation": "针对疑似失配更易解释结果，同时多变或盲目复制会增加混杂。"
+            },
+            {
+              "id": "o3",
+              "text": "照搬体型更大运动员的全部方案。",
+              "explanation": "针对疑似失配更易解释结果，同时多变或盲目复制会增加混杂。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "针对疑似失配更易解释结果，同时多变或盲目复制会增加混杂。",
+          "source": "Scientific Principles of Strength Training, pp. 315–322 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "technique-selection"
+        },
+        {
+          "id": "individual-q3",
+          "objective": "解释共同任务要求内的技术差异。",
+          "prompt": "为什么技术合格者可以使用不同站距？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "身体比例和关节结构不同，但仍受共同任务约束。",
+              "explanation": "个体细节可以不同，受控执行与任务标准仍重要，偏好本身不证明优越。"
+            },
+            {
+              "id": "o2",
+              "text": "比赛标准不重要。",
+              "explanation": "个体细节可以不同，受控执行与任务标准仍重要，偏好本身不证明优越。"
+            },
+            {
+              "id": "o3",
+              "text": "每项个人偏好都证明生物力学更优。",
+              "explanation": "个体细节可以不同，受控执行与任务标准仍重要，偏好本身不证明优越。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "个体细节可以不同，受控执行与任务标准仍重要，偏好本身不证明优越。",
+          "source": "Scientific Principles of Strength Training, pp. 315–322 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "technique-selection"
+        },
+        {
+          "id": "individual-q4",
+          "objective": "区分有证据个体化与原则违背。",
+          "prompt": "什么支持个体化调整？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "反复可比的表现记录。",
+              "explanation": "证据支持剂量等调整，个体性不能免除基础要求。"
+            },
+            {
+              "id": "o2",
+              "text": "明确的动作或剂量失配。",
+              "explanation": "证据支持剂量等调整，个体性不能免除基础要求。"
+            },
+            {
+              "id": "o3",
+              "text": "恢复条件变化。",
+              "explanation": "证据支持剂量等调整，个体性不能免除基础要求。"
+            },
+            {
+              "id": "o4",
+              "text": "声称此人完全不需要超负荷。",
+              "explanation": "证据支持剂量等调整，个体性不能免除基础要求。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o3"
+          ],
+          "explanation": "证据支持剂量等调整，个体性不能免除基础要求。",
+          "source": "Scientific Principles of Strength Training, pp. 323–336 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "individual-errors"
+        },
+        {
+          "id": "individual-q5",
+          "objective": "根据实际发展与需求理解经验标签。",
+          "prompt": "应如何理解训练年限标签？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "作为发展与需求的粗略情境，而非固定普遍类别。",
+              "explanation": "书中年限是说明性的，发展、目标和反应更重要，日历标签不能决定减量。"
+            },
+            {
+              "id": "o2",
+              "text": "作为与实际能力无关的完美生物分类。",
+              "explanation": "书中年限是说明性的，发展、目标和反应更重要，日历标签不能决定减量。"
+            },
+            {
+              "id": "o3",
+              "text": "证明初学者应采用精英减量。",
+              "explanation": "书中年限是说明性的，发展、目标和反应更重要，日历标签不能决定减量。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "书中年限是说明性的，发展、目标和反应更重要，日历标签不能决定减量。",
+          "source": "Scientific Principles of Strength Training, pp. 308–317 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "individual-response"
+        }
+      ]
+    },
+    {
+      "id": "periodization",
+      "title": "10 · 完整训练周期",
+      "objectives": [
+        "整合本书四个训练阶段。",
+        "把汇总表理解为情境化估计。",
+        "检查大周期的目标、剂量、进阶与恢复。"
+      ],
+      "lessons": [
+        {
+          "id": "block-comparison",
+          "title": "比较四个训练阶段",
+          "summary": "表格汇总原则，不能替代个体观察。",
+          "sections": [
+            {
+              "id": "block-comparison-1",
+              "title": "大周期地图",
+              "markdown": "来源汇总表把前面章节集中起来，应作为决策工具，而不是自动生成的个人计划。其中典型周工作组示例为：肌肥大每肌群约 15–30 组，力量约 10–20 组，巅峰期约 5–10 个超负荷组，另可配合轻训练。这些是本书情境下的范围；复合动作同时涉及多个肌群，机械累加容易误导。\n\n| 阶段 | 主要结果 | 主要重点 | 保留目标 |\n|---|---|---|---|\n| 肌肥大 | 肌肉与工作能力 | 相关变式、较高训练量 | 与力量训练的联系 |\n| 基础力量 | 一般产力能力 | 大重量复合动作、中等量 | 肌肉 |\n| 巅峰期 | 比赛 1RM 表达 | 合规动作、低训练量 | 肌肉与一般力量 |\n| 积极休息 | 为新周期恢复准备 | 低量、低负荷 | 必要练习和能力 |",
+              "source": "Scientific Principles of Strength Training, pp. 337–343 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "block-comparison-2",
+              "title": "检查比较基准",
+              "markdown": "表格混合了最低负荷、平均负荷、超负荷训练和轻训练。轻重日的平均值，不等于每天使用的最低重量。同样，相对于上一超负荷日的百分比，不自动等于 1RM 百分比。计算前必须明确基准。\n\n叙述与汇总的部分建议并不完全一致，例如力量减量前半段的示例。与其挑选一个看似精确的普遍答案，不如保留共同原则：实质性降低相关要求，同时保留足够刺激。课程有意指出这些来源差异，而不是掩盖它们。",
+              "source": "Scientific Principles of Strength Training, pp. 337–343 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "表格汇总原则，不能替代个体观察。",
+            "每个百分比都要明确基准量。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "macrocycle-audit",
+          "title": "检查完整计划",
+          "summary": "大周期要有互相连接的目的与保留目标。",
+          "sections": [
+            {
+              "id": "macrocycle-audit-1",
+              "title": "从任务倒推",
+              "markdown": "对于一场假想比赛，先预留专项准备和赛前减量时间；此前安排足够的力量重点训练，让已有肌肉形成更高产力；更早的准备可发展肌肉与工作能力。比赛后则安排有意降低要求的积极休息，再开始下一轮建设。\n\n这是依据本书原则编写的原创计划练习，不是保证效果的处方，因此没有给出个人化周数和重量。关键检查是：每个阶段是否有目的，是否保留下一阶段需要的能力，并符合固定比赛日期。",
+              "source": "Scientific Principles of Strength Training, pp. 337–343; synthesis of Chapters 2–9 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "macrocycle-audit-2",
+              "title": "七项检查",
+              "markdown": "1. 工作是否迁移到目标任务？\n2. 刺激是否足够，并随时间渐进？\n3. 完整序列是否能够恢复？\n4. 单课剂量与间隔是否符合目标适应？\n5. 变化是否有目的，并稳定到足以评估？\n6. 前一阶段是否准备而不是破坏后一阶段？\n7. 个体调整有哪些证据？\n\n无法回答的项目，就指向需要修正的地方。不要用精致赛前减量弥补相关训练缺失，也不要靠更炫的计划名称解决过度疲劳。保留最少但有用的记录：实际工作、努力程度、可比表现、恢复情境以及调整理由。",
+              "source": "Scientific Principles of Strength Training, pp. 337–343; synthesis of Chapters 2–9 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "cycle-decision-map",
+              "title": "原创计划工作表",
+              "markdown": "| 阶段 | 开始前写清 | 转换前复查 |\n|---|---|---|\n| 肌肥大 | 所需肌群、可恢复剂量、进阶 | 工作能力是否改善，必要肌肉重点是否保留？ |\n| 力量 | 目标动作、负荷基准、足够量 | 能否提高产力表达而不丢基础？ |\n| 巅峰期 | 合规执行、专项暴露、疲劳限制 | 加重时技术是否稳定？ |\n| 赛前减量 | 明确基准剂量与下降计划 | 疲劳是否下降，能力是否保留？ |\n| 积极休息 | 低要求目标与下周期准备 | 准备状态与已知动作需要是否改善？ |\n\n一个原创算例：某次周深蹲由 5 × 5 × 120 kg（3,000 kg·次），改成拟议“轻课”5 × 10 × 75 kg（3,750 kg·次）。杠铃更轻，但此训练量指标上升 25%。这不证明疲劳上升 25%，却能推翻“该指标下降”的说法。要设计真正下降，应先说明哪些变量要降低，再重新计算。\n\n来源表格还区分工作组与轻组，并允许复合动作对多个肌群有贡献。因此没有计数惯例，就无法解释总数。将来课程引入其他编程模型时，也可复用此工作表：保留各自定义，不要无声混合不兼容的组数或强度规则。",
+              "source": "Scientific Principles of Strength Training, pp. 148–149, 337–343 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "大周期要有互相连接的目的与保留目标。",
+            "按主要优先级到精细调整的顺序检查。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "periodization-q1",
+          "objective": "识别巅峰阶段的主要目的。",
+          "prompt": "哪个阶段主要用低超负荷量强调比赛动作表达？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "巅峰期。",
+              "explanation": "巅峰期练习大重量表达；肌肥大发展肌肉，积极休息降低要求，为新周期准备。"
+            },
+            {
+              "id": "o2",
+              "text": "按定义是肌肥大。",
+              "explanation": "巅峰期练习大重量表达；肌肥大发展肌肉，积极休息降低要求，为新周期准备。"
+            },
+            {
+              "id": "o3",
+              "text": "按定义是积极休息。",
+              "explanation": "巅峰期练习大重量表达；肌肥大发展肌肉，积极休息降低要求，为新周期准备。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "巅峰期练习大重量表达；肌肥大发展肌肉，积极休息降低要求，为新周期准备。",
+          "source": "Scientific Principles of Strength Training, pp. 337–343 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "block-comparison"
+        },
+        {
+          "id": "periodization-q2",
+          "objective": "区分平均负荷与具体课次负荷。",
+          "prompt": "表格报告轻重日平均负荷，可以推出什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "平均值不能规定每个单独训练日的重量。",
+              "explanation": "平均值综合不同观测，不能替代每一天或最低阈值。"
+            },
+            {
+              "id": "o2",
+              "text": "每天都必须等于平均值。",
+              "explanation": "平均值综合不同观测，不能替代每一天或最低阈值。"
+            },
+            {
+              "id": "o3",
+              "text": "平均值必然是重日最低负荷。",
+              "explanation": "平均值综合不同观测，不能替代每一天或最低阈值。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "平均值综合不同观测，不能替代每一天或最低阈值。",
+          "source": "Scientific Principles of Strength Training, pp. 337–343 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "block-comparison"
+        },
+        {
+          "id": "periodization-q3",
+          "objective": "评价前阶段如何挤占后续必要准备。",
+          "prompt": "肌肥大阶段延长到固定比赛前几乎没有力量准备时间，哪里失效？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "阶段决策忽略后续阶段需求。",
+              "explanation": "局部有效阶段若挤占后续必要准备，仍会损害整个大周期。"
+            },
+            {
+              "id": "o2",
+              "text": "比赛日期会自动配合训练移动。",
+              "explanation": "局部有效阶段若挤占后续必要准备，仍会损害整个大周期。"
+            },
+            {
+              "id": "o3",
+              "text": "肌肉更多总能免除准备需要。",
+              "explanation": "局部有效阶段若挤占后续必要准备，仍会损害整个大周期。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "局部有效阶段若挤占后续必要准备，仍会损害整个大周期。",
+          "source": "Scientific Principles of Strength Training, pp. 337–343; synthesis of Chapters 2–9 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "macrocycle-audit"
+        },
+        {
+          "id": "periodization-q4",
+          "objective": "把七项优先原则应用于完整计划检查。",
+          "prompt": "完整计划检查应包括什么？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "相关迁移与足够进阶。",
+              "explanation": "检查评价实际原则，名气本身不能提供这些证据。"
+            },
+            {
+              "id": "o2",
+              "text": "可恢复工作量与课间分布。",
+              "explanation": "检查评价实际原则，名气本身不能提供这些证据。"
+            },
+            {
+              "id": "o3",
+              "text": "阶段间保留及个体证据。",
+              "explanation": "检查评价实际原则，名气本身不能提供这些证据。"
+            },
+            {
+              "id": "o4",
+              "text": "只检查计划名称是否著名。",
+              "explanation": "检查评价实际原则，名气本身不能提供这些证据。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o3"
+          ],
+          "explanation": "检查评价实际原则，名气本身不能提供这些证据。",
+          "source": "Scientific Principles of Strength Training, pp. 337–343; synthesis of Chapters 2–9 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "macrocycle-audit"
+        },
+        {
+          "id": "periodization-q5",
+          "objective": "披露不一致来源估计及其共同原则。",
+          "prompt": "叙述与汇总给出的减量示例比例不同，应如何处理？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "指出差异，保留共同原则，不编造精确确定性。",
+              "explanation": "应披露来源差异，两者都强调实质性降低要求，且所有百分比都要明确基准。"
+            },
+            {
+              "id": "o2",
+              "text": "隐藏差异，宣称其中一个普遍精确。",
+              "explanation": "应披露来源差异，两者都强调实质性降低要求，且所有百分比都要明确基准。"
+            },
+            {
+              "id": "o3",
+              "text": "认为百分比不需要基准量。",
+              "explanation": "应披露来源差异，两者都强调实质性降低要求，且所有百分比都要明确基准。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "应披露来源差异，两者都强调实质性降低要求，且所有百分比都要明确基准。",
+          "source": "Scientific Principles of Strength Training, pp. 337–343 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "block-comparison"
+        }
+      ]
+    },
+    {
+      "id": "myths",
+      "title": "11 · 评价主张与训练潮流",
+      "objectives": [
+        "用原则评价工具与计划名称。",
+        "识别精英案例中的混杂因素。",
+        "区分体重偏好、健康与成绩目标。",
+        "区分来源特定主张与普遍结论。"
+      ],
+      "lessons": [
+        {
+          "id": "tools-and-frequency",
+          "title": "弹力带、铁链与极高频率",
+          "summary": "评价工具的阻力曲线与迁移。",
+          "sections": [
+            {
+              "id": "tools-and-frequency-1",
+              "title": "工具需要合理机制",
+              "markdown": "弹力带与铁链会改变阻力曲线。作者指出，经典力量举与装备力量举的失败位置常不同，因此不检查限制区间就移植装备训练方法，可能降低迁移。超最大重量的上段训练，也可能增加显著疲劳并改变执行。工具既没有魔力，也不自动无用，关键在于功能是否匹配目标。\n\n不稳定器械可能限制能够施加的力；壶铃提供阻力，也必须遵循超负荷要求。它们可能适合某些任务，却对另一些任务过轻或不便。应问训练的是什么，什么限制加量，以及相关比赛能力是否改善。",
+              "source": "Scientific Principles of Strength Training, pp. 344–350, 366–368 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "tools-and-frequency-2",
+              "title": "精英成功不能单独证明原因",
+              "markdown": "“保加利亚式”高频案例涉及举重、经过筛选的运动员、特定阶段，以及异常充分的恢复支持，其中也包括来源讨论的药物使用。这些条件使“每天练极限造就全部成功”或“所有力量举选手都应如此”的推断受到混杂。\n\n作者允许在某些情境和短期集中负荷阶段采用高频，却反对普遍照搬。每天技术练习，不等于每天都进行心理上的极限尝试。应比较完整剂量、动作要求和恢复环境。成功运动员说明某方法可以与成功并存，不能证明每个要素都导致了成功。",
+              "source": "Scientific Principles of Strength Training, pp. 344–350, 366–368 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "评价工具的阻力曲线与迁移。",
+            "精英案例含有筛选与恢复条件等混杂因素。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "cardio-mobility",
+          "title": "心肺、活动能力与目标冲突",
+          "summary": "先说明目标，再评价活动的成本。",
+          "sections": [
+            {
+              "id": "cardio-mobility-1",
+              "title": "避免两个极端",
+              "markdown": "来源既反对“心肺训练保证举得更好”，也反对“任何心肺训练都会毁掉进步”。能够耐受训练的基本心肺能力可能有用，尤其在较高次数训练中。但额外大量耐力工作，会争夺力量训练可用的恢复资源。作者偏向干扰较小的形式，并把专门训练放在与主阶段冲突较少的时期。\n\n其中热量上限和体脂示例属于作者特定估计，不是普遍健康指南，课程不会把它们变成自动处方。感觉恢复更好，本身不能证明长期力量适应更好；应同时评价目标表现与运动员重视的其他目标。",
+              "source": "Scientific Principles of Strength Training, pp. 350–359 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "cardio-mobility-2",
+              "title": "满足任务所需幅度",
+              "markdown": "活动能力训练应针对已经观察到的幅度、力量或技术限制。能够可靠使用所需姿势后，无限增加柔韧性可能只占用时间，未解决表现约束。来源讨论急性拉伸效应，并提醒在高要求举重前避免大量干扰性练习；实际效果仍取决于具体干预与情境。\n\n同样，为乐趣或广泛发展而训练多项运动，是合理选择，但这不代表每个目标都能同时最大化。本书优先追求最大力量举表现；目标更广泛的学习者，可以有意接受不同权衡。评价计划前应先说明目标。",
+              "source": "Scientific Principles of Strength Training, pp. 350–359 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "先说明目标，再评价活动的成本。",
+            "基本能力可能有益，但额外工作并非无限有益。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "bodymass-claims",
+          "title": "体重、外观与真实权衡",
+          "summary": "区分外观、表现、健康与个人偏好。",
+          "sections": [
+            {
+              "id": "bodymass-claims-1",
+              "title": "体重级别不是价值评分",
+              "markdown": "来源批评没有必要的不断降级，以及不受节制的增重。体重更低不自动提高比赛成绩；体重更大也不自动意味着更多有效肌肉或更好的总成绩。变化可能影响肌肉、杠杆、技术、舒适度与评分情境。\n\n原章用带有性别色彩的案例阐述问题，但核心教育区别适用于所有人：把外观偏好、目标表现、健康与生活质量分开。偏好合理存在，却不应被包装成已经证明的成绩优化。教练应明确实际目标与权衡，而不是施压让训练者符合某种外观。",
+              "source": "Scientific Principles of Strength Training, pp. 360–366 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "bodymass-claims-2",
+              "title": "体重不等于肌肉",
+              "markdown": "肌肉增长需要时间，体重快速上升可能包含非收缩组织或水分。作者说明身体尺寸改变可能帮助某个动作，却妨碍另一个。短期水分增加也可能改变装备适配与动作执行，尤其在把装备力量举做法移植到经典力量举时。\n\n本章明确承认健康与日常生活的权衡，而不把更高总成绩当作唯一价值。具体增重速度与健康说法属于来源主张，不是个人预测。单凭这堂概念课，不能推出个人目标体重。应利用框架询问变化要实现什么，以及什么证据能证明它有帮助。",
+              "source": "Scientific Principles of Strength Training, pp. 360–366 (printed page labels; PDF page index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "区分外观、表现、健康与个人偏好。",
+            "体重变化不等于肌肉变化。"
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "program-claims",
+          "title": "没有魔法计划",
+          "summary": "计划名称不会引发适应。",
+          "sections": [
+            {
+              "id": "program-claims-1",
+              "title": "既不靠口号，也不陷入停滞",
+              "markdown": "“只管举”可能掩盖原则缺失；无止境关注小细节，也可能掩盖同样问题。来源提倡有依据地计划，持续执行，再批判性复查。比起脚尖微小角度或辅助动作顺序，更应先确认规定幅度、足够刺激和可恢复工作量是否存在。\n\n逐日随机训练，会让进阶和反应难以解释。自我调节则不同：它为明确原因修改计划，同时保留目标。记录改变，让结果能指导下一次决策。努力与思考相互补充。",
+              "source": "Scientific Principles of Strength Training, pp. 353–355, 368–371 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "program-claims-2",
+              "title": "评价实际安排",
+              "markdown": "本书最后同时拒绝“计划完全不重要”和“响亮名称能自动带来效果”两种信念。初学者可以在许多不完美计划下进步，高级者则常需要更精确匹配。很多结构在剂量、动作或进阶稍作调整后能有用，但任何名称都不能绕过原则。\n\n面对新主张，应问：提出什么适应？相关比较是什么？涉及什么剂量与人群？测量了哪些成本？还有什么不确定性？课程传授来源推理，同时区分训练意见与测量事实。延伸阅读应回到原始情境，不应把书目列表当成自动成立的结论清单。",
+              "source": "Scientific Principles of Strength Training, pp. 353–355, 368–371 (printed page labels; PDF page index is label minus 1)."
+            },
+            {
+              "id": "claim-decision-map",
+              "title": "主张评价图",
+              "markdown": "| 主张 | 缺少的问题 |\n|---|---|\n| 著名运动员使用此工具 | 同时存在什么筛选、其他训练与恢复因素？ |\n| 更多心肺让恢复感觉更好 | 目标力量结果也提高了吗？ |\n| 活动能力总是越多越好 | 现在哪个必要姿势达不到或控制不了？ |\n| 更低级别总是更有竞争力 | 力量、健康和相关评分情境如何改变？ |\n| 更大体重等于更多有用能力 | 肌肉占多少，杠杆与舒适度怎样变化？ |\n| 所有困难计划都等价 | 专项性、剂量、进阶与恢复是否真的一致？ |\n\n本章十二主题可组织为：工具（弹力带铁链及器械）、剂量潮流（极高频与心肺）、推理错误（过度简化与细节执念）、任务适配（活动能力与冲突目标）、体重权衡（无必要降级与过度增重），以及计划主张（随机课与魔法方案）。每项都应使用同一框架检查，而不是换成相反口号。\n\n**批判练习：** “这个工具带来了个人纪录，所以每个人都应该用。”纪录可能真实，但推断改变了人群、目标与比较。还应问负荷、练习、减量或既往适应是否也改变；解释阻力曲线为何可能迁移。合理机制支持试验，不证明普遍优越。反过来，某工具对力量举有限，也不代表对所有其他运动或娱乐目标都无用。",
+              "source": "Scientific Principles of Strength Training, pp. 344–371 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1)."
+            }
+          ],
+          "recap": [
+            "计划名称不会引发适应。",
+            "用原则、实际结果与明确不确定性评价主张。"
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "myths-q1",
+          "objective": "识别精英成功案例中的混杂。",
+          "prompt": "为何精英成功不能证明某个特殊方法导致了成功？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "筛选、完整计划与恢复条件可能混杂关联。",
+              "explanation": "案例提供情境，却不隔离原因，不应自动全盘认可或否定。"
+            },
+            {
+              "id": "o2",
+              "text": "成功证明每个细节最优。",
+              "explanation": "案例提供情境，却不隔离原因，不应自动全盘认可或否定。"
+            },
+            {
+              "id": "o3",
+              "text": "运动员案例永远没有任何信息。",
+              "explanation": "案例提供情境，却不隔离原因，不应自动全盘认可或否定。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "案例提供情境，却不隔离原因，不应自动全盘认可或否定。",
+          "source": "Scientific Principles of Strength Training, pp. 344–350, 366–368 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "tools-and-frequency"
+        },
+        {
+          "id": "myths-q2",
+          "objective": "根据实际限制评价阻力曲线变化。",
+          "prompt": "弹力带让动作上端更难，但训练者失败在底部，应先问什么？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "改变的阻力曲线是否处理真实限制。",
+              "explanation": "相关问题是机制与迁移，流行与全盘判断均不能检验具体用途。"
+            },
+            {
+              "id": "o2",
+              "text": "弹力带是否流行。",
+              "explanation": "相关问题是机制与迁移，流行与全盘判断均不能检验具体用途。"
+            },
+            {
+              "id": "o3",
+              "text": "该工具是否对所有目标永远无用。",
+              "explanation": "相关问题是机制与迁移，流行与全盘判断均不能检验具体用途。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "相关问题是机制与迁移，流行与全盘判断均不能检验具体用途。",
+          "source": "Scientific Principles of Strength Training, pp. 344–350, 366–368 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "tools-and-frequency"
+        },
+        {
+          "id": "myths-q3",
+          "objective": "通过剂量与竞争目标评价心肺主张。",
+          "prompt": "哪个主张最符合心肺训练课程？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "评价剂量、目标和干扰，而非接受极端口号。",
+              "explanation": "基本能力与额外大量耐力要求不同，效果取决于完整目标与负担情境。"
+            },
+            {
+              "id": "o2",
+              "text": "每一分钟都会破坏力量适应。",
+              "explanation": "基本能力与额外大量耐力要求不同，效果取决于完整目标与负担情境。"
+            },
+            {
+              "id": "o3",
+              "text": "无限耐力训练保证力量举更好。",
+              "explanation": "基本能力与额外大量耐力要求不同，效果取决于完整目标与负担情境。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "基本能力与额外大量耐力要求不同，效果取决于完整目标与负担情境。",
+          "source": "Scientific Principles of Strength Training, pp. 350–359 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "cardio-mobility"
+        },
+        {
+          "id": "myths-q4",
+          "objective": "区分体重、表现、外观与健康目标。",
+          "prompt": "讨论体重级别应区分什么？选择所有正确项。",
+          "multiple": true,
+          "options": [
+            {
+              "id": "o1",
+              "text": "外观偏好与已证明成绩效应。",
+              "explanation": "应明确不同目标与质量组成，越轻或越重都不自动更好。"
+            },
+            {
+              "id": "o2",
+              "text": "体重与有用肌肉量。",
+              "explanation": "应明确不同目标与质量组成，越轻或越重都不自动更好。"
+            },
+            {
+              "id": "o3",
+              "text": "健康舒适目标与更高总成绩的愿望。",
+              "explanation": "应明确不同目标与质量组成，越轻或越重都不自动更好。"
+            },
+            {
+              "id": "o4",
+              "text": "假定越轻竞争力必然越强。",
+              "explanation": "应明确不同目标与质量组成，越轻或越重都不自动更好。"
+            }
+          ],
+          "correct": [
+            "o1",
+            "o2",
+            "o3"
+          ],
+          "explanation": "应明确不同目标与质量组成，越轻或越重都不自动更好。",
+          "source": "Scientific Principles of Strength Training, pp. 360–366 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "bodymass-claims"
+        },
+        {
+          "id": "myths-q5",
+          "objective": "区分计划内自我调节与逐日随机选择。",
+          "prompt": "自我调节与逐日随机训练有什么区别？",
+          "multiple": false,
+          "options": [
+            {
+              "id": "o1",
+              "text": "有明确理由地调整一致计划，同时保留目标。",
+              "explanation": "自我调节在计划内使用证据，随机换目标和缺少记录会增加解释难度。"
+            },
+            {
+              "id": "o2",
+              "text": "无需记录或复查改变。",
+              "explanation": "自我调节在计划内使用证据，随机换目标和缺少记录会增加解释难度。"
+            },
+            {
+              "id": "o3",
+              "text": "规定每天早晨选择新目标。",
+              "explanation": "自我调节在计划内使用证据，随机换目标和缺少记录会增加解释难度。"
+            }
+          ],
+          "correct": [
+            "o1"
+          ],
+          "explanation": "自我调节在计划内使用证据，随机换目标和缺少记录会增加解释难度。",
+          "source": "Scientific Principles of Strength Training, pp. 353–355, 368–371 (printed page labels; PDF page index is label minus 1).",
+          "lessonId": "program-claims"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "intensity",
+      "term": "强度",
+      "aliases": [
+        "绝对强度"
+      ],
+      "definition": "在本来源中指动作中的外部阻力，通常以杠铃负重 kg 或 lb 记录；须与努力程度、1RM 百分比区分。",
+      "source": "Scientific Principles of Strength Training, p. 13 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-variables",
+        "goal-specific-overload"
+      ]
+    },
+    {
+      "id": "relative-intensity",
+      "term": "相对强度",
+      "aliases": [
+        "接近力竭程度"
+      ],
+      "definition": "本书指接近向心肌肉力竭的程度。其他来源常用它指 1RM 百分比，两种定义不可无声替换。",
+      "source": "Scientific Principles of Strength Training, p. 13 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-variables",
+        "mrv-context"
+      ]
+    },
+    {
+      "id": "volume",
+      "term": "负荷训练量",
+      "aliases": [
+        "吨位",
+        "训练量"
+      ],
+      "definition": "组数 × 次数 × 外部负荷，是在动作、训练者和运动幅度可比时用于近似工作量的实用指标，不是焦耳意义的机械功。",
+      "source": "Scientific Principles of Strength Training, p. 13 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-variables"
+      ]
+    },
+    {
+      "id": "frequency",
+      "term": "频率",
+      "aliases": [],
+      "definition": "规定时间内的训练次数；次数本身没有说明单课剂量或各课间隔。",
+      "source": "Scientific Principles of Strength Training, p. 13; pp. 229–230 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "frequency-dose",
+        "session-spacing"
+      ]
+    },
+    {
+      "id": "exercise-selection",
+      "term": "动作选择",
+      "aliases": [],
+      "definition": "计划或训练课中实际使用的动作，应根据目标适应及迁移作用选择。",
+      "source": "Scientific Principles of Strength Training, p. 13 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "directed-adaptation",
+        "technique-selection"
+      ]
+    },
+    {
+      "id": "session",
+      "term": "训练课",
+      "aliases": [],
+      "definition": "有起点、工作部分和终点的一次训练，其负担要结合前后序列理解。",
+      "source": "Scientific Principles of Strength Training, p. 14 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales"
+      ]
+    },
+    {
+      "id": "light-session",
+      "term": "轻训练课",
+      "aliases": [],
+      "definition": "有意不构成超负荷、降低要求的训练课，用于降低疲劳，同时保留练习和相关适应。",
+      "source": "Scientific Principles of Strength Training, p. 14; pp. 147–151 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "recovery-tools"
+      ]
+    },
+    {
+      "id": "microcycle",
+      "term": "小周期",
+      "aliases": [],
+      "definition": "从某类训练课到其再次出现的计划区间，常为一周但不必如此，包含训练与休息。",
+      "source": "Scientific Principles of Strength Training, p. 14 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales"
+      ]
+    },
+    {
+      "id": "accumulation",
+      "term": "累积期",
+      "aliases": [],
+      "definition": "训练要求逐步提高的连续小周期，常通过提高负荷、训练量或两者实现。",
+      "source": "Scientific Principles of Strength Training, p. 15 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales",
+        "recovery-tools"
+      ]
+    },
+    {
+      "id": "deload",
+      "term": "减量期",
+      "aliases": [
+        "减量周"
+      ],
+      "definition": "明显降低训练要求的小周期，目的是降低疲劳并保留适应；与最后赛前减量有所区别。",
+      "source": "Scientific Principles of Strength Training, p. 15; pp. 151–154 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "recovery-tools"
+      ]
+    },
+    {
+      "id": "mesocycle",
+      "term": "中周期",
+      "aliases": [],
+      "definition": "追求明确适应的小周期序列，常包含累积期与减量期。",
+      "source": "Scientific Principles of Strength Training, p. 16 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales"
+      ]
+    },
+    {
+      "id": "training-block",
+      "term": "训练阶段",
+      "aliases": [
+        "训练块"
+      ],
+      "definition": "以主要训练目的连接的一个或多个中周期，由功能而非固定日历长度定义。",
+      "source": "Scientific Principles of Strength Training, p. 16 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales",
+        "block-comparison"
+      ]
+    },
+    {
+      "id": "macrocycle",
+      "term": "大周期",
+      "aliases": [],
+      "definition": "为更大表现目标有序安排的一系列训练阶段，通常以比赛为节点，并包括之后的恢复。",
+      "source": "Scientific Principles of Strength Training, p. 16 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales",
+        "macrocycle-audit"
+      ]
+    },
+    {
+      "id": "strength",
+      "term": "力量",
+      "aliases": [],
+      "definition": "产生最大力的能力；其表达受到任务、技术和当前状态影响。",
+      "source": "Scientific Principles of Strength Training, p. 17 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "strength-mobility"
+      ]
+    },
+    {
+      "id": "task-strength",
+      "term": "专项力量",
+      "aliases": [],
+      "definition": "在指定动作中表达的最大产力能力；限制环节约束完整任务的成功表现。",
+      "source": "Scientific Principles of Strength Training, p. 17 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "strength-mobility",
+        "specificity-spectrum"
+      ]
+    },
+    {
+      "id": "hypertrophy",
+      "term": "肌肥大",
+      "aliases": [
+        "肌肉增长"
+      ],
+      "definition": "肌肉体积增加。在来源的力量举框架中，肌肥大阶段发展相关肌肉与工作能力，也可在减脂中帮助保留肌肉。",
+      "source": "Scientific Principles of Strength Training, pp. 17–18 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales",
+        "block-comparison"
+      ]
+    },
+    {
+      "id": "peaking",
+      "term": "巅峰期",
+      "aliases": [],
+      "definition": "使已有肌肉与一般力量在合规极限动作中表达的训练，包含专项大重量练习，最后接赛前减量。",
+      "source": "Scientific Principles of Strength Training, p. 18; pp. 290–292 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "phase-sequence",
+        "tapering"
+      ]
+    },
+    {
+      "id": "active-rest",
+      "term": "积极休息",
+      "aliases": [],
+      "definition": "通常在重要周期或比赛后的低要求训练阶段，降低累积疲劳，为下一轮有效训练准备；没有累积期。",
+      "source": "Scientific Principles of Strength Training, p. 18; pp. 154–156 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "training-timescales",
+        "recovery-tools"
+      ]
+    },
+    {
+      "id": "homeostasis",
+      "term": "稳态",
+      "aliases": [],
+      "definition": "维持相对稳定内部环境的过程；足够训练会扰动稳态，引发恢复与适应。",
+      "source": "Scientific Principles of Strength Training, p. 18 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "strength-mobility",
+        "overload-conditions"
+      ]
+    },
+    {
+      "id": "periodization",
+      "term": "周期化",
+      "aliases": [],
+      "definition": "为目标适应、可管理疲劳及指定时间的表现，有逻辑地安排训练变量。",
+      "source": "Scientific Principles of Strength Training, p. 19 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "priority-framework",
+        "macrocycle-audit"
+      ]
+    },
+    {
+      "id": "flexibility",
+      "term": "柔韧性",
+      "aliases": [],
+      "definition": "一个或多个关节可用的运动幅度；是活动能力的一部分，不等于负重动作控制。",
+      "source": "Scientific Principles of Strength Training, p. 19 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "strength-mobility",
+        "cardio-mobility"
+      ]
+    },
+    {
+      "id": "technique",
+      "term": "动作技术",
+      "aliases": [],
+      "definition": "组织身体姿势与运动，以有效、受控地完成任务；具体细节可因身体比例而不同。",
+      "source": "Scientific Principles of Strength Training, p. 19 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "strength-mobility",
+        "technique-selection"
+      ]
+    },
+    {
+      "id": "mobility",
+      "term": "活动能力",
+      "aliases": [],
+      "definition": "本来源指柔韧性、力量与技术的交集，即能够达到并控制任务所需姿势。",
+      "source": "Scientific Principles of Strength Training, pp. 19–20 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "strength-mobility",
+        "cardio-mobility"
+      ]
+    },
+    {
+      "id": "specificity",
+      "term": "专项性",
+      "aliases": [
+        "特异性"
+      ],
+      "definition": "训练目标任务依赖的系统，从广义支持能力到狭义比赛执行形成连续谱。",
+      "source": "Scientific Principles of Strength Training, pp. 26–29 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "specificity-spectrum"
+      ]
+    },
+    {
+      "id": "compatibility",
+      "term": "训练方式兼容性",
+      "aliases": [],
+      "definition": "不同训练方式相互支持或干扰的程度，包括对恢复、时间和适应的竞争。",
+      "source": "Scientific Principles of Strength Training, pp. 29–39 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "specificity-spectrum",
+        "cardio-mobility"
+      ]
+    },
+    {
+      "id": "directed-adaptation",
+      "term": "定向适应",
+      "aliases": [],
+      "definition": "持续、有序地接触相关刺激，维持足够时间，使目标能力形成并得到保留。",
+      "source": "Scientific Principles of Strength Training, pp. 40–42 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "directed-adaptation",
+        "variation-errors"
+      ]
+    },
+    {
+      "id": "overload",
+      "term": "超负荷",
+      "aliases": [
+        "渐进超负荷"
+      ],
+      "definition": "足够的相关刺激，加上随着适应而逐步超过近期经验的要求；不要求每一堂连续课都更难。",
+      "source": "Scientific Principles of Strength Training, pp. 72–74 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "overload-conditions"
+      ]
+    },
+    {
+      "id": "mrv",
+      "term": "最大可恢复训练量",
+      "aliases": [
+        "MRV"
+      ],
+      "definition": "在具体情境下能够充分恢复并获益的最高训练量，随动作、负荷、努力程度、恢复及训练状态变化。",
+      "source": "Scientific Principles of Strength Training, pp. 76–78; pp. 121–133 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "overload-conditions",
+        "mrv-context"
+      ]
+    },
+    {
+      "id": "fatigue",
+      "term": "累积疲劳",
+      "aliases": [
+        "训练疲劳"
+      ],
+      "definition": "跨训练持续存在的扰动，若不定期降低可能妨碍表现或适应；本书按多个生理来源进行解释。",
+      "source": "Scientific Principles of Strength Training, pp. 104–116 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "fatigue-systems"
+      ]
+    },
+    {
+      "id": "overreaching",
+      "term": "功能性过度负荷",
+      "aliases": [
+        "功能性超量训练"
+      ],
+      "definition": "有意造成暂时的刺激恢复失配，随后安排充分低要求训练，期望恢复后兑现收益；不同于长期退步。",
+      "source": "Scientific Principles of Strength Training, pp. 116–118 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "fatigue-systems",
+        "session-spacing"
+      ]
+    },
+    {
+      "id": "sra",
+      "term": "刺激—恢复—适应",
+      "aliases": [
+        "SRA"
+      ],
+      "definition": "描述训练如何扰动功能、恢复如何复原及适应如何提升的概念模型；过程互相重叠，不同系统也有差异。",
+      "source": "Scientific Principles of Strength Training, pp. 186–209 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "sra-model"
+      ]
+    },
+    {
+      "id": "variation",
+      "term": "变化",
+      "aliases": [],
+      "definition": "策略性调整相关训练变量，处理停滞并针对需求，同时遵守专项性与定向适应。",
+      "source": "Scientific Principles of Strength Training, pp. 243–254 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "adaptive-resistance",
+        "directed-variation"
+      ]
+    },
+    {
+      "id": "adaptive-resistance",
+      "term": "适应阻力",
+      "aliases": [],
+      "definition": "本书模型中对重复刺激的反应逐渐减弱；与未恢复疲劳相关，但不是同一概念。",
+      "source": "Scientific Principles of Strength Training, pp. 244–252 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "adaptive-resistance"
+      ]
+    },
+    {
+      "id": "phase-potentiation",
+      "term": "阶段促进",
+      "aliases": [
+        "阶段增强"
+      ],
+      "definition": "安排阶段顺序，使先前阶段保留的适应支持后续阶段的提高或表达。",
+      "source": "Scientific Principles of Strength Training, pp. 278–286 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "phase-sequence"
+      ]
+    },
+    {
+      "id": "adaptive-decay",
+      "term": "适应衰退",
+      "aliases": [],
+      "definition": "相关刺激缺失或不足时，既有适应下降；维持所需工作可少于发展，但阶段转换仍需考虑。",
+      "source": "Scientific Principles of Strength Training, pp. 282–285 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "phase-sequence",
+        "phase-transitions"
+      ]
+    },
+    {
+      "id": "taper",
+      "term": "赛前减量",
+      "aliases": [],
+      "definition": "比赛前最后降低训练要求的过程，目的是降低疲劳，同时保留肌肉、力量与极限动作执行能力。",
+      "source": "Scientific Principles of Strength Training, pp. 292–299 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "tapering"
+      ]
+    },
+    {
+      "id": "autoregulation",
+      "term": "自我调节",
+      "aliases": [],
+      "definition": "依据观察反应调整计划训练，同时保留目标与更大日程；不同于每日随机训练。",
+      "source": "Scientific Principles of Strength Training, pp. 156–160; p. 368 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "recovery-tools",
+        "program-claims"
+      ]
+    },
+    {
+      "id": "individual-difference",
+      "term": "个体差异",
+      "aliases": [],
+      "definition": "人与人之间或同一人随时间的训练反应差异，通常通过剂量、进阶、动作、技术及重点调整处理。",
+      "source": "Scientific Principles of Strength Training, pp. 308–317 (printed page labels; PDF page index is label minus 1).",
+      "lessonIds": [
+        "individual-response"
+      ]
+    },
+    {
+      "id": "mass-phase",
+      "term": "增重阶段",
+      "aliases": [
+        "增肌增重"
+      ],
+      "definition": "以增加肌肉为目的的营养与训练协调阶段；来源将其与较高量训练及热量盈余联系。",
+      "source": "Scientific Principles of Strength Training, pp. 16–17 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "training-timescales"
+      ]
+    },
+    {
+      "id": "maintenance-phase",
+      "term": "维持阶段",
+      "aliases": [
+        "体重维持"
+      ],
+      "definition": "使体重大致稳定的营养阶段，可以配合不同训练目标。",
+      "source": "Scientific Principles of Strength Training, p. 17 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "training-timescales"
+      ]
+    },
+    {
+      "id": "cut-phase",
+      "term": "减脂阶段",
+      "aliases": [
+        "减脂"
+      ],
+      "definition": "旨在减少脂肪并保留肌肉的协调阶段；在来源框架中，热量缺口可能降低可恢复训练要求。",
+      "source": "Scientific Principles of Strength Training, p. 17 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "training-timescales",
+        "mrv-context"
+      ]
+    },
+    {
+      "id": "general-strength-block",
+      "term": "基础力量阶段",
+      "aliases": [
+        "一般力量阶段"
+      ],
+      "definition": "强调提高产力能力的阶段，采用较大复合动作负荷，并保留足够工作以维持肌肉。",
+      "source": "Scientific Principles of Strength Training, p. 18; pp. 289–290 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "phase-transitions",
+        "block-comparison"
+      ]
+    },
+    {
+      "id": "ad-ratio",
+      "term": "累积与减量比例",
+      "aliases": [
+        "累积减量比"
+      ],
+      "definition": "累积与减量的时间分配比例。3:1 表示三个时间单位累积、一个时间单位减量，不是普遍日历要求。",
+      "source": "Scientific Principles of Strength Training, p. 16; pp. 158–160 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "training-timescales",
+        "recovery-tools"
+      ]
+    },
+    {
+      "id": "one-rm",
+      "term": "一次最大重复重量",
+      "aliases": [
+        "1RM"
+      ],
+      "definition": "在规定执行条件下，指定动作单次成功完成的最大负荷。百分比比较需要相关且为正的基准。",
+      "source": "Scientific Principles of Strength Training, pp. 18, 82–84 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "goal-specific-overload"
+      ]
+    },
+    {
+      "id": "power",
+      "term": "功率",
+      "aliases": [
+        "爆发功率"
+      ],
+      "definition": "机械功的变化速率。当力沿运动方向时，瞬时功率为力 × 速度；最大举重意图不保证杠铃速度高。",
+      "source": "Scientific Principles of Strength Training, pp. 35–36, 89–90 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "specificity-spectrum",
+        "overload-errors"
+      ]
+    },
+    {
+      "id": "motor-unit",
+      "term": "运动单位",
+      "aliases": [],
+      "definition": "一个运动神经元及其支配的肌纤维；肌内与肌间协调共同参与目标动作。",
+      "source": "Scientific Principles of Strength Training, pp. 32, 45–46 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "specificity-spectrum"
+      ]
+    },
+    {
+      "id": "glycogen",
+      "term": "糖原",
+      "aliases": [
+        "肌糖原"
+      ],
+      "definition": "储存形式的碳水化合物，包括肌肉与肝脏储备。来源强调肌糖原在反复高要求工作及恢复补充中的作用。",
+      "source": "Scientific Principles of Strength Training, pp. 105–107 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "fatigue-systems"
+      ]
+    },
+    {
+      "id": "fsr",
+      "term": "分数合成率",
+      "aliases": [
+        "FSR"
+      ],
+      "definition": "描述一定时间内蛋白库被合成比例的速率。来源将其叠加于肌肉 SRA 模型；合成率本身不能测出净肌肉增长。",
+      "source": "Scientific Principles of Strength Training, pp. 192–194 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "sra-model",
+        "frequency-dose"
+      ]
+    },
+    {
+      "id": "pennation",
+      "term": "羽状角",
+      "aliases": [
+        "肌纤维羽状角"
+      ],
+      "definition": "肌纤维相对于肌腱的角度。来源把与动作相关的结构变化，视为专项产力的贡献因素之一。",
+      "source": "Scientific Principles of Strength Training, pp. 45, 193 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "specificity-spectrum",
+        "frequency-dose"
+      ]
+    },
+    {
+      "id": "work-capacity",
+      "term": "工作能力",
+      "aliases": [
+        "训练工作能力"
+      ],
+      "definition": "完成所需训练工作量的能力；与恢复能力共同约束 MRV，不等同于一般耐力。",
+      "source": "Scientific Principles of Strength Training, pp. 128–130 (printed page labels and 1-based PDF pages coincide; 0-based PDF index is label minus 1).",
+      "lessonIds": [
+        "mrv-context"
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "id": "strength-volume",
+      "type": "volume",
+      "title": "负荷训练量实验室",
+      "lessonId": "training-variables",
+      "source": "Scientific Principles of Strength Training, pp. 12–14 (printed page labels; PDF page index is label minus 1).",
+      "objective": "比较组数、次数与负重的算术关系。",
+      "rationale": "输入：组数、次数、kg 负重。输出：组数 × 次数 × kg，以 kg·次表示。每次改变一个输入。",
+      "assumptions": "假设同一动作、训练者和幅度，只计算质量近似量，不估计生理刺激、热量、疲劳或损伤风险。输入为正有限数，重置恢复示例。",
+      "staticAlternative": "4 组 × 5 次 × 100 kg = 2,000 kg·次。其他不变时，重量减半则此指标减半。",
+      "verification": "用直接乘法检验：4 × 5 × 100 = 2,000；2 × 5 × 100 = 1,000；任一因子加倍，结果加倍。",
+      "config": {
+        "sets": 4,
+        "reps": 5,
+        "load": 100
+      }
+    },
+    {
+      "id": "strength-intensity",
+      "type": "intensity",
+      "title": "百分比需要基准",
+      "lessonId": "goal-specific-overload",
+      "source": "Scientific Principles of Strength Training, pp. 78–86 (printed page labels; PDF page index is label minus 1).",
+      "objective": "计算负荷百分比，同时与接近力竭程度区分。",
+      "rationale": "输入：外部负荷与参考实测 1RM，均为 kg。输出：100 × 负荷 / 参考 1RM（%）。调整任一值并观察比率。",
+      "assumptions": "参考 1RM 必须为正且对应同一动作。结果不预测可完成次数、不规定安全重量，也不测量准备度。本书“相对强度”另指接近力竭程度。",
+      "staticAlternative": "120 kg / 160 kg × 100 = 75%。即使杠铃仍为 120 kg，基准变化时结果也变化。",
+      "verification": "用比例检验：120/160 = 0.75；负荷等于基准时为 100%；零基准无效。",
+      "config": {
+        "load": 120,
+        "max": 160
+      }
+    },
+    {
+      "id": "strength-sequence",
+      "type": "sequence",
+      "title": "连接训练阶段",
+      "lessonId": "phase-sequence",
+      "source": "Scientific Principles of Strength Training, pp. 278–291 (printed page labels; PDF page index is label minus 1).",
+      "objective": "解释每阶段发展什么，以及应保留什么。",
+      "rationale": "依次选择各阶段，比较它们在本书肌肉 → 力量 → 巅峰 → 积极休息顺序中的作用。",
+      "assumptions": "这是比赛大周期的概念顺序练习。现实中多种日程可能有效，不预测公斤数进步或理想日期。重置返回示例。",
+      "staticAlternative": "肌肉发展支持产力发展，产力发展支持极限动作表达，低要求积极休息为下一周期准备。",
+      "verification": "依据来源阶段顺序论证、保留目标和汇总表核验，见 pp. 278–306 与 337–343。",
+      "config": {
+        "stages": [
+          "hypertrophy",
+          "strength",
+          "peaking",
+          "active-rest"
+        ],
+        "steps": [
+          {
+            "title": "肌肥大",
+            "description": "发展相关肌肉和工作能力，保留与力量训练的联系。"
+          },
+          {
+            "title": "基础力量",
+            "description": "发展产力能力，同时保留有用肌肉。"
+          },
+          {
+            "title": "巅峰期",
+            "description": "练习合规大重量执行，通过赛前减量降低疲劳。"
+          },
+          {
+            "title": "积极休息",
+            "description": "比赛后降低要求，为下一轮有效训练准备。"
+          }
+        ]
+      }
+    }
+  ],
+  "title": "力量训练的科学原则",
+  "subtitle": "理解训练原则，建立编程判断。",
+  "description": "依据原书全部十一实质章节独立编写并标注来源：训练语言、七项原则、完整周期规划及力量举主张评价。示例是教育模型，不是个人训练处方。"
+}

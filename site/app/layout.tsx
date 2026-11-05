@@ -1,0 +1,1 @@
+import './globals.css';export const metadata={title:'Strength Study | 运动科学学习库',description:'An independent bilingual library of strength and hypertrophy training principles.'};export default function Layout({children}:{children:React.ReactNode}){return <html lang="en" suppressHydrationWarning><body>{children}</body></html>}

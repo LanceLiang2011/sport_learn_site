@@ -1,0 +1,2724 @@
+{
+  "id": "hypertrophy",
+  "language": "en",
+  "authors": [
+    "Mike Israetel",
+    "James Hoffmann",
+    "Melissa Davis",
+    "Jared Feather"
+  ],
+  "source": {
+    "title": "Scientific Principles of Hypertrophy Training",
+    "authors": [
+      "Mike Israetel",
+      "James Hoffmann",
+      "Melissa Davis",
+      "Jared Feather"
+    ],
+    "edition": "EPUB publication metadata: 2021-02-12",
+    "format": "EPUB",
+    "attribution": "Original educational synthesis based on Scientific Principles of Hypertrophy Training. English-language source; EPUB section locators, not printed pages. No reproduction license established."
+  },
+  "title": "The Science of Muscle Growth",
+  "subtitle": "Eight principles-to-practice chapters",
+  "description": "Understand the complete training framework of Israetel, Hoffmann, Davis and Feather: choose specific stimuli, progress within recovery limits, organize training over time, and adapt the plan to the individual. Original explanations distinguish source recommendations from measured relationships and uncertain models.",
+  "chapters": [
+    {
+      "id": "specificity",
+      "title": "Specificity",
+      "objectives": [
+        "Explain directed adaptation and compatibility",
+        "Translate a needs analysis into training priorities",
+        "Distinguish hypertrophy from maximal strength"
+      ],
+      "lessons": [
+        {
+          "id": "specific-goals",
+          "title": "What should training accomplish?",
+          "summary": "Start with the adaptation you want, then justify each part of the program.",
+          "sections": [
+            {
+              "id": "specific-goals-directed",
+              "title": "Directed adaptation",
+              "markdown": "[Specificity](term:specificity) asks whether training directly creates the desired adaptation or prepares something that will enable it later. Repeated exposure to a sufficiently consistent stimulus allows technical skill and tissue adaptations to accumulate. Constantly replacing the main exercises or rep ranges can interrupt that process. The authors discuss a possible preparatory-to-myofibrillar sequence of hypertrophy; treat this as their proposed mechanism, not as a measured timetable for an individual.\n\nA light practice squat may support future growth by improving technique even if it is not itself a demanding growth stimulus. This is different from assuming every difficult activity builds the muscles you want. In a training log, give each activity a direct-growth, support, or other-goal role.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Directed adaptation in hypertrophy training"
+            },
+            {
+              "id": "specific-goals-strength",
+              "title": "Size and strength overlap, but goals differ",
+              "markdown": "A larger muscle can support greater force production, but maximal lifting performance also depends on skill, neural coordination and familiarity with heavy loads. A heavy single may improve expression of strength while providing little total hypertrophy work for its fatigue cost. The book therefore rejects treating a one-repetition record as the main objective of a muscle-growth phase.\n\nConversely, progressing repetitions with stable technique over several mesocycles can be useful indirect evidence of growth. It is not proof: motor learning and altered range of motion can also raise performance. Compare like with like, and read performance alongside body measurements, photographs and recovery observations over an appropriate timescale.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Conflating hypertrophy and strength training"
+            }
+          ],
+          "recap": [
+            "Justify training by its relationship to the desired adaptation.",
+            "Stable exposure supports learning and adaptation; strength records are not direct muscle measurements."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "compatibility",
+          "title": "Concurrent activities and opportunity cost",
+          "summary": "Judge interference by overlap, stimulus type, energy cost and fatigue.",
+          "sections": [
+            {
+              "id": "compatibility-overlap",
+              "title": "Four questions about compatibility",
+              "markdown": "Ask whether an added activity uses the same structures, asks those structures to adapt in a different way, consumes substantial energy, or produces considerable damage and fatigue. More overlap with a conflicting stimulus generally increases interference with an exclusive hypertrophy goal. Long-distance running and quadriceps growth compete more directly than a short, easy recreational activity and arm growth.\n\nThe book ranks endurance and combat sports as less compatible with maximal hypertrophy than technique-based sports or low-impact hobbies. This is a goal-specific ordering, not a judgment of their value for health or enjoyment. Multiple goals are legitimate; account for their tradeoffs instead of expecting to maximize all of them simultaneously.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Training modality compatibility in hypertrophy training"
+            },
+            {
+              "id": "compatibility-allocation",
+              "title": "Make tradeoffs visible",
+              "markdown": "Create a weekly map of muscle loading, demanding sessions, and genuine recovery days. A sport practice can load the same joints and supporting muscles as a gym session even when it is not counted as a lifting set. Energy expenditure also affects whether eating supports growth or turns an intended surplus into maintenance.\n\n**Worked example:** a trainee wants larger legs while preparing for a distance race. Removing all running would violate the race goal. Instead, identify which goal has priority in the current block and reduce expectations or training demands for the other. This is an original decision example applying the book’s compatibility framework, not a quantified interference formula.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Assessing the compatibility of an activity with hypertrophy"
+            }
+          ],
+          "recap": [
+            "Other training consumes time, energy and recovery resources.",
+            "Evaluate compatibility relative to stated priorities."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "needs-analysis",
+          "title": "Build a needs analysis",
+          "summary": "Turn preferences and physique demands into explicit priorities.",
+          "sections": [
+            {
+              "id": "needs-analysis-priorities",
+              "title": "Needs, strengths and weaknesses",
+              "markdown": "First describe the desired outcome. Competitive physique standards and a hobbyist’s personal preferences need not be the same. Then compare current strengths and weaknesses with that outcome and rank muscle groups by priority. A program that always trains a lagging muscle last may not match its stated priorities.\n\nAllocate more fresh training time to priority muscles while preserving enough work elsewhere. Beginners generally have room to train the whole body productively; advanced lifters may need specialization. Avoid prescribing advanced specialization merely because a novice dislikes one body part. The practical question is what limits useful progress, not which routine looks most professional.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Needs analysis in physique training"
+            },
+            {
+              "id": "needs-analysis-tools",
+              "title": "Compounds, isolations and nutrition",
+              "markdown": "Compound movements stimulate several muscles efficiently, while isolations can add local work when a synergist or systemic fatigue limits compounds. Neither class is universally superior. Excessively narrow exercise selection can miss regional or biomechanical actions and concentrate repetitive stress; excessive isolation can waste time and broader stimulus opportunities.\n\nDiet supports the training goal. The source discusses adequate protein at approximately **1 g per lb of body mass per day** (about **2.2 g/kg/day**) and sufficient energy for growth. This is the authors’ general nutrition context, not a personal dietary prescription. Growth, maintenance and fat-loss phases create different recovery conditions; later chapters return to those differences.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, The Critical Role of Diet in Hypertrophy; Over-Application of Specificity"
+            },
+            {
+              "id": "needs-analysis-allocation-map",
+              "title": "An original priority map",
+              "markdown": "| Needs-analysis finding | Program implication | Check in the log |\n| --- | --- | --- |\n| A muscle is a genuine priority | Give it fresh attention and appropriate dose | Does it always end up last? |\n| A muscle is already developed enough | Preserve it with an appropriate maintenance emphasis | Is extra work consuming recovery? |\n| Several goals matter | State a current block priority | Is the promised outcome realistic? |\n| A compound is limited by a support muscle | Adjust technique, exercise mix or complementary isolation | Which structure actually ends the set? |\n\nThis original decision table combines the source’s needs analysis and under/over-application examples; it is not an automatic prescription. The hamstrings illustrate complementary actions: knee flexion and hip extension are not trained identically by leg curls and hip hinges. Likewise, a press and a fly do not cover precisely the same pectoral action or range.\n\nThe nutrition discussion additionally proposes 4–6 reasonably spaced meals with daily protein spread fairly evenly. This is a source-specific example supporting the broader point that diet can change the result of the same program. It is not a necessary meal schedule for every learner.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml, Needs analysis; The Critical Role of Diet in Hypertrophy; Multiple muscular biomechanical actions and ranges of motion exist"
+            }
+          ],
+          "recap": [
+            "Make muscle priorities explicit before choosing exercises.",
+            "Use compound and isolation movements as complementary tools."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-specificity-q1",
+          "objective": "Explain directed adaptation and compatibility",
+          "prompt": "A light technique session does not create a large growth stimulus. Can it still be specific to hypertrophy?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Yes, if improved technique enables later productive loading.",
+              "explanation": "Support of a later specific adaptation also qualifies."
+            },
+            {
+              "id": "b",
+              "text": "No, every session must maximize immediate growth.",
+              "explanation": "This ignores preparation and the longer sequence."
+            },
+            {
+              "id": "c",
+              "text": "Yes, because every difficult activity is equally specific.",
+              "explanation": "Difficulty alone does not identify the adaptation."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Specificity includes direct effects and justified preparation for the target adaptation.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "specific-goals"
+        },
+        {
+          "id": "hyp-specificity-q2",
+          "objective": "Distinguish hypertrophy from maximal strength",
+          "prompt": "Why is a new 1RM not direct proof of muscle growth?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Only a pump can prove growth.",
+              "explanation": "Pump is a transient proxy, not tissue measurement."
+            },
+            {
+              "id": "b",
+              "text": "Skill and neural changes can improve a lift.",
+              "explanation": "Performance has contributors other than muscle size."
+            },
+            {
+              "id": "c",
+              "text": "Muscle size has no relationship to force capacity.",
+              "explanation": "The relationship exists but is not exclusive."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Strength performance and hypertrophy overlap without being identical outcomes.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "specific-goals"
+        },
+        {
+          "id": "hyp-specificity-q3",
+          "objective": "Explain directed adaptation and compatibility",
+          "prompt": "Which added activity is most likely to compete directly with a maximal lower-body hypertrophy goal?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "A short, low-demand recreational activity.",
+              "explanation": "Its resource cost is generally lower in this comparison."
+            },
+            {
+              "id": "b",
+              "text": "A completely nonphysical hobby.",
+              "explanation": "It does not directly load the same tissues."
+            },
+            {
+              "id": "c",
+              "text": "High-volume distance running using the same structures.",
+              "explanation": "High overlap, energy use and differing adaptation increase competition."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Compatibility depends on overlap, stimulus type, energy and fatigue, not just the activity name.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "compatibility"
+        },
+        {
+          "id": "hyp-specificity-q4",
+          "objective": "Translate a needs analysis into training priorities",
+          "prompt": "A trainee prioritizes rear delts but always trains them last when exhausted. What should be reviewed first?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Whether time and exercise order match the stated priority.",
+              "explanation": "Needs analysis should guide actual allocation."
+            },
+            {
+              "id": "b",
+              "text": "Whether all exercises have been replaced weekly.",
+              "explanation": "Random replacement does not fix the priority mismatch."
+            },
+            {
+              "id": "c",
+              "text": "Whether the heaviest possible single is performed first.",
+              "explanation": "That may add fatigue without serving the target."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "A declared priority must influence the program’s actual structure.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "needs-analysis"
+        },
+        {
+          "id": "hyp-specificity-q5",
+          "objective": "Translate a needs analysis into training priorities",
+          "prompt": "Which statements follow the book’s specificity framework? Select all that apply.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "An enjoyable second sport may be worth a hypertrophy tradeoff.",
+              "explanation": "Personal goals can legitimately include more than maximal size."
+            },
+            {
+              "id": "b",
+              "text": "Compound and isolation movements can complement each other.",
+              "explanation": "They solve different targeting and efficiency problems."
+            },
+            {
+              "id": "c",
+              "text": "Beginners normally require advanced muscle specialization.",
+              "explanation": "Broad development is usually feasible initially."
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "The framework makes goal tradeoffs explicit instead of forbidding other goals.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "needs-analysis"
+        },
+        {
+          "id": "hyp-specificity-q6",
+          "objective": "Translate a needs analysis into training priorities",
+          "prompt": "What does a needs analysis do before exercise selection?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Copy the strongest athlete’s routine.",
+              "explanation": "Another person’s needs do not establish this person’s priorities."
+            },
+            {
+              "id": "b",
+              "text": "Guarantee that every muscle can grow maximally at once.",
+              "explanation": "Resources can be limiting, especially in advanced lifters."
+            },
+            {
+              "id": "c",
+              "text": "Define the desired outcome and rank relevant strengths and weaknesses.",
+              "explanation": "These decisions determine what training should support."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "A needs analysis connects individual goals to allocation decisions.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+          "lessonId": "needs-analysis"
+        }
+      ]
+    },
+    {
+      "id": "overload",
+      "title": "Overload",
+      "objectives": [
+        "Explain the interacting stimuli for hypertrophy",
+        "Use load, effort and volume without confusing their units",
+        "Compare training methods and plan sustainable progression"
+      ],
+      "lessons": [
+        {
+          "id": "growth-stimuli",
+          "title": "What makes a set stimulative?",
+          "summary": "Mechanical tension, recruitment, effort and range of motion work together.",
+          "sections": [
+            {
+              "id": "growth-stimuli-tension",
+              "title": "Tension and motor-unit recruitment",
+              "markdown": "Overload has two components: a session must be challenging enough now, and the challenge must increase as adaptation changes capacity. This does not require lifting above a maximum. Mechanical tension is central: a motor unit combines a motor neuron with the muscle fibers it controls, and higher force demands generally recruit larger units under the size principle.\n\nHeavier loads recruit demanding units directly; lighter loads can recruit more of them as fatigue builds near failure. A maximal single supplies high tension but little repeated exposure. Hypertrophy therefore depends on the combination of load, useful volume and effort, not on maximizing one variable while ignoring the others.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Training Stimulators of Hypertrophy; Tension; Volume"
+            },
+            {
+              "id": "growth-stimuli-signals",
+              "title": "Signals and proxies are not the same",
+              "markdown": "The source considers metabolite accumulation and cell swelling alongside tension as candidate contributors to growth, while recognizing uncertainty in their independent causal roles. Mind–muscle connection, pump and post-session disruption can help locate the stimulus, but none proves that a muscle will grow. Severe soreness can consume recovery resources and impair subsequent training.\n\nMovement velocity and range of motion modify the stimulus. Controlled eccentrics, useful stretch and an appropriate contraction can train a broad range of motor units. Do not shorten range just to claim load progression. The source favors a full, safe, goal-appropriate range; forcing additional range that breaks technique or causes joint pain does not meet that criterion.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Range of Motion; Metabolite Accumulation; Cell Swelling; Muscle Damage"
+            },
+            {
+              "id": "growth-stimuli-effective-reps",
+              "title": "Effective repetitions: a model, not a binary switch",
+              "markdown": "The source calls repetitions near failure more effective because high-threshold units contribute a greater share of force, but explicitly notes that earlier repetitions are not useless. Counting only the last five repetitions as if all previous work had zero effect can produce misleading equivalences. Two submaximal hard sets and one failure set can contain a similar count of “effective reps” without being equivalent training.\n\nIts stimulus diagrams show a threshold region, diminishing returns and eventually excessive-dose costs; their smooth curves are conceptual. They do not provide a measured equation for kilograms of new muscle. The soreness diagram makes the same distinction: some disturbance can accompany useful training, while severe damage competes with adaptation for recovery resources.\n\nThe authors’ proposed preparatory hypertrophy mechanisms include cellular fluid and glycogen changes, structural protein expansion and satellite-cell nuclear contribution before fuller contractile growth. This is presented as a hypothesis explaining why abrupt changes may lose some training momentum, not as a proven mandatory two-stage schedule.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Figures 2.1, 2.3–2.5; Per-set volume and growth; ch. 1 Directed adaptation"
+            }
+          ],
+          "recap": [
+            "Overload means an adequate and progressively challenging stimulus.",
+            "Pump, burn and soreness are observations, not direct growth measurements."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "effective-ranges",
+          "title": "Load, effort and volume landmarks",
+          "summary": "Understand useful ranges without turning them into universal prescriptions.",
+          "sections": [
+            {
+              "id": "effective-ranges-load-effort",
+              "title": "Read load and effort separately",
+              "markdown": "Absolute load is the resistance lifted. Relative load expresses it as a fraction of that exercise’s 1RM. Relative effort is expressed here as [repetitions in reserve](term:rir) (RIR): an estimate of how many additional full, technically acceptable repetitions remain. A set of ten can be easy or near failure depending on the person and load.\n\nThe book describes a broad working range of approximately **30–85% 1RM** when sets are close enough to failure, usually **5–0 RIR**. These are source ranges with assumptions, not precise cutoffs. Very light loads require many repetitions and can be limited by discomfort; very heavy loads constrain total work and raise fatigue costs. Average effort around 2–3 RIR is an author guideline, not a prediction of growth.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Relative Effort: Effective Stimulus Range; Tension: Effective Stimulus Range"
+            },
+            {
+              "id": "effective-ranges-landmarks",
+              "title": "Four volume landmarks",
+              "markdown": "| Landmark | Meaning in the source framework |\n| --- | --- |\n| MV | Enough training to maintain current muscle |\n| MEV | Enough to begin robust measurable growth |\n| [MAV](term:mav) | The currently most productive volume region |\n| MRV | The greatest volume from which recovery permits continued productive training |\n\nThese are individual, muscle-specific, phase-dependent estimates. MAV is not a fixed set target to chase forever. The authors often organize accumulation from near MEV toward MRV, followed by reduced training. Continuing to add sets after recovery and performance fail is not productive overload.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Minimum Effective and Maximum Recoverable Volumes"
+            },
+            {
+              "id": "effective-ranges-measurement",
+              "title": "Hard sets versus tonnage",
+              "markdown": "The source usually counts hard sets within useful load and effort ranges to compare hypertrophy volume. Tonnage is **sets × repetitions × load**, with units such as kg; it omits displacement and is not mechanical work. Work would require force and distance, with units of joules. Neither metric alone measures muscle growth.\n\n**Example:** 3 × 10 × 40 kg and 5 × 5 × 48 kg both total 1,200 kg of external load moved. They differ in sets, effort and recruitment conditions, so equal tonnage does not establish equal stimulus. Compare the same exercise with consistent technique and record RIR and recovery as well.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Volume As it Relates to Tension and ROM; Volume versus Loading"
+            },
+            {
+              "id": "effective-ranges-tempo-range",
+              "title": "Tempo and useful range: boundaries and exceptions",
+              "markdown": "The source separates eccentric, transition (amortization) and concentric phases. It describes broadly similar hypertrophy across controlled durations up to about 3 seconds per phase and about 9 seconds for a whole repetition, while allowing naturally slower near-failure repetitions. These are author interpretations of the evidence, not rigid speed limits. Pauses can improve control or alter loading requirements without being inherently more anabolic.\n\nUseful range has three upper constraints: technical breakdown, extra motion that shifts demand away from the intended muscle, and painful or unsuitable joint positions. There are also deliberate exceptions to full-range defaults. A peak-hold row can emphasize scapular retractors in the upper portion; an advanced trainee can sometimes justify a partial when it clearly improves target limitation and SFR. These exceptions do not justify accidental shortening as load increases.\n\n**Original comparison:** if one week’s press touches a consistent endpoint and the next stops several centimeters earlier, the heavier load is not an equivalent performance comparison. Record the changed technique before interpreting adaptation.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Range of Motion: Effective Stimulus Range; Movement Velocity: Effective Stimulus Range; Figure 2.2"
+            }
+          ],
+          "recap": [
+            "Load, effort and volume describe different dimensions.",
+            "Landmarks move with recovery conditions and adaptation."
+          ],
+          "interactionIds": [
+            "hypertrophy-volume",
+            "hypertrophy-intensity"
+          ]
+        },
+        {
+          "id": "training-methods",
+          "title": "Choose a set structure",
+          "summary": "Use ordinary and advanced methods for a clear reason.",
+          "sections": [
+            {
+              "id": "training-methods-straight",
+              "title": "Straight sets and down sets",
+              "markdown": "Straight sets repeat a movement with enough rest for the target muscle to be the limiting factor again. Before the next set, consider the target muscle, synergists, overall readiness and breathing. A fixed short rest is counterproductive if cardiorespiratory fatigue stops the set before the intended muscle is challenged. The authors make straight sets the foundation of most programs.\n\nDown sets reduce load after earlier sets so later work stays within the chosen repetition range. They are not the same as short-rest drop sets. Keeping the same exercise saves additional warm-up time and preserves comparability; adding a new movement is useful only if its benefits justify the transition and its different demands.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Straight Sets; Rest Between Straight Sets; Down Sets"
+            },
+            {
+              "id": "training-methods-advanced",
+              "title": "Advanced methods and their limitations",
+              "markdown": "| Method | Purpose and limitation |\n| --- | --- |\n| Giant sets | Reach a total-repetition target; weekly performance is harder to compare |\n| Non-overlapping supersets | Pair unrelated or antagonist muscles to save time; systemic fatigue can still interfere |\n| Pre-exhaust supersets | Isolation then a compound for the same target; changes the limiting factor and increases local fatigue |\n| Myoreps | Short-rest mini-sets after an initial hard set; best when the target muscle, not breathing, limits work |\n| Drop sets | Reduce load between short-rest sets; track the reductions rather than improvising endlessly |\n| Blood-flow restriction | Can make light loads effective; requires appropriate equipment, screening and qualified guidance |\n\nAdvanced methods are tools, not guaranteed upgrades. Highly systemic exercises are often poor choices for very short rests. Novel methods still need progression, recoverability and a clear role.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Giant Sets; Supersets; Myoreps; Drop Sets; Occlusion Training"
+            },
+            {
+              "id": "training-methods-method-details",
+              "title": "Track the details of the method",
+              "markdown": "In the source’s myorep example, an initial 10–20-repetition set at about 0–2 RIR is followed after a few breaths by smaller 5–10-repetition bouts. Drop sets add load reductions to a similar short-rest idea. They target efficiency and local fatigue; their suitability depends on the target, not on how much discomfort they produce. Pre-exhaust pairs use an isolation first so the same muscle can become limiting in the following compound.\n\nThe source’s Table 5.1 proposes accounting heuristics: a conventional straight or down set counts as one; a giant-set bout, drop set or occlusion set may be counted as about 2/3 of a straight set for the primary target; a myorep mini-set may similarly count as 2/3, sometimes one when fatigue response is high. A non-overlapping superset counts one set for each target, while the pre-exhaust pair is roughly two sets, or about 1.5 in the authors’ finer estimate. These fractions are author bookkeeping conventions, not verified biological conversion constants.\n\nIf you use such a convention, label it and keep the method, rest, load and range consistent. Do not combine an unlabelled fractional estimate with ordinary set counts and assume precise equivalence. Blood-flow-restriction setup is intentionally not taught as a self-application procedure here.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Myoreps; Drop Sets; Pre-Exhaust Supersets; ch. 5 Table 5.1"
+            }
+          ],
+          "recap": [
+            "Rest long enough to challenge the intended muscle.",
+            "Select advanced methods for a specific benefit and track their costs."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "progression",
+          "title": "Progress without exhausting the runway",
+          "summary": "Combine sets, repetitions, load and RIR using actual response.",
+          "sections": [
+            {
+              "id": "progression-proxies",
+              "title": "Estimate stimulus conservatively",
+              "markdown": "The authors combine perceived target-muscle challenge, pump and disruption into a raw stimulus magnitude (RSM) score. Each is rated 0–3, giving 0–9 in total. Their MEV estimator regards roughly 4–6 as a useful starting signal, but this is a coaching heuristic, not a validated assay of hypertrophy. RSM is specific to a person and muscle; it should not rank different people.\n\nUse several observations together. No soreness does not demonstrate no stimulus, and a large pump does not demonstrate sufficient tension. Compare equal set counts after allowing time to learn an exercise. A high RSM may also come with excessive fatigue, which the next chapter addresses.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Detecting and Comparing Stimuli; Raw Stimulus Magnitude; RP MEV Stimulus Estimator Algorithm"
+            },
+            {
+              "id": "progression-decisions",
+              "title": "Progress from response, not enthusiasm",
+              "markdown": "Start near an estimated effective dose. If soreness resolves well before the next exposure and comparable performance improves, modestly adding sets may be reasonable. If recovery occurs just in time and targets are met, hold sets steady. If soreness overlaps and performance falls, investigate fatigue instead of adding work. Performance constraints take precedence over chasing soreness.\n\nProgress load or repetitions enough to stay within the chosen range and effort trajectory. A possible accumulation moves from more RIR toward less, while preserving later training. Do not sharply increase load, sets and failure proximity together just because each can progress separately. For giant sets, use total repetitions plus other comparable straight sets to monitor fatigue; for drop sets and myoreps, record rest and loading conditions.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, The Progression Component of Overload; RP Set Progression Algorithm"
+            },
+            {
+              "id": "progression-errors",
+              "title": "Avoid both weak and excessive overload",
+              "markdown": "Junk volume adds fatigue without meaningful contribution to the intended adaptation: it may be insufficiently specific, too far from failure under light loads, or beyond useful per-session capacity. More work is not automatically more effective work. Ignoring exercise order, limiting useful range, or prioritizing comfort over the actual target can also reduce stimulus.\n\nAt the opposite extreme, chronically very heavy loading, forced repetitions and beyond-failure work can spend recovery resources faster than they add benefit. Stable technique is part of the comparison. If the new record came from shorter range, more momentum or assistance, the log should not treat it as equivalent progression.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Under-Application of Overload; Over-Application of Overload"
+            }
+          ],
+          "recap": [
+            "Use stimulus and recovery observations together.",
+            "Preserve a productive sequence of sessions instead of maximizing one session."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-overload-q1",
+          "objective": "Explain the interacting stimuli for hypertrophy",
+          "prompt": "Which best describes progressive overload?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Increase relevant challenge as adaptation changes capacity.",
+              "explanation": "The stimulus must remain effective over time."
+            },
+            {
+              "id": "b",
+              "text": "Lift above maximum capacity every workout.",
+              "explanation": "Overload does not mean supramaximal work."
+            },
+            {
+              "id": "c",
+              "text": "Add load even if range becomes shorter.",
+              "explanation": "Changed execution makes the comparison unreliable."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Progression serves a specific adaptation and retains meaningful execution standards.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "growth-stimuli"
+        },
+        {
+          "id": "hyp-overload-q2",
+          "objective": "Use load, effort and volume without confusing their units",
+          "prompt": "Two sets use 60 kg, but one ends at 5 RIR and the other at 1 RIR. Which variable clearly differs?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "The definition of a kilogram.",
+              "explanation": "Units are unchanged by effort."
+            },
+            {
+              "id": "b",
+              "text": "Relative effort.",
+              "explanation": "RIR describes proximity to failure."
+            },
+            {
+              "id": "c",
+              "text": "Absolute load.",
+              "explanation": "The external resistance is the same."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Load and effort are separate dimensions.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "effective-ranges"
+        },
+        {
+          "id": "hyp-overload-q3",
+          "objective": "Use load, effort and volume without confusing their units",
+          "prompt": "Which inference from equal tonnage is justified?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Muscle growth must be identical.",
+              "explanation": "Effort, range, recruitment and recovery may differ."
+            },
+            {
+              "id": "b",
+              "text": "Mechanical work in joules is identical.",
+              "explanation": "Tonnage omits force-distance details."
+            },
+            {
+              "id": "c",
+              "text": "The sum of repetitions times external load is equal.",
+              "explanation": "That is what tonnage records."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Tonnage is a bookkeeping metric, not a growth or mechanical-work equivalence.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "effective-ranges"
+        },
+        {
+          "id": "hyp-overload-q4",
+          "objective": "Compare training methods and plan sustainable progression",
+          "prompt": "During short-rest squats, cardiorespiratory strain ends each set before the target muscles are challenged. What is the key problem?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "The limiting factor does not match the intended muscle stimulus.",
+              "explanation": "Longer rest or a different method may restore local limitation."
+            },
+            {
+              "id": "b",
+              "text": "Any shorter rest must create more growth.",
+              "explanation": "Cardiorespiratory limitation can reduce the relevant stimulus."
+            },
+            {
+              "id": "c",
+              "text": "A pump guarantees equal overload.",
+              "explanation": "Pump does not prove adequate target loading."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "A method is useful when it challenges the target in the intended way.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "training-methods"
+        },
+        {
+          "id": "hyp-overload-q5",
+          "objective": "Compare training methods and plan sustainable progression",
+          "prompt": "Soreness overlaps the next session and comparable performance is declining. Which decisions are consistent with the source? Select all.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "Reduce training demands to support recovery rather than keep progressing.",
+              "explanation": "The response can justify fatigue management."
+            },
+            {
+              "id": "b",
+              "text": "Investigate fatigue and recovery needs.",
+              "explanation": "Both signals suggest the dose may exceed current recovery."
+            },
+            {
+              "id": "c",
+              "text": "Automatically add several sets to restore stimulus.",
+              "explanation": "More work can worsen under-recovery."
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "The progression algorithm is constrained by recovery and performance.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "progression"
+        },
+        {
+          "id": "hyp-overload-q6",
+          "objective": "Explain the interacting stimuli for hypertrophy",
+          "prompt": "Which statement about soreness is most defensible?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "More soreness always means more growth.",
+              "explanation": "Excessive damage can impair productive training."
+            },
+            {
+              "id": "b",
+              "text": "No soreness proves no adaptation occurred.",
+              "explanation": "Effective training need not always cause soreness."
+            },
+            {
+              "id": "c",
+              "text": "It can inform stimulus assessment but neither proves growth nor sets a goal to maximize.",
+              "explanation": "It is an imperfect proxy with recovery costs."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Use soreness with other observations and avoid causal overclaims.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+          "lessonId": "growth-stimuli"
+        }
+      ]
+    },
+    {
+      "id": "fatigue",
+      "title": "Fatigue management",
+      "objectives": [
+        "Distinguish local, systemic and axial fatigue",
+        "Evaluate stimulus relative to fatigue",
+        "Select prevention and recovery strategies from feedback"
+      ],
+      "lessons": [
+        {
+          "id": "fatigue-signals",
+          "title": "Recognize the cost of training",
+          "summary": "Fatigue is unavoidable; needless or excessive fatigue is manageable.",
+          "sections": [
+            {
+              "id": "fatigue-signals-types",
+              "title": "Local, systemic and axial fatigue",
+              "markdown": "Local fatigue affects the trained muscle and associated tissues. [Systemic fatigue](term:fatigue) can reduce readiness and performance in muscles that were not directly trained. Axial fatigue arises from loading the spinal support structures; although local, it can limit many subsequent movements. A fatigued trunk may impair both rowing and squatting even when their primary targets differ.\n\nUseful signals include repeated performance losses, persistent connective-tissue irritation, unusually high perceived effort and reduced performance in otherwise unused muscles. Feeling tired alone is not enough to conclude that overload is impossible. The source gives comparable performance special weight, while acknowledging that perception and performance need interpretation together.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Types of Fatigue; Detecting Fatigue"
+            },
+            {
+              "id": "fatigue-signals-masking",
+              "title": "Fatigue can conceal adaptation",
+              "markdown": "A productive accumulation phase can create both more fitness and more fatigue. A temporary reduction in performance need not mean muscle was lost, and a performance jump after reduced training need not mean the reduced dose caused superior growth. Testing after comparable recovery conditions is more informative than comparing a fresh first week with a fatigued last week.\n\nHowever, this does not justify ignoring persistent deterioration. Repeated losses with overlapping soreness or joint irritation are reasons to change the plan. The goal is enough recoverability to continue good training, rather than either permanent exhaustion or a permanently pristine recovered state.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Fatigue’s Effects on Hypertrophy; Dropping fatigue (and stimulus) to reveal performance"
+            }
+          ],
+          "recap": [
+            "Use several fatigue indicators, emphasizing comparable performance.",
+            "Recovery is sufficient when useful training can continue; zero fatigue is not required."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "stimulus-fatigue",
+          "title": "Evaluate stimulus per fatigue cost",
+          "summary": "A high stimulus is useful only in the context of its costs.",
+          "sections": [
+            {
+              "id": "stimulus-fatigue-ratio",
+              "title": "What the SFR represents",
+              "markdown": "The [stimulus-to-fatigue ratio](term:sfr) (SFR) is conceptually **hypertrophy stimulus ÷ fatigue generated**. The book estimates stimulus with challenge, pump and muscle disruption, and fatigue with joint/connective-tissue disruption, perceived exertion and effects on unused-muscle performance. These ratings are informal proxies; their ratio is not a laboratory growth measurement.\n\nA chest-supported row may stimulate the back well while reducing trunk fatigue compared with an unsupported row. This does not make one version universally better: anthropometry, execution and the rest of the program change the comparison. Maximizing a ratio at a tiny dose also need not maximize total growth; enough useful total work is still necessary.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, The Stimulus to Fatigue Ratio; Determining SFR; Improving the SFR"
+            },
+            {
+              "id": "stimulus-fatigue-technique",
+              "title": "Raise stimulus without needless spillover",
+              "markdown": "Stable setup, controlled transitions, suitable range and targeting the intended muscles can improve the tradeoff without simply adding weight. Avoid momentum that shifts work away from the target or extra axial loading that does not serve the goal. Compound and isolation exercises can both have high or low SFR, depending on the person and situation.\n\nSFR generally worsens as very high volume or very low RIR creates disproportionately more fatigue. The source therefore balances effective work today with a second question: will this dose unnecessarily prevent planned progression later? A demanding set can be appropriate near the end of accumulation and inappropriate when it prematurely ends the whole sequence.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, SFR and Volume; SFR and RIR; Planning Future Stimuli"
+            }
+          ],
+          "recap": [
+            "SFR is an informal comparison, not a physiological assay.",
+            "Improve execution and exercise fit before automatically increasing dose."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "fatigue-tools",
+          "title": "Prevention, recovery sessions and deloads",
+          "summary": "Match the scale of recovery intervention to the scale of fatigue.",
+          "sections": [
+            {
+              "id": "fatigue-tools-prevention",
+              "title": "Prevent avoidable fatigue",
+              "markdown": "Stay within current volume landmarks, use safe technique and build pulsatility into the microcycle. Pulsatility means distributing demanding and easier exposures, rotating muscle priorities and managing overlapping trunk or synergist demands. It does not require a perfectly symmetric calendar. Rest days provide whole-body and psychological relief that splitting the same work into ever more days may not provide.\n\nThe source often favors at least one full rest day weekly and deliberate rest over the year. These are author programming recommendations. Sleep and food support recovery but cannot compensate indefinitely for a workload beyond recoverable capacity.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Fatigue Prevention; Taking Rest Days; Employing Microcycle Pulsatility"
+            },
+            {
+              "id": "fatigue-tools-scale",
+              "title": "Choose an appropriate reduction",
+              "markdown": "| Tool | Intended role |\n| --- | --- |\n| Recovery session | Brief local reduction when fatigue disrupts an otherwise useful accumulation |\n| Deload | A reduced-training microcycle for broader accumulated fatigue |\n| Active rest | A longer low-stress break for persistent physical or psychological costs |\n\nThe source example halves sets and repetitions for a recovery session; a deload can also lower load later in the week. If 6 × 10 becomes 3 × 5 at the same load, tonnage falls to one quarter, not one half. The point is a substantial reduction, not a secret exact formula. Deload exercise choices can retain the prior exercises, introduce the next ones cautiously, or use low-fatigue alternatives.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Taking Recovery Sessions; Taking Deloads; Taking Active Rest Periods"
+            },
+            {
+              "id": "fatigue-tools-judgment",
+              "title": "Plan and adapt",
+              "markdown": "Pre-plan safe technique, sensible dose and rest days. Autoregulate unanticipated recovery needs; repeated recovery sessions across many muscles suggest that a full deload may be more suitable than repeatedly patching local problems. Retain the feedback to improve the next plan.\n\nDo not reduce training solely because motivation is low, and do not ignore persistent joint pain simply because the muscle still performs. The book’s illness and injury examples describe coaching contexts, not diagnosis or medical clearance. Fever, significant injury and worsening symptoms require an appropriate clinical decision rather than treating a website exercise as rehabilitation.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Employing Pre-Planned and Autoregulated Fatigue Management; Under-Application of Fatigue Management"
+            },
+            {
+              "id": "fatigue-tools-return-plan",
+              "title": "Use the response to plan the return",
+              "markdown": "After a recovery session caused by reaching MRV too soon, the book suggests returning to an intermediate volume between the starting effective dose and the prior limit, then progressing from response. After a temporary illness or minor resolved problem, it suggests a more modest reduction from the planned session rather than necessarily restarting the entire accumulation. These are different coaching scenarios, not interchangeable rules.\n\nActive rest is a broader reduction, commonly described as 1–4 weeks in the book, often shorter for physique-only psychological fatigue and longer when accumulated sporting stress warrants it. Short breaks may include no formal lifting; longer ones may use maintenance work. The authors discuss at least a full week away annually, often after a deload. These are source strategies, not a requirement that every recreational trainee calendar identical breaks.\n\nA performance-led review should also record whether symptoms are improving, stable or worsening. A recovery session is not established medical treatment, and the source itself conditions return-after-injury guidance on appropriate professional advice.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml, Taking Recovery Sessions; Taking Active Rest Periods; Employing Pre-Planned and Autoregulated Fatigue Management"
+            }
+          ],
+          "recap": [
+            "Recovery interventions differ in scale and purpose.",
+            "Prevention and feedback-based reductions complement each other."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-fatigue-q1",
+          "objective": "Distinguish local, systemic and axial fatigue",
+          "prompt": "A demanding hinge session lowers later performance in otherwise unused upper-body muscles. Which fatigue pattern is suggested?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "A systemic contribution, possibly alongside local and axial fatigue.",
+              "explanation": "Unused-muscle changes indicate broader effects."
+            },
+            {
+              "id": "b",
+              "text": "Only fatigue in the upper-body target.",
+              "explanation": "It was not directly trained in the first activity."
+            },
+            {
+              "id": "c",
+              "text": "Definitive proof of overtraining syndrome.",
+              "explanation": "A single observation cannot establish a clinical syndrome."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Fatigue categories can coexist; observations do not diagnose a syndrome.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-signals"
+        },
+        {
+          "id": "hyp-fatigue-q2",
+          "objective": "Evaluate stimulus relative to fatigue",
+          "prompt": "An exercise gives similar target stimulus with less persistent joint irritation. What likely improved in this comparison?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "The need to increase load regardless of technique.",
+              "explanation": "That does not follow from the comparison."
+            },
+            {
+              "id": "b",
+              "text": "Stimulus-to-fatigue tradeoff.",
+              "explanation": "Similar stimulus with lower cost improves the ratio conceptually."
+            },
+            {
+              "id": "c",
+              "text": "Proof of a specific amount of muscle gained.",
+              "explanation": "SFR is not a tissue measurement."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "SFR compares benefits and costs without directly measuring growth.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "stimulus-fatigue"
+        },
+        {
+          "id": "hyp-fatigue-q3",
+          "objective": "Select prevention and recovery strategies from feedback",
+          "prompt": "A recovery session changes 6 × 10 to 3 × 5 at the same weight. What fraction of prior tonnage remains?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "One half.",
+              "explanation": "Both factors were halved, not only one."
+            },
+            {
+              "id": "b",
+              "text": "All of it.",
+              "explanation": "The load per rep stayed constant, but total reps fell."
+            },
+            {
+              "id": "c",
+              "text": "One quarter.",
+              "explanation": "15 repetitions divided by 60 equals 0.25."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "The calculation illustrates a substantial dose reduction, not a mandatory recovery formula.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-tools"
+        },
+        {
+          "id": "hyp-fatigue-q4",
+          "objective": "Select prevention and recovery strategies from feedback",
+          "prompt": "Which are fatigue-prevention strategies in the book? Select all.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "Train within current volume landmarks and use controlled technique.",
+              "explanation": "These reduce avoidable accumulation."
+            },
+            {
+              "id": "b",
+              "text": "Rotate demanding and easier exposures within the microcycle.",
+              "explanation": "Pulsatility helps manage overlapping demands."
+            },
+            {
+              "id": "c",
+              "text": "Ignore persistent joint pain if repetitions are maintained.",
+              "explanation": "Preserved muscle performance does not erase tissue costs."
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Prevention organizes dose and execution before excessive fatigue develops.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-tools"
+        },
+        {
+          "id": "hyp-fatigue-q5",
+          "objective": "Distinguish local, systemic and axial fatigue",
+          "prompt": "A lifter performs better immediately after a deload. What can this show?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "The prior training produced no adaptation.",
+              "explanation": "Adaptation may have been masked."
+            },
+            {
+              "id": "b",
+              "text": "Reduced fatigue may have revealed existing adaptation.",
+              "explanation": "Performance expression depends on current fatigue."
+            },
+            {
+              "id": "c",
+              "text": "The low-volume week definitely built more muscle than accumulation.",
+              "explanation": "Immediate performance cannot establish that causal claim."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Do not confuse revealing performance with creating all of the underlying adaptation.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-signals"
+        },
+        {
+          "id": "hyp-fatigue-q6",
+          "objective": "Select prevention and recovery strategies from feedback",
+          "prompt": "Many muscles repeatedly need local recovery sessions. Which review is most useful?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Whether every session should now go beyond failure.",
+              "explanation": "That can worsen the cause."
+            },
+            {
+              "id": "b",
+              "text": "Whether fatigue can be permanently eliminated by motivation.",
+              "explanation": "Motivation does not replace recovery."
+            },
+            {
+              "id": "c",
+              "text": "Whether broader accumulated fatigue calls for a deload.",
+              "explanation": "Repeated local patches can indicate a whole-program issue."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Match intervention scale to the pattern of fatigue.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+          "lessonId": "fatigue-tools"
+        }
+      ]
+    },
+    {
+      "id": "sra",
+      "title": "Stimulus, recovery and adaptation",
+      "objectives": [
+        "Separate recovery time from the time course of growth",
+        "Explain the tradeoffs of training frequency",
+        "Derive frequency from performance and recovery observations"
+      ],
+      "lessons": [
+        {
+          "id": "sra-curves",
+          "title": "Two clocks: recovery and growth",
+          "summary": "A useful model is not an exact biological stopwatch.",
+          "sections": [
+            {
+              "id": "sra-curves-separate",
+              "title": "Do not collapse the two time courses",
+              "markdown": "A session stimulates adaptation and generates fatigue. The [stimulus–recovery–adaptation](term:sra) (SRA) framework asks when another useful exposure can occur. Growth-related processes and restoration of performance are not the same curve; muscle can be stimulated to grow while fatigue remains, and a muscle that feels recovered is not necessarily still growing from the prior session.\n\nThe authors describe growth often occurring over roughly 1–3 days while recovery can take longer in trained lifters. This is a conceptual source range, not a personalized forecast. Tissue type, exercise, dose, effort and training history alter the time course. A diagram with smooth curves cannot identify an exact optimal hour.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, SRA in the Context of Hypertrophy; Figures 4.1–4.4"
+            },
+            {
+              "id": "sra-curves-frequency",
+              "title": "Frequency distributes dose",
+              "markdown": "Weekly volume equals the sum of session volumes. Frequency is useful partly because it distributes hard sets into sessions that preserve stimulus quality. Twelve weekly sets in one session are not automatically equivalent to six sets on two days, especially if later sets in the long session become limited by technique, glycogen availability or systemic fatigue.\n\nFunctional overreaching may be planned at the end of accumulation if followed by recovery; it does not license permanent under-recovery. Evaluate both per-session and weekly limits, since raising the recoverable weekly volume of one muscle can still exceed whole-body recovery capacity.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Per-week Volumes; Functional Overreaching; How Per Session and Weekly Volume Caps Impact Frequency"
+            }
+          ],
+          "recap": [
+            "Recovery and adaptation have different time courses.",
+            "Frequency is a way of distributing recoverable, useful work."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "frequency-tradeoffs",
+          "title": "Why both extremes can fail",
+          "summary": "More frequency solves some problems and creates others.",
+          "sections": [
+            {
+              "id": "frequency-tradeoffs-low",
+              "title": "Too infrequent",
+              "markdown": "Large infrequent sessions can produce excessive local damage, declining technique, weaker muscle awareness and systemic fatigue. Glycogen depletion and excitation–contraction limitations can further reduce later-set quality. More time between sessions is not a complete solution if each session creates unnecessarily large damage or if productive growth-related time is left unused.\n\nThe source discusses a likely useful region around 3–8 sets per muscle per session and often 2–4 weekly exposures, with broad individual exceptions. These are starting ideas for trained lifters, not universal minimums or maximums. Study populations, failure definitions and whether weekly volume was equated affect interpretation.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Excessively Low Frequencies; The Current Research on Hypertrophy Frequency"
+            },
+            {
+              "id": "frequency-tradeoffs-high",
+              "title": "Too frequent",
+              "markdown": "Tiny highly frequent sessions repeat warm-ups and may lose the benefit of several sets for technical familiarity, target-muscle awareness and metabolite accumulation. Joint and connective tissues can recover more slowly than muscle; a frequency tolerated by muscle alone may therefore be unsustainable over months.\n\nVery frequent training can also raise weekly work until systemic recovery fails. Individual factors include muscle size, strength, fiber distribution, architecture, sex and the actual exercise used. Average group differences do not determine an individual’s schedule. Supporting muscles count too: spinal erectors, elbows or shoulder structures may be loaded across many nominally different muscle days.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Excessively High Frequencies; Intrinsic Variables that Affect Best Frequency Choices; Supporting Muscle Group Overuse"
+            }
+          ],
+          "recap": [
+            "Neither maximum rest nor maximum frequency is automatically best.",
+            "Track muscle, connective-tissue and systemic recovery together."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "derive-frequency",
+          "title": "Derive a frequency from observations",
+          "summary": "Use a repeatable experiment rather than a rigid muscle calendar.",
+          "sections": [
+            {
+              "id": "derive-frequency-algorithm",
+              "title": "A feedback loop",
+              "markdown": "Begin with a plausible effective session dose near MEV. Observe when soreness and fatigue resolve, then compare performance at the next exposure. If performance cannot meet a comparable baseline, increase recovery or reduce the dose before assuming the muscle inherently needs a long interval. Starting far above MEV can falsely make every muscle seem slow to recover.\n\nA simpler source procedure starts with roughly twice-weekly exposures, progresses within recoverable volume and reviews the completed mesocycle. Consistently early recovery plus good performance can justify testing one more weekly exposure next mesocycle. Just-in-time recovery suggests holding frequency. Overlapping soreness and declining performance suggest less frequency, less dose, or a different exercise.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Practical Application: Frequency in Program Design"
+            },
+            {
+              "id": "derive-frequency-example",
+              "title": "An exercise can change the interval",
+              "markdown": "**Original comparison:** a trainee recovers promptly from four leg-curl sets but remains disrupted after the same number of demanding hip-hinge sets. Equal set counts do not establish equal recovery demand. Changing the exercise mix can preserve a muscle’s weekly stimulus without forcing every exposure to be equally damaging.\n\nDocument session dose, effort, soreness resolution, comparable performance and joint response. Revisit the schedule after the next mesocycle rather than changing everything after one unusual day. A workable real-life calendar with good recovery is preferable to a theoretically symmetric schedule that cannot be followed.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Frequency-Deriving Algorithm examples; The Quest for the Perfectly Symmetrical Plan"
+            },
+            {
+              "id": "derive-frequency-decision-table",
+              "title": "An original frequency decision table",
+              "markdown": "| Repeated pattern | Question to investigate | Possible next experiment |\n| --- | --- | --- |\n| Early recovery and improving comparable performance | Is there room for another useful exposure? | Test a modest increase, keeping dose interpretable |\n| Recovery just in time and stable targets | Is the present distribution already effective? | Keep frequency while reviewing progression |\n| Overlapping soreness with performance loss | Is dose, exercise damage or interval the problem? | Reduce demands or extend recovery |\n| Muscle seems ready but joints stay irritated | Are tissue time courses mismatched? | Review loading, method and lower-stress phases |\n\nThis original table summarizes the source’s feedback logic without pretending to calculate a biological optimum. The source suggests deriving an interval across 2–5 consecutive exposures, or using a completed mesocycle for the simpler method, rather than drawing a conclusion from one session.\n\nIts theoretical frequency explanation includes muscle size and force, fiber-associated fatigue characteristics, architecture and stretch exposure, sex averages and whole-body demands. For example, a demanding lengthened hamstring hinge can have a different recovery cost from lateral-delt work. Such examples explain why to observe individual response; they do not identify a person’s fiber composition from soreness.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml, Practical Application: Frequency in Program Design; Intrinsic Variables that Affect Best Frequency Choices"
+            }
+          ],
+          "recap": [
+            "Dose and frequency must be tested together.",
+            "Use repeated patterns and adjust modestly between mesocycles."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-sra-q1",
+          "objective": "Separate recovery time from the time course of growth",
+          "prompt": "Why should growth and recovery not be drawn as one identical clock?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Growth-related processes and restoration of performance can have different time courses.",
+              "explanation": "The model separates these processes."
+            },
+            {
+              "id": "b",
+              "text": "Recovery always finishes at exactly 48 hours.",
+              "explanation": "The interval varies with dose, tissue and person."
+            },
+            {
+              "id": "c",
+              "text": "A sore muscle cannot have any adaptation occurring.",
+              "explanation": "Fatigue and adaptation can overlap."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "SRA is a conceptual framework, not an exact individual stopwatch.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "sra-curves"
+        },
+        {
+          "id": "hyp-sra-q2",
+          "objective": "Explain the tradeoffs of training frequency",
+          "prompt": "What is one reason a single very long weekly muscle session may be inefficient?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Warm-ups always stimulate more growth than working sets.",
+              "explanation": "That reverses the intended role of the warm-up."
+            },
+            {
+              "id": "b",
+              "text": "Later sets can lose quality as local and systemic fatigue rise.",
+              "explanation": "Equal weekly sets need not mean equal session quality."
+            },
+            {
+              "id": "c",
+              "text": "Any training more than once a week prevents growth.",
+              "explanation": "The book does not support that restriction."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Distribution affects the quality and recoverability of the same nominal weekly volume.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "frequency-tradeoffs"
+        },
+        {
+          "id": "hyp-sra-q3",
+          "objective": "Explain the tradeoffs of training frequency",
+          "prompt": "Which cost can rise with extremely high frequency?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "A guarantee that no systemic fatigue occurs.",
+              "explanation": "Greater weekly work can exceed systemic capacity."
+            },
+            {
+              "id": "b",
+              "text": "Elimination of all individual differences.",
+              "explanation": "Differences remain central to frequency choice."
+            },
+            {
+              "id": "c",
+              "text": "Repeated warm-up time and connective-tissue loading.",
+              "explanation": "Muscle readiness does not guarantee connective-tissue readiness."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "High frequency brings benefits and costs; it is not an automatic optimum.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "frequency-tradeoffs"
+        },
+        {
+          "id": "hyp-sra-q4",
+          "objective": "Derive frequency from performance and recovery observations",
+          "prompt": "A trainee starts far above MEV, needs a long recovery and concludes the muscle must train only rarely. What is the confound?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "The initial dose itself lengthened recovery.",
+              "explanation": "The procedure must test a plausible effective starting dose."
+            },
+            {
+              "id": "b",
+              "text": "Recovery never depends on dose.",
+              "explanation": "Dose is a major contributor."
+            },
+            {
+              "id": "c",
+              "text": "Soreness precisely measures muscle size.",
+              "explanation": "Soreness does not measure muscle size."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Frequency and dose must be interpreted together.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "derive-frequency"
+        },
+        {
+          "id": "hyp-sra-q5",
+          "objective": "Derive frequency from performance and recovery observations",
+          "prompt": "Which observations support testing a modest frequency increase next mesocycle? Select all.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "Persistent overlapping soreness and deteriorating performance.",
+              "explanation": "Those signs argue against adding demand."
+            },
+            {
+              "id": "b",
+              "text": "Consistently early recovery.",
+              "explanation": "This may indicate room for another useful exposure."
+            },
+            {
+              "id": "c",
+              "text": "Good comparable performance across current sessions.",
+              "explanation": "Performance supports adequate recovery."
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Use repeated response patterns, not a single unusually good day.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "derive-frequency"
+        },
+        {
+          "id": "hyp-sra-q6",
+          "objective": "Explain the tradeoffs of training frequency",
+          "prompt": "Why count supporting-muscle work when planning recovery?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Each exercise name guarantees isolated tissue loading.",
+              "explanation": "Compounds and support structures overlap."
+            },
+            {
+              "id": "b",
+              "text": "Supporting muscles never fatigue.",
+              "explanation": "Their fatigue can constrain later exercises."
+            },
+            {
+              "id": "c",
+              "text": "Different named exercises can repeatedly load the same structures.",
+              "explanation": "Nominal muscle days can hide overlap."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Recovery planning must reflect actual structures loaded, not just labels on a split.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+          "lessonId": "frequency-tradeoffs"
+        }
+      ]
+    },
+    {
+      "id": "variation",
+      "title": "Variation",
+      "objectives": [
+        "Distinguish directed variation from random changes",
+        "Evaluate exercises using stimulus, fatigue and time",
+        "Coordinate variation without losing progression"
+      ],
+      "lessons": [
+        {
+          "id": "purposeful-variation",
+          "title": "Change with a purpose",
+          "summary": "Directed variation preserves the goal; strategic variation chooses the moment.",
+          "sections": [
+            {
+              "id": "purposeful-variation-resistance",
+              "title": "Adaptive resistance and repetitive stress",
+              "markdown": "Variation intentionally changes training to reduce staleness or concentrated repetitive stress. Directed variation keeps the new stimulus aligned with the desired adaptation; strategic variation selects versions that suit the current phase. Randomly changing everything every week can sacrifice technical practice, comparable performance data and accumulated adaptation.\n\nThe book lists exercise selection, movement speed, loading, volume, training method and order as possible levers. Change only what has a clear benefit. An exercise that continues to produce good stimulus, improving performance and tolerable joint response need not be replaced merely because a new month began.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Directed Variation in Hypertrophy; Strategic Variation in Hypertrophy"
+            },
+            {
+              "id": "purposeful-variation-replace",
+              "title": "Three replacement questions",
+              "markdown": "Ask whether comparable performance has stalled, whether the exercise is producing accumulating joint or connective-tissue problems, and whether target-muscle stimulus has become stale. Several negative signs strengthen the case for replacement. Pain can justify action even while performance improves; high performance alone does not erase the cost.\n\nAvoid substituting a comfortable but less suitable exercise simply because the current one is demanding. Preplanned rotation can reduce biased decisions, while response-based changes preserve productive exercises longer. A new variation also needs a learning period before weak initial muscle awareness is treated as evidence that it does not suit the person.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Exercise Deletion and Replacement"
+            }
+          ],
+          "recap": [
+            "Variation should solve a defined problem.",
+            "Retain effective movements; respond to staleness and accumulating tissue costs."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "compare-exercises",
+          "title": "Compare stimulus, fatigue and time",
+          "summary": "The limiting resource changes which exercise is useful.",
+          "sections": [
+            {
+              "id": "compare-exercises-indices",
+              "title": "Four comparison lenses",
+              "markdown": "| Lens | Question |\n| --- | --- |\n| RSM | How much target stimulus does the exercise appear to provide? |\n| SFR | How much stimulus for its fatigue cost? |\n| STR | How much stimulus for the time spent? |\n| SFTR | How do stimulus, fatigue and time costs combine? |\n\nThese are coaching comparison lenses, not precise biological units. When time is scarce, an efficient compound or superset may be attractive even if its fatigue cost is high. When a strong advanced lifter is recovery-limited, a supported or isolated movement may provide a better tradeoff. Compare the same person and target under reasonably similar conditions.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Exercise Variation; Raw Stimulus Magnitude; Stimulus to Time Ratio"
+            },
+            {
+              "id": "compare-exercises-number",
+              "title": "Enough variety without fragmentation",
+              "markdown": "The source commonly suggests around **1–3 exercises per muscle per session** and **2–4 per week**, interpreted as broad author guidelines. Too many exercises repeat setup and warm-up work, leave very few useful sets for each and can exhaust available variation prematurely. A movement with full appropriate range already recruits much of the target muscle; every session need not cover every imaginable angle.\n\nFor example, two weekly sessions could share one reliable compound and each use one complementary isolation or alternate compound. Record which movement covers which action or regional emphasis. This is an original structure example, not a universal template or a promise that the listed exercise counts fit everyone.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Per Session Exercise Number; Figure 5.1"
+            }
+          ],
+          "recap": [
+            "Rank exercise tradeoffs relative to the current limiting resource.",
+            "Avoid spending time on excessive setup instead of useful sets."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "coordinate-variables",
+          "title": "Coordinate load, tempo and order",
+          "summary": "Variation must continue to serve specificity and overload.",
+          "sections": [
+            {
+              "id": "coordinate-variables-ranges",
+              "title": "Match the method to the movement",
+              "markdown": "The book organizes loading into roughly 5–10, 10–20 and 20–30 repetition regions. No region fits every exercise equally well. Very high-repetition loaded hip hinges may be limited by breathing or trunk endurance, while very heavy isolation work can shift force away from the target or irritate joints. It is unnecessary to force all ranges into every session.\n\nKeep the same day’s exercise and range reasonably stable across accumulation for comparability. Controlled slower eccentrics or pauses can permit lower loads, improve technique or help reduce unwanted loading. They are not inherently superior growth tricks. Eccentric-accentuated loading is discussed as a potentially useful but uncertain tradeoff, with additional fatigue and implementation demands.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Movement Velocity Variation; Load Variation; Eccentric accentuated loading"
+            },
+            {
+              "id": "coordinate-variables-order",
+              "title": "Vary dose and order logically",
+              "markdown": "Volume variation stays within current landmarks. A more axially fatiguing movement can receive fewer sets while a lower-fatigue complement receives more. Different loading ranges can be emphasized across days without replacing exercises weekly. Put priority muscles where they can receive quality work, and consider whether an early movement will fatigue a later movement’s limiting support structures.\n\nAdding drop sets, myoreps or supersets is justified by their specific role, such as time efficiency or target limitation. Exotic cadences, constant novelty and inappropriate load–exercise pairings can undermine higher-priority principles. Beginners generally gain more from learning a small reliable exercise set than from sophisticated weekly rotations.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml, Volume Variation; Training Modality Variation; Exercise Order Variation; Over-Application of Variation"
+            }
+          ],
+          "recap": [
+            "Use varied ranges while preserving repeatable progression.",
+            "New methods must earn their place in the plan."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-variation-q1",
+          "objective": "Distinguish directed variation from random changes",
+          "prompt": "Which best illustrates strategic variation?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Choose a lower-axial-fatigue variation when systemic demands rise.",
+              "explanation": "The choice solves a current programming problem."
+            },
+            {
+              "id": "b",
+              "text": "Replace every exercise after each session to avoid repetition.",
+              "explanation": "This can disrupt directed adaptation and comparison."
+            },
+            {
+              "id": "c",
+              "text": "Change only because an exercise is new online.",
+              "explanation": "Novelty alone is not a sufficient rationale."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Strategic variation uses an appropriate variant at an appropriate time.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "purposeful-variation"
+        },
+        {
+          "id": "hyp-variation-q2",
+          "objective": "Evaluate exercises using stimulus, fatigue and time",
+          "prompt": "An exercise still improves and feels stimulative, but joint irritation is accumulating. Which conclusion is best?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "It proves all compound movements are unsuitable.",
+              "explanation": "One exercise response cannot justify that generalization."
+            },
+            {
+              "id": "b",
+              "text": "Review technique, loading and possible replacement despite improving performance.",
+              "explanation": "Tissue costs matter independently of performance."
+            },
+            {
+              "id": "c",
+              "text": "Keep it unchanged because all records are good.",
+              "explanation": "Performance does not erase accumulating costs."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Replacement decisions consider performance, stimulus and tissue response together.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "purposeful-variation"
+        },
+        {
+          "id": "hyp-variation-q3",
+          "objective": "Evaluate exercises using stimulus, fatigue and time",
+          "prompt": "A trainee has very little gym time but ample recovery capacity. Which lens directly addresses the main limitation?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Only the largest external load.",
+              "explanation": "Load alone ignores the time constraint."
+            },
+            {
+              "id": "b",
+              "text": "The number of different exercise names.",
+              "explanation": "Variety count is not stimulus efficiency."
+            },
+            {
+              "id": "c",
+              "text": "Stimulus-to-time ratio.",
+              "explanation": "Time efficiency matches the scarce resource."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Choose the comparison lens that matches the limiting resource.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "compare-exercises"
+        },
+        {
+          "id": "hyp-variation-q4",
+          "objective": "Evaluate exercises using stimulus, fatigue and time",
+          "prompt": "Why can too many exercises for one muscle in a session be counterproductive?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Repeated setup and warm-up can displace useful repeated work.",
+              "explanation": "Fragmentation costs time and adaptation continuity."
+            },
+            {
+              "id": "b",
+              "text": "All useful ranges require a different exercise every set.",
+              "explanation": "A suitable movement can cover substantial target function."
+            },
+            {
+              "id": "c",
+              "text": "More names guarantee more regional growth.",
+              "explanation": "Exercise count does not guarantee stimulus quality."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Enough variation is useful; excessive fragmentation has costs.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "compare-exercises"
+        },
+        {
+          "id": "hyp-variation-q5",
+          "objective": "Coordinate variation without losing progression",
+          "prompt": "Which choices preserve purposeful variation? Select all.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "Use exotic cadence regardless of technique or target.",
+              "explanation": "The change lacks a defensible role."
+            },
+            {
+              "id": "b",
+              "text": "Match loading ranges to each exercise’s limitations.",
+              "explanation": "This keeps the target stimulus useful."
+            },
+            {
+              "id": "c",
+              "text": "Retain stable exercises across accumulation for comparison.",
+              "explanation": "Consistency supports progression tracking."
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Variation must remain subordinate to the goal and useful overload.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "coordinate-variables"
+        },
+        {
+          "id": "hyp-variation-q6",
+          "objective": "Coordinate variation without losing progression",
+          "prompt": "A new exercise initially has weak muscle awareness but no concerning pain. What is a reasonable interpretation?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "It is definitely genetically impossible for this person.",
+              "explanation": "That conclusion exceeds the observation."
+            },
+            {
+              "id": "b",
+              "text": "All training principles can now be ignored.",
+              "explanation": "Individual feedback refines rather than removes principles."
+            },
+            {
+              "id": "c",
+              "text": "Technique and awareness may need a learning period.",
+              "explanation": "An early impression is not a complete fit assessment."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Allow appropriate learning before interpreting an unfamiliar movement.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+          "lessonId": "purposeful-variation"
+        }
+      ]
+    },
+    {
+      "id": "phase",
+      "title": "Phase potentiation",
+      "objectives": [
+        "Explain potentiation across training timescales",
+        "Sequence accumulation, deload and maintenance phases",
+        "Preserve adaptations while preparing future training"
+      ],
+      "lessons": [
+        {
+          "id": "time-scales",
+          "title": "Make today support tomorrow",
+          "summary": "Phase potentiation applies from repetitions to a training career.",
+          "sections": [
+            {
+              "id": "time-scales-scales",
+              "title": "Potentiation at several scales",
+              "markdown": "Phase potentiation arranges training so that a phase both works now and improves later training. It also prevents adaptive decay: gains should not be unnecessarily lost while another goal is pursued. At small scales, warm-up repetitions and well-managed sets prepare later work. At larger scales, a technical phase can prepare harder loading or a maintenance phase can prepare another productive growth block.\n\nPotentiation is not the claim that every preceding effort improves everything after it. A highly fatiguing trunk exercise before squats can do the opposite. Consider the target of the next exposure, the residual fatigue and which prior adaptations need maintenance.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Sub-microcycle Phase Potentiation; Adaptive Decay"
+            },
+            {
+              "id": "time-scales-progress",
+              "title": "Leave a path for next week",
+              "markdown": "The authors’ load-progression rule is to add only enough load that at least comparable repetitions remain possible at the same or slightly lower RIR. Their repetition rule mirrors this: add repetitions while retaining at least comparable load and the intended effort trajectory. The purpose is a productive sequence, often aiming for at least four accumulation weeks when appropriate.\n\nLarge equipment increments need not force an early failure week. Accumulate repetitions within a sensible range before taking the next load jump. An unchanged load with more repetitions at comparable technique can be progression. Conversely, adding too much weight can reduce future sets and shorten the growth phase.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Microcycle-to-Microcycle Potentiation; Hypertrophy Load Progression; Hypertrophy Rep Progression"
+            },
+            {
+              "id": "time-scales-scale-table",
+              "title": "An original map across timescales",
+              "markdown": "| Scale | Preparation to preserve | Cost to avoid |\n| --- | --- | --- |\n| Repetition to repetition | Stable setup and practiced execution | A poorly controlled rep that disrupts the next |\n| Exercise to exercise | Warmth, readiness or deliberate target pre-fatigue | Exhausting support muscles before the priority movement |\n| Week to week | Enough overload and a viable next step | Large jumps that end accumulation early |\n| Mesocycle to mesocycle | Useful skill and retained muscle | Carrying excessive fatigue into the next start |\n| Block or career | Better limiting capacities and responsive training | Repeatedly rebuilding gains that were needlessly lost |\n\nThis table is an original synthesis of the source’s small- and large-scale examples. A deliberately targeted pre-exhaust is distinct from accidentally exhausting a support structure: the former aims to make the intended muscle limit the next movement, while the latter prevents it from receiving sufficient work.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Sub-microcycle Phase Potentiation; Microcycle-to-Microcycle Potentiation; Macrocycle-to-Macrocycle Potentiation"
+            }
+          ],
+          "recap": [
+            "Evaluate a phase by its present and future effects.",
+            "Preserve comparable performance when increasing challenge."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "mesocycle-sequence",
+          "title": "Sequence mesocycles",
+          "summary": "Changing emphasis is different from discarding every previous adaptation.",
+          "sections": [
+            {
+              "id": "mesocycle-sequence-volume",
+              "title": "Maintenance and resensitization",
+              "markdown": "Repeated high-volume mesocycles can increase required effective volume and work capacity while reducing sensitivity to a familiar dose. The book proposes lower-volume [maintenance phases](term:resensitization) to reduce fatigue and restore responsiveness. This differs from a short deload: maintaining muscle at MV for several weeks is a larger strategic change than a brief fatigue reduction.\n\nThe authors discuss approximately 3–6 weeks as a common maintenance/resensitization structure, while acknowledging uncertainty in exact durations and individual response. More is not automatically better; extending maintenance indefinitely also removes growth opportunities. Distinguish evidence, plausible mechanisms and the coach’s practical rule.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Mesocycle-to-Mesocycle Potentiation; Volume Potentiation"
+            },
+            {
+              "id": "mesocycle-sequence-bias",
+              "title": "Shift emphasis rather than exclude ranges",
+              "markdown": "An author example gradually changes the shares of sets in low, moderate and high repetition ranges: 50/35/15%, then 25/50/25%, then 15/35/50%. All three shares sum to 100%. This illustrates a bias shift across mesocycles; it is not a superior ratio proven for every lifter.\n\nRetaining some exposure across ranges can avoid abrupt changes in fatigue and repeated recalibration. Heavier, lower-frequency emphasis may be followed by lighter, higher-frequency emphasis when appropriate, then a lower-stress phase. Exercise, cadence and supporting-muscle choices should fit each phase. The source warns against turning a nuanced sequence into 100% heavy, then 100% moderate, then 100% light work.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Loading Potentiation; Frequency Potentiation; Overly Limited Per-Mesocycle Rep Ranges"
+            }
+          ],
+          "recap": [
+            "Deload and maintenance phases serve different timescales.",
+            "Use gradual emphasis shifts; preserve useful exposures."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "long-term",
+          "title": "Blocks, macrocycles and a career",
+          "summary": "Long-term planning must retain flexibility and the right goal.",
+          "sections": [
+            {
+              "id": "long-term-blocks",
+              "title": "Coordinate training and nutrition blocks",
+              "markdown": "The source describes sequences such as muscle gain, maintenance and fat loss, with training dose and nutrition aligned to the purpose. A lower-volume interval can reduce lingering fatigue before a new block. The exact number and duration of phases depend on the person, competition dates and response; the sequence is an example rather than a mandatory annual template.\n\nFrequent switching between short gain and loss phases can sacrifice consistent adaptation and create repeated transitions. At macrocycle scale, identify a limiting muscle or movement skill and prepare it deliberately. Changing splits gradually lets prior experience remain informative rather than resetting every variable at once.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Block-to-Block Potentiation; Macrocycle-to-Macrocycle Potentiation"
+            },
+            {
+              "id": "long-term-career",
+              "title": "Build the foundation first",
+              "markdown": "The authors summarize a career emphasis as **basic technique → relative effort → mind–muscle connection**. This ordering does not mean beginners should train without awareness or advanced lifters can neglect technique. It means later refinements depend on safe, repeatable execution and an ability to estimate effort.\n\nExcessive resensitization, unnecessary strength phases or perpetual leanness can conflict with a primary hypertrophy goal. These may still be valid personal choices. State their opportunity costs clearly and judge the plan against the person’s actual goals, rather than assuming every choice must maximize muscle growth.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml, Early Career—to—Later Career Potentiation; Over-Application of Phase Potentiation"
+            }
+          ],
+          "recap": [
+            "Plan for retained gains and future opportunities.",
+            "Foundational technique makes later refinement possible."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-phase-q1",
+          "objective": "Explain potentiation across training timescales",
+          "prompt": "What is the central purpose of phase potentiation?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Make current training effective while improving subsequent training.",
+              "explanation": "Both present and future outcomes matter."
+            },
+            {
+              "id": "b",
+              "text": "Make every phase completely unrelated to the prior one.",
+              "explanation": "The sequence should preserve and build on useful effects."
+            },
+            {
+              "id": "c",
+              "text": "Guarantee that all prior fatigue is always beneficial.",
+              "explanation": "Residual fatigue can impair the next phase."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Potentiation is purposeful sequencing, including the management of residual costs.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "time-scales"
+        },
+        {
+          "id": "hyp-phase-q2",
+          "objective": "Explain potentiation across training timescales",
+          "prompt": "A large weekly load jump causes rep loss and early failure, ending accumulation prematurely. Which principle is violated?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Repetitions may never be progressed.",
+              "explanation": "Rep progression is a valid alternative."
+            },
+            {
+              "id": "b",
+              "text": "Preserving enough performance to support the next productive week.",
+              "explanation": "An excessive jump can spend future training opportunities."
+            },
+            {
+              "id": "c",
+              "text": "Every load increment must be maximal.",
+              "explanation": "The book recommends only enough progression for the goal."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Progression should not unnecessarily shorten a useful sequence.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "time-scales"
+        },
+        {
+          "id": "hyp-phase-q3",
+          "objective": "Sequence accumulation, deload and maintenance phases",
+          "prompt": "How does a maintenance/resensitization phase differ from a deload?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "It must mean complete inactivity for months.",
+              "explanation": "Maintenance training can preserve adaptations."
+            },
+            {
+              "id": "b",
+              "text": "It proves exact recovery timing for every individual.",
+              "explanation": "Duration remains uncertain and individualized."
+            },
+            {
+              "id": "c",
+              "text": "It uses a longer low-volume strategy aimed at future responsiveness as well as fatigue.",
+              "explanation": "The scale and objective differ from a brief reduction."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Distinguish a brief fatigue intervention from a broader volume strategy.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "mesocycle-sequence"
+        },
+        {
+          "id": "hyp-phase-q4",
+          "objective": "Sequence accumulation, deload and maintenance phases",
+          "prompt": "In the source’s 50/35/15% example, what is the important interpretation?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "It illustrates a gradual bias across rep ranges.",
+              "explanation": "The values are an example, not a universal optimum."
+            },
+            {
+              "id": "b",
+              "text": "Every trainee must use exactly these percentages.",
+              "explanation": "The book permits individual alternatives."
+            },
+            {
+              "id": "c",
+              "text": "Only one rep range should exist in each mesocycle.",
+              "explanation": "The example retains multiple ranges."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Emphasis can shift without completely excluding other useful exposures.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "mesocycle-sequence"
+        },
+        {
+          "id": "hyp-phase-q5",
+          "objective": "Preserve adaptations while preparing future training",
+          "prompt": "Which career priorities reflect the book? Select all.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "Replace technical competence with constant novelty.",
+              "explanation": "Novelty does not provide the missing foundation."
+            },
+            {
+              "id": "b",
+              "text": "Establish repeatable basic technique.",
+              "explanation": "It supports later safe progression."
+            },
+            {
+              "id": "c",
+              "text": "Develop effort assessment before relying on advanced refinements.",
+              "explanation": "RIR control supports useful training decisions."
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Foundations make later refinements effective.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "long-term"
+        },
+        {
+          "id": "hyp-phase-q6",
+          "objective": "Preserve adaptations while preparing future training",
+          "prompt": "Why can frequent short gain/loss switches be costly?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Personal preferences can never justify them.",
+              "explanation": "Preferences can be valid when costs are understood."
+            },
+            {
+              "id": "b",
+              "text": "Any maintenance period destroys all previous muscle.",
+              "explanation": "Maintenance is designed to preserve adaptations."
+            },
+            {
+              "id": "c",
+              "text": "They can interrupt consistent adaptation and create repeated transitions.",
+              "explanation": "Sequence continuity is part of the framework."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "A choice can be personally valid while carrying an opportunity cost for maximal growth.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+          "lessonId": "long-term"
+        }
+      ]
+    },
+    {
+      "id": "individualization",
+      "title": "Individualization",
+      "objectives": [
+        "Identify sources of individual response variation",
+        "Adapt training to experience and diet phase",
+        "Use repeated observations instead of copying programs"
+      ],
+      "lessons": [
+        {
+          "id": "response-differences",
+          "title": "Why the same plan produces different responses",
+          "summary": "Individualization changes application, not the underlying need for sound principles.",
+          "sections": [
+            {
+              "id": "response-differences-factors",
+              "title": "Sources of variation",
+              "markdown": "Work capacity is the ability to perform work; recovery ability is the ability to restore function between exposures. They are related but not interchangeable. Anthropometry affects leverage and which muscles limit an exercise. Fiber characteristics, initial muscle size, adaptive response, age, training history, sleep, nutrition and life stress all influence useful training choices.\n\nThe book also discusses genetic influences on muscle shape and growth potential. They do not let a simple visual assessment predict a person’s final ceiling, nor can an exercise transform the underlying attachment anatomy. Different muscles in the same person can respond differently. Use group averages as starting hypotheses, then observe the individual.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Work Capacity; Recovery Ability; Genetics; Lifestyle"
+            },
+            {
+              "id": "response-differences-feedback",
+              "title": "Learn from one person over time",
+              "markdown": "Individualize volume landmarks, exercise choice, progression, frequency and phase length by repeated feedback. A useful log records execution, load, reps, RIR, stimulus impressions, fatigue, sleep and relevant context. If the environment changes, prior landmarks are hypotheses rather than permanent facts.\n\nDo not label every inconvenient exercise unsuitable for your body. New movements may need time for technique and awareness to develop. On the other hand, copying a professional’s plan or a training partner’s dose ignores their different recovery and experience. Make small informative changes so their effects can be interpreted.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization for Specificity; Individualization for Overload; Under-Application of Individualization"
+            },
+            {
+              "id": "response-differences-confounds",
+              "title": "An original response-and-confound map",
+              "markdown": "| Observation | Possible contribution | Do not conclude automatically |\n| --- | --- | --- |\n| More repetitions across several sets | Work capacity, skill or fatigue differences | Faster between-session recovery |\n| Fast early growth | Initial size, responsiveness or beginner status | The highest final growth ceiling |\n| A different response in later years | Training age and changed circumstances | The newer method caused the entire difference |\n| A muscle favors one exercise | Anatomy, execution and local response | The same exercise is best for every muscle |\n| A sex-group average differs | Group-level traits and typical loading | Every individual needs the group-average schedule |\n\nThe source distinguishes initial muscle size, gain rate, response per unit stimulus and long-term potential. They are related but not interchangeable. A fair personal experiment also considers diet, sleep, stress and training-age changes. The authors discuss spending a block biased toward one repetition range while retaining some others, then comparing several indicators. Such an experiment remains observational; changing one emphasis does not perfectly isolate a cellular pathway.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Genetics: Initial Muscle Sizes; Genetics: Gain Rates; Genetics: Maximum Growth Potential; Lifestyle; Individualization for Variation"
+            }
+          ],
+          "recap": [
+            "Work capacity and recovery capacity are different.",
+            "Repeated feedback refines general principles for a particular person."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "training-age",
+          "title": "Beginner, intermediate and advanced decisions",
+          "summary": "Experience changes the useful complexity and recovery costs.",
+          "sections": [
+            {
+              "id": "training-age-beginner",
+              "title": "Beginners need a technical foundation",
+              "markdown": "The source favors broad whole-body development and a small number of reliable exercises for beginners. Add load when technique remains at least as good and effort stays under control; the author checklist uses approximately 2 or more RIR. Early rapid strength increases should not outrun movement quality.\n\nBeginners can often grow with low volumes and do not usually require specialization, elaborate metabolite methods or constant exercise replacement. A few weekly full-body sessions can provide repeated skill practice without excessive gym attendance. These are source programming patterns, not a classification test based only on years since joining a gym.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization Across Training Age: Beginners"
+            },
+            {
+              "id": "training-age-experienced",
+              "title": "As the lifter becomes more developed",
+              "markdown": "Intermediates often need more deliberate set progression, broader repetition ranges and improved SFR. As strength rises, previously tolerable compounds may generate enough systemic fatigue to require alternatives. Deloads and strategic low-volume periods become more relevant.\n\nAdvanced lifters may need very precise muscle-specific dose, more careful joint management and specialization. Greater local demands can exceed systemic resources before every muscle receives its best growth work. More sessions are not a badge of advancement: their value depends on whether they preserve useful performance, recovery and a sustainable life schedule. Advanced refinements do not remove the need for consistent technique and honest effort assessment.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization Across Training Age: Intermediates; Advanced"
+            }
+          ],
+          "recap": [
+            "Progress technical competence before adding complexity.",
+            "Greater development often makes recovery management more important."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "diet-specialization",
+          "title": "Diet phases and specialization",
+          "summary": "Recovery conditions determine how much useful work can be supported.",
+          "sections": [
+            {
+              "id": "diet-specialization-diet",
+              "title": "The adaptive window changes",
+              "markdown": "The book’s model proposes a wider MEV–MRV window during a calorie surplus and a narrower one during a deficit. Recovery and growth are more constrained during fat loss, and maintaining muscle becomes the relevant success criterion, especially for trained lifters. Do not interpret a smaller window as permission to compensate with unlimited extra effort.\n\nAt maintenance, a low-volume resensitization phase may be appropriate when that is the planned goal. During fat loss, the authors often favor high-SFR choices and cautious progression as fatigue increases. Exact landmark shifts cannot be calculated from calorie balance alone. Record the person’s actual performance and tissue response rather than assigning automatic set changes.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Individualization of Training for Different Diet Phases"
+            },
+            {
+              "id": "diet-specialization-specialize",
+              "title": "Prioritize some muscles and maintain others",
+              "markdown": "Specialization trains priority muscles for growth while holding others near maintenance. It can solve a systemic bottleneck when every muscle cannot simultaneously receive a productive growth dose. Because MV is often substantially below MEV in trained lifters, lowering non-priority work can free meaningful resources while preserving prior gains.\n\nDo not leave non-priority muscles at a vague in-between dose that adds fatigue without robust growth, or neglect them below maintenance. Rotate priorities deliberately and allow the priority muscles low-stress periods too. The source does not generally recommend growth specialization during a deficit, where growth opportunities are already limited. Beginners usually do not need this strategy.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml, Specialization Phases; Specialization Phases Across Training Age"
+            }
+          ],
+          "recap": [
+            "A fat-loss phase changes both the goal and the recovery context.",
+            "Specialization reallocates resources while preserving other muscles."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-individualization-q1",
+          "objective": "Identify sources of individual response variation",
+          "prompt": "What is the difference between work capacity and recovery ability?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "One concerns performing work; the other concerns restoration between exposures.",
+              "explanation": "High work tolerance does not guarantee fast recovery."
+            },
+            {
+              "id": "b",
+              "text": "They are identical in every circumstance.",
+              "explanation": "The source distinguishes them."
+            },
+            {
+              "id": "c",
+              "text": "Neither can differ between people.",
+              "explanation": "Individual differences are central here."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Do not infer recoverable weekly volume from session tolerance alone.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "response-differences"
+        },
+        {
+          "id": "hyp-individualization-q2",
+          "objective": "Use repeated observations instead of copying programs",
+          "prompt": "Which observation is most useful for individualizing a new program?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "One social-media claim about body type.",
+              "explanation": "It cannot replace training-response evidence."
+            },
+            {
+              "id": "b",
+              "text": "Repeated personal responses under documented conditions.",
+              "explanation": "This permits adjustment to the actual person."
+            },
+            {
+              "id": "c",
+              "text": "A professional’s exact set count.",
+              "explanation": "Their recovery and training history can differ."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Use population guidance as a start, then refine from the individual.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "response-differences"
+        },
+        {
+          "id": "hyp-individualization-q3",
+          "objective": "Adapt training to experience and diet phase",
+          "prompt": "A beginner can add weight only by losing range and going to failure. What fits the source checklist?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Add more weight because any record proves growth.",
+              "explanation": "The comparison is no longer equivalent."
+            },
+            {
+              "id": "b",
+              "text": "Start advanced beyond-failure methods immediately.",
+              "explanation": "That does not solve the foundational problem."
+            },
+            {
+              "id": "c",
+              "text": "Hold or adjust the load until technique and effort are controlled.",
+              "explanation": "Technique quality and adequate RIR precede load increases."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Early strength gains should not outrun execution quality.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "training-age"
+        },
+        {
+          "id": "hyp-individualization-q4",
+          "objective": "Adapt training to experience and diet phase",
+          "prompt": "How does the source generally describe the adaptive window during a calorie deficit?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Growth and recovery opportunities are more constrained.",
+              "explanation": "Muscle retention may be the relevant trained-lifter goal."
+            },
+            {
+              "id": "b",
+              "text": "Everyone can use unlimited extra volume.",
+              "explanation": "Deficit does not create unlimited recovery."
+            },
+            {
+              "id": "c",
+              "text": "Exact set changes can be computed from calories alone.",
+              "explanation": "Individual responses and context remain necessary."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Nutrition changes the context, but does not determine a precise personal landmark automatically.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "diet-specialization"
+        },
+        {
+          "id": "hyp-individualization-q5",
+          "objective": "Adapt training to experience and diet phase",
+          "prompt": "Which are intended features of specialization? Select all.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "Neglect every other muscle below maintenance indefinitely.",
+              "explanation": "That risks losing adaptations rather than reallocating efficiently."
+            },
+            {
+              "id": "b",
+              "text": "Prioritize growth work for selected muscles.",
+              "explanation": "This directs limited resources."
+            },
+            {
+              "id": "c",
+              "text": "Maintain other muscles with sufficient lower-volume work.",
+              "explanation": "The strategy seeks to preserve prior gains."
+            }
+          ],
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Specialization is resource reallocation, not indiscriminate neglect.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "diet-specialization"
+        },
+        {
+          "id": "hyp-individualization-q6",
+          "objective": "Use repeated observations instead of copying programs",
+          "prompt": "A trainee assumes a low-pump exercise cannot work after one unfamiliar session. What is missing?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Proof that all personal feelings are always wrong.",
+              "explanation": "Subjective observations are useful but incomplete."
+            },
+            {
+              "id": "b",
+              "text": "A reason to abandon all stable technique.",
+              "explanation": "Stable execution is needed for interpretation."
+            },
+            {
+              "id": "c",
+              "text": "Learning time, comparable trials and multiple response indicators.",
+              "explanation": "Initial awareness can improve with technique."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Individualization uses interpreted evidence rather than one isolated sensation.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 7, EPUB Text/part0022.xhtml",
+          "lessonId": "response-differences"
+        }
+      ]
+    },
+    {
+      "id": "special",
+      "title": "Integration and special cases",
+      "objectives": [
+        "Integrate the principles to troubleshoot progress",
+        "Describe the tradeoffs of time-limited and cautious training",
+        "Fit hypertrophy into a wider sporting program"
+      ],
+      "lessons": [
+        {
+          "id": "audit-progress",
+          "title": "Audit a stalled program",
+          "summary": "Troubleshoot the whole framework before changing one favorite variable.",
+          "sections": [
+            {
+              "id": "audit-progress-audit",
+              "title": "A principles-first audit",
+              "markdown": "Check specificity first: is the target muscle actually trained in a growth-promoting way? Then inspect dose, effort and progression, followed by fatigue, frequency, variation and phase structure. A complex schedule cannot rescue insufficient stimulus, while harder training cannot solve chronic under-recovery.\n\nThe source’s troubleshooting list also includes nutrition, sleep, consistent execution, resensitization where appropriate, patience and realistic expectations. Compare performance under similar conditions across mesocycles. Muscular change is often too slow and measurement error too large to interpret day-to-day fluctuations as tissue gain or loss.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Troubleshooting Lack of Progress; Measuring Progress"
+            },
+            {
+              "id": "audit-progress-measure",
+              "title": "Evidence that can and cannot establish progress",
+              "markdown": "Rep strength over several well-executed mesocycles is useful indirect evidence, but skill and altered execution confound it. Pump, RSM and SFR support decisions about the training process rather than proving final growth. Photographs and circumference measures require consistent conditions; body-composition tools have their own precision limits.\n\n**Original audit example:** a trainee reports a plateau after two weeks but has changed exercises, increased momentum and weighed in at different times. First standardize the comparison and continue an appropriate observation period. Do not automatically add volume to solve an apparent plateau that the records cannot yet establish.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Rep Strength; Body Composition Measurement; Mesocycle to Mesocycle Progress"
+            }
+          ],
+          "recap": [
+            "Investigate fundamentals in order of importance.",
+            "Standardize measurements and allow an appropriate timescale."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "constraints",
+          "title": "Train within time and risk constraints",
+          "summary": "A useful compromise should make its costs visible.",
+          "sections": [
+            {
+              "id": "constraints-time",
+              "title": "When time is limited",
+              "markdown": "The source suggests prioritizing efficient compounds, reducing setup and warm-up transitions, using suitable antagonist supersets and applying short-rest isolation methods where local fatigue remains the limiter. A fixed modest set count may be more feasible than a large weekly volume ramp. Advanced lifters with little time may benefit from prioritizing fewer muscles while maintaining others.\n\nThis is a stimulus-to-time tradeoff, not a way to obtain unlimited results in minimal time. Shorter rest can become counterproductive when breathing or supporting muscles terminate work too soon. The authors discuss lower RIR when total dose is very low, but fatigue, technical control and exercise safety remain relevant.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Hypertrophy Tips for Those with Less Time"
+            },
+            {
+              "id": "constraints-caution",
+              "title": "Conservative training and return after injury",
+              "markdown": "The source’s cautious-training examples reduce load, avoid abrupt directional changes, use controlled tempo and stable equipment, progress conservatively and stop accumulation before extreme fatigue. They deliberately trade some potential growth for a lower-demand approach. Lower demand does not mean zero risk, and a website cannot diagnose why a movement hurts.\n\nThe book sketches return after injury as a progression from completed rehabilitation through tolerable local work, restored movement range, compound reintroduction and gradual loading. It also discusses blood-flow restriction in that context. These are source concepts, not a self-directed rehabilitation protocol: injury type, contraindications, equipment and clinician guidance determine what is appropriate. Do not infer clearance from a quiz score or calculator.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Very Low Injury Risk Training; Post-Injury Return to Training Guidelines"
+            },
+            {
+              "id": "constraints-rehab-map",
+              "title": "An original map of the source’s return concept",
+              "markdown": "| Source stage | Educational purpose |\n| --- | --- |\n| Complete prescribed rehabilitation | Establish clinical readiness before gym progression |\n| Consider suitably supervised light local work | Reintroduce a tolerable stimulus where appropriate |\n| Restore range with local training | Recover controlled movement through the permitted range |\n| Reintroduce compounds | Integrate previously isolated capacity into larger movements |\n| Gradually restore loading | Test increasing demand without rushing the transition |\n| Resume normal training | Continue individualized monitoring rather than assume permanent immunity |\n\nThis is a conceptual map of the book’s six-stage discussion, not its protocol reproduced as instructions. The source’s optional blood-flow-restriction stage only applies where anatomically and clinically appropriate. The authors also explicitly say not to follow the book against a medical professional’s advice or when it causes pain at the injury site. A fixed timetable cannot establish that a particular injury is ready.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Post-Injury Return to Training Guidelines"
+            }
+          ],
+          "recap": [
+            "Time-saving methods need an appropriate limiting factor.",
+            "Medical recovery concepts are not personal clearance or a rehabilitation prescription."
+          ],
+          "interactionIds": []
+        },
+        {
+          "id": "other-sports",
+          "title": "Fit hypertrophy around cardio and sport",
+          "summary": "The sport’s needs analysis decides how muscle growth fits.",
+          "sections": [
+            {
+              "id": "other-sports-cardio",
+              "title": "Cardio compatibility is dose-dependent",
+              "markdown": "The source discusses potential interference from energy use, local fatigue, connective-tissue loading, training time and competing signaling. It also recognizes that some conditioning can help otherwise sedentary trainees tolerate lifting and that cardiovascular work serves goals beyond maximum hypertrophy. Do not interpret the interference discussion as a reason to avoid all aerobic activity.\n\nThe authors generally favor less fatiguing, lower-impact options when muscle growth is primary, and separating sessions where feasible. Their specific heart-rate and duration examples are general coaching heuristics, not individualized safety limits. Evaluate whether cardio is reducing actual lifting quality and recovery rather than assuming every bout has an identical negative effect.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Cardio and Hypertrophy Training"
+            },
+            {
+              "id": "other-sports-sport",
+              "title": "Sport performance has the final priority",
+              "markdown": "For an athlete, more muscle is useful only when it supports the sport’s body-composition, strength-to-mass, force–velocity, skill and tactical needs. Added mass can be useful in one context and costly in another. Hypertrophy also has an opportunity cost: fatigue and time spent gaining size can reduce skill practice or competition readiness.\n\nThe source often emphasizes compound work in a 5–10 repetition region with intentional force production for strength/power sports, while reducing other demands to accommodate it. This differs from physique-only training. Consolidating demanding sessions on the same day, separated when appropriate, can preserve true recovery days; merely placing every activity on a different day can eliminate them. Exact scheduling remains sport- and athlete-dependent.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Hypertrophy Training for Other Sports and Activities; Key Points for Including Hypertrophy Training"
+            },
+            {
+              "id": "other-sports-context-order",
+              "title": "Context changes the sequencing advice",
+              "markdown": "The book gives different ordering examples in different contexts. Its cardio-and-hypertrophy section suggests separating sessions and, when combined, discusses cardio before lifting with a signaling rationale. Its sport-integration section instead prioritizes lifting before cardiovascular work during a hypertrophy-priority phase to preserve overload. The course does not erase this tension or convert either into a universal rule. The relevant decision is phase priority, actual performance, fatigue and feasibility.\n\nThe source’s sport example reduces a muscle’s usual weekly exposure by roughly 0.5–1 session: the half-session example means retaining one lighter exposure, not doing half a calendar visit. It also describes separating demanding same-day sessions by 4–8 hours where feasible to consolidate stressors and preserve recovery days. These are author examples rather than personalized timing prescriptions.\n\nNon-exercise activity thermogenesis (NEAT), such as walking and household activity, is another source topic: daily movement can contribute energy expenditure with different fatigue costs from demanding cardio. A sharp decline in ordinary activity during a deficit is relevant context for recovery and energy review, not a diagnostic test.",
+              "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml, Cardio and Hypertrophy Training; Incorporating Hypertrophy Training into Sports and other Activities"
+            }
+          ],
+          "recap": [
+            "Account for dose, overlap and the athlete’s actual goals.",
+            "More muscle is not automatically better sporting performance."
+          ],
+          "interactionIds": []
+        }
+      ],
+      "quiz": [
+        {
+          "id": "hyp-special-q1",
+          "objective": "Integrate the principles to troubleshoot progress",
+          "prompt": "What should be checked before making a stalled routine more complex?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Specificity, dose, effort, fatigue and measurement consistency.",
+              "explanation": "Fundamentals can explain the apparent plateau."
+            },
+            {
+              "id": "b",
+              "text": "Whether the routine uses enough impressive exercise names.",
+              "explanation": "Complexity is not an adaptation mechanism."
+            },
+            {
+              "id": "c",
+              "text": "Whether one day’s scale change proves muscle loss.",
+              "explanation": "Short-term mass fluctuations have many causes."
+            }
+          ],
+          "correct": [
+            "a"
+          ],
+          "explanation": "Audit the whole framework using reliable observations.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "audit-progress"
+        },
+        {
+          "id": "hyp-special-q2",
+          "objective": "Describe the tradeoffs of time-limited and cautious training",
+          "prompt": "Why might antagonist supersets help a time-limited trainee?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "They guarantee identical results to unlimited training time.",
+              "explanation": "Time-saving approaches retain tradeoffs."
+            },
+            {
+              "id": "b",
+              "text": "They can use one muscle’s rest period for another muscle’s work.",
+              "explanation": "This can raise stimulus per time when fatigue remains manageable."
+            },
+            {
+              "id": "c",
+              "text": "They eliminate all systemic fatigue.",
+              "explanation": "Systemic fatigue can still limit the second exercise."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "Time efficiency is useful only when meaningful target work is preserved.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "constraints"
+        },
+        {
+          "id": "hyp-special-q3",
+          "objective": "Describe the tradeoffs of time-limited and cautious training",
+          "prompt": "What can this course’s discussion of return after injury provide?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "A diagnosis and guaranteed safe load for every injury.",
+              "explanation": "A general course cannot establish that."
+            },
+            {
+              "id": "b",
+              "text": "Permission to ignore worsening pain if a quiz is passed.",
+              "explanation": "Quiz performance does not assess injury readiness."
+            },
+            {
+              "id": "c",
+              "text": "An understanding of the source’s staged concept, not personal clearance.",
+              "explanation": "Clinical context and qualified guidance remain necessary."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Educational concepts are distinct from individualized rehabilitation decisions.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "constraints"
+        },
+        {
+          "id": "hyp-special-q4",
+          "objective": "Fit hypertrophy into a wider sporting program",
+          "prompt": "Which factors can contribute to cardio–hypertrophy interference? Select all.",
+          "multiple": true,
+          "options": [
+            {
+              "id": "a",
+              "text": "Overlapping local fatigue and tissue loading.",
+              "explanation": "The same structures can face competing demands."
+            },
+            {
+              "id": "b",
+              "text": "Energy and time competing with training and recovery.",
+              "explanation": "Resources are finite."
+            },
+            {
+              "id": "c",
+              "text": "The mere fact that an activity is called cardio, regardless of dose.",
+              "explanation": "Dose and context alter the tradeoff."
+            }
+          ],
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Interference is contextual; cardio also serves legitimate conditioning and health goals.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "other-sports"
+        },
+        {
+          "id": "hyp-special-q5",
+          "objective": "Fit hypertrophy into a wider sporting program",
+          "prompt": "Why can added muscle fail to improve sport performance?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Every sport has identical body-composition requirements.",
+              "explanation": "Sport demands differ."
+            },
+            {
+              "id": "b",
+              "text": "Extra mass, fatigue or lost skill practice may conflict with sport demands.",
+              "explanation": "The sport’s needs analysis decides its usefulness."
+            },
+            {
+              "id": "c",
+              "text": "Muscle can never support athletic performance.",
+              "explanation": "It can help when it meets the relevant demand."
+            }
+          ],
+          "correct": [
+            "b"
+          ],
+          "explanation": "For athletes, hypertrophy is a means to the sporting goal.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "other-sports"
+        },
+        {
+          "id": "hyp-special-q6",
+          "objective": "Integrate the principles to troubleshoot progress",
+          "prompt": "A trainee changes range and weighs in at different times, then claims a two-week plateau. What is a sound first step?",
+          "multiple": false,
+          "options": [
+            {
+              "id": "a",
+              "text": "Double volume immediately.",
+              "explanation": "More dose may solve no demonstrated problem and add fatigue."
+            },
+            {
+              "id": "b",
+              "text": "Assume the person has reached an immutable genetic ceiling.",
+              "explanation": "The evidence cannot support that conclusion."
+            },
+            {
+              "id": "c",
+              "text": "Standardize comparisons and allow a suitable observation period.",
+              "explanation": "The records do not yet establish a clear tissue-change trend."
+            }
+          ],
+          "correct": [
+            "c"
+          ],
+          "explanation": "Measurement quality comes before a strong conclusion about progress.",
+          "source": "Scientific Principles of Hypertrophy Training, ch. 8, EPUB Text/part0025.xhtml",
+          "lessonId": "audit-progress"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "hypertrophy",
+      "term": "Hypertrophy training",
+      "aliases": [
+        "muscle growth"
+      ],
+      "definition": "Training that directly promotes muscle growth or retention in a deficit, or develops capacities that support later growth. The purpose distinguishes it from testing maximal strength.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "specific-goals"
+      ]
+    },
+    {
+      "id": "exercise",
+      "term": "Exercise",
+      "aliases": [],
+      "definition": "A named movement pattern used to stimulate a muscle or group of muscles. Different exercises can overlap in their target and supporting structures.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "needs-analysis"
+      ]
+    },
+    {
+      "id": "rep",
+      "term": "Repetition",
+      "aliases": [
+        "rep"
+      ],
+      "definition": "One execution from the intended starting point through the intended range and back, with the required technical standard. A changed range changes the comparison.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "set",
+      "term": "Set",
+      "aliases": [],
+      "definition": "A collection of relatively continuous repetitions, separated from other sets by rest. Set counts are useful only when execution, effort and loading context are understood.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "training-methods"
+      ]
+    },
+    {
+      "id": "session",
+      "term": "Training session",
+      "aliases": [],
+      "definition": "A dedicated period of training, normally including warm-up and one or more exercises. Session frequency and a muscle’s exposure frequency need not be identical.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "sra-curves"
+      ]
+    },
+    {
+      "id": "rest",
+      "term": "Rest time",
+      "aliases": [
+        "rest interval"
+      ],
+      "definition": "Time allowed for fatigue to dissipate between repetitions, sets, exercises or sessions. The relevant systems must recover sufficiently for the intended next task.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "training-methods"
+      ]
+    },
+    {
+      "id": "one-rm",
+      "term": "One-repetition maximum",
+      "aliases": [
+        "1RM"
+      ],
+      "definition": "The greatest external load that can be lifted once in a particular exercise under a defined execution standard. It is exercise-specific, not a universal whole-body capacity.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "microcycle",
+      "term": "Microcycle",
+      "aliases": [],
+      "definition": "The shortest repeated cycle that includes the planned sessions and rest days. It is commonly, but not necessarily, one week.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "mesocycle",
+      "term": "Mesocycle",
+      "aliases": [],
+      "definition": "An organized sequence of microcycles directed toward related adaptations; in the source it commonly contains accumulation followed by a shorter deload.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "mesocycle-sequence"
+      ]
+    },
+    {
+      "id": "accumulation",
+      "term": "Accumulation phase",
+      "aliases": [],
+      "definition": "Successive microcycles in which the training challenge rises through a managed combination of sets, repetitions, load or effort.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "deload",
+      "term": "Deload",
+      "aliases": [
+        "deload phase"
+      ],
+      "definition": "A reduced-training microcycle intended to lower accumulated fatigue while preserving adaptations. It differs in scale from one recovery session.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "fatigue-tools"
+      ]
+    },
+    {
+      "id": "accumulation-deload",
+      "term": "Accumulation-to-deload paradigm",
+      "aliases": [],
+      "definition": "The relationship between time spent accumulating and time spent deloading in a mesocycle. More productive accumulation relative to necessary recovery can improve training continuity.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "block",
+      "term": "Training block",
+      "aliases": [],
+      "definition": "One or more mesocycles sharing a unified goal, such as gaining muscle or losing fat while preserving muscle.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "macrocycle",
+      "term": "Macrocycle",
+      "aliases": [],
+      "definition": "A sequence of training blocks organized around a long-term goal. Its exact duration follows the purpose rather than necessarily matching a calendar year.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "periodization",
+      "term": "Periodization",
+      "aliases": [],
+      "definition": "The deliberate sequencing of training variables and phases to support adaptation, manage fatigue and prepare performance when needed.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "autoregulation",
+      "term": "Autoregulation",
+      "aliases": [],
+      "definition": "Adjusting training variables or fatigue management in response to actual needs rather than only following predetermined changes. It uses interpreted feedback, not momentary preference alone.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "response-differences"
+      ]
+    },
+    {
+      "id": "volume",
+      "term": "Volume",
+      "aliases": [
+        "hard-set volume"
+      ],
+      "definition": "The quantity of work performed over a defined interval. In this hypertrophy framework, useful hard sets per muscle per session or week are the usual practical proxy.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "load",
+      "term": "Load",
+      "aliases": [
+        "absolute intensity"
+      ],
+      "definition": "The absolute external resistance used in an exercise. It does not by itself describe the effort required from a particular person.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "relative-load",
+      "term": "Relative load",
+      "aliases": [
+        "%1RM"
+      ],
+      "definition": "Load expressed relative to maximal capacity for the same exercise, commonly as a percentage of 1RM: load divided by 1RM, multiplied by 100%.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "effort",
+      "term": "Relative effort",
+      "aliases": [],
+      "definition": "How demanding a set is relative to current capability. The source uses RIR to express effort; it is separate from relative loading.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "rir",
+      "term": "Repetitions in reserve",
+      "aliases": [
+        "RIR",
+        "reps from failure"
+      ],
+      "definition": "An estimate of additional full, technically acceptable repetitions possible at the end of a set. Zero RIR means another complete acceptable repetition cannot be performed.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "frequency",
+      "term": "Frequency",
+      "aliases": [
+        "training frequency"
+      ],
+      "definition": "The number of sessions or muscle exposures per unit of time. Specify which is counted; weekly gym visits and exposures for a given muscle can differ.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "derive-frequency"
+      ]
+    },
+    {
+      "id": "mv",
+      "term": "Maintenance volume",
+      "aliases": [
+        "MV"
+      ],
+      "definition": "The amount of training sufficient to prevent loss of current muscle under the relevant conditions. It is not necessarily enough to stimulate robust new growth.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges",
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "mev",
+      "term": "Minimum effective volume",
+      "aliases": [
+        "MEV"
+      ],
+      "definition": "The estimated training dose at which robust growth begins. It varies with the person, muscle, training history, exercise and current circumstances.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges",
+        "progression"
+      ]
+    },
+    {
+      "id": "mav",
+      "term": "Maximum adaptive volume",
+      "aliases": [
+        "MAV"
+      ],
+      "definition": "The currently most productive volume region for growth. In the source framework it is a moving region, not a fixed universal set number.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "effective-ranges"
+      ]
+    },
+    {
+      "id": "mrv",
+      "term": "Maximum recoverable volume",
+      "aliases": [
+        "MRV"
+      ],
+      "definition": "The upper training-volume region beyond which recovery no longer supports sustained productive training. Local and systemic limits can differ.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "fatigue-tools",
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "fatigue",
+      "term": "Fatigue",
+      "aliases": [],
+      "definition": "Acute or accumulated reduction in performance capacity arising from physical and psychological stressors. It can be local, systemic or related to axial loading.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "fatigue-signals"
+      ]
+    },
+    {
+      "id": "overreaching",
+      "term": "Overreaching",
+      "aliases": [
+        "functional overreaching"
+      ],
+      "definition": "A state where accumulated fatigue prevents sustained overload. Planned functional overreaching is followed by recovery; unintended prolonged under-recovery is not the same strategy.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "sra-curves"
+      ]
+    },
+    {
+      "id": "minicut",
+      "term": "Minicut",
+      "aliases": [],
+      "definition": "A relatively short, more aggressive fat-loss interval intended to prepare later muscle gain or temporarily change appearance, rather than serve as a long-term dieting pattern.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "long-term"
+      ]
+    },
+    {
+      "id": "gain-phase",
+      "term": "Muscle-gain phase",
+      "aliases": [
+        "massing"
+      ],
+      "definition": "A training and nutrition period with a muscle-growth goal, commonly using a calorie surplus in the source framework. The surplus does not specify a personal diet.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "fat-loss",
+      "term": "Fat-loss phase",
+      "aliases": [
+        "cutting"
+      ],
+      "definition": "A calorie-deficit period aimed at reducing body fat while retaining muscle. Recovery and growth opportunities differ from those in a surplus.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "diet-specialization"
+      ]
+    },
+    {
+      "id": "maintenance-phase",
+      "term": "Weight-maintenance phase",
+      "aliases": [],
+      "definition": "A period with approximately stable body mass and energy balance. It may be paired with lower-volume training when recovery or resensitization is the goal.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "mesocycle-sequence"
+      ]
+    },
+    {
+      "id": "resensitization",
+      "term": "Resensitization phase",
+      "aliases": [],
+      "definition": "A lower-volume period, often near maintenance volume, intended to lower fatigue and adaptive resistance before more productive future training. Exact optimal duration remains uncertain.",
+      "source": "Scientific Principles of Hypertrophy Training, EPUB Text/part0003.xhtml, Glossary",
+      "lessonIds": [
+        "mesocycle-sequence"
+      ]
+    },
+    {
+      "id": "sfr",
+      "term": "Stimulus-to-fatigue ratio",
+      "aliases": [
+        "SFR"
+      ],
+      "definition": "A conceptual comparison of relevant training stimulus with fatigue cost. The source’s subjective scores are informal coaching proxies rather than direct measurements of muscle growth.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 3, EPUB Text/part0010.xhtml",
+      "lessonIds": [
+        "stimulus-fatigue"
+      ]
+    },
+    {
+      "id": "rsm",
+      "term": "Raw stimulus magnitude",
+      "aliases": [
+        "RSM"
+      ],
+      "definition": "The source’s estimate of target-muscle stimulus from challenge, pump and disruption. It is person- and muscle-specific and does not prove subsequent hypertrophy.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+      "lessonIds": [
+        "progression"
+      ]
+    },
+    {
+      "id": "sra",
+      "term": "Stimulus–recovery–adaptation",
+      "aliases": [
+        "SRA"
+      ],
+      "definition": "A framework linking a training exposure with fatigue reduction and adaptation before another productive exposure. Growth and performance recovery need not follow identical clocks.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 4, EPUB Text/part0013.xhtml",
+      "lessonIds": [
+        "sra-curves"
+      ]
+    },
+    {
+      "id": "rom",
+      "term": "Range of motion",
+      "aliases": [
+        "ROM"
+      ],
+      "definition": "The excursion used in an exercise. In this source, useful full range is limited by effective targeting, technical control and tolerability rather than forcing maximal excursion at any cost.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml",
+      "lessonIds": [
+        "growth-stimuli"
+      ]
+    },
+    {
+      "id": "variation",
+      "term": "Variation",
+      "aliases": [],
+      "definition": "Intentional changes in training variables that address adaptive resistance or repetitive stress while remaining aligned with the target adaptation.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+      "lessonIds": [
+        "purposeful-variation"
+      ]
+    },
+    {
+      "id": "specificity",
+      "term": "Specificity",
+      "aliases": [],
+      "definition": "The principle that training should directly improve the desired outcome or prepare capacities that support it. It guides the meaning of useful overload.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 1, EPUB Text/part0004.xhtml",
+      "lessonIds": [
+        "specific-goals"
+      ]
+    },
+    {
+      "id": "phase-potentiation",
+      "term": "Phase potentiation",
+      "aliases": [],
+      "definition": "Purposeful sequencing so that current training also prepares more effective subsequent training while avoiding unnecessary loss of prior adaptations.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 6, EPUB Text/part0019.xhtml",
+      "lessonIds": [
+        "time-scales"
+      ]
+    },
+    {
+      "id": "str",
+      "term": "Stimulus-to-time ratio",
+      "aliases": [
+        "STR"
+      ],
+      "definition": "The source’s comparison of estimated stimulus with total time required for setup, warm-up, sets and associated rest. It is a contextual efficiency heuristic.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+      "lessonIds": [
+        "compare-exercises"
+      ]
+    },
+    {
+      "id": "sftr",
+      "term": "Stimulus–fatigue–time ratio",
+      "aliases": [
+        "SFTR"
+      ],
+      "definition": "A combined exercise-selection lens considering estimated stimulus alongside fatigue and time costs. It is not a standardized physiological measurement.",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 5, EPUB Text/part0016.xhtml",
+      "lessonIds": [
+        "compare-exercises"
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "id": "hypertrophy-volume",
+      "type": "volume",
+      "title": "Compare hard sets and tonnage",
+      "lessonId": "effective-ranges",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Volume As it Relates to Tension and ROM; Effective Stimulus Ranges",
+      "objective": "Distinguish a volume bookkeeping measure from a hypertrophy outcome.",
+      "rationale": "The source counts useful hard sets and explains why mathematical volume cannot alone establish growth equivalence.",
+      "assumptions": "Arithmetic demonstration only. Inputs represent consistent external-load units and the same exercise standard. No growth, recovery, medical or individualized training prediction. RIR and technique are not inferred.",
+      "staticAlternative": "At 3 sets, 10 reps and 40 kg, tonnage is 1,200 kg. At 5 sets, 5 reps and 48 kg it is also 1,200 kg; equal tonnage does not prove equal stimulus.",
+      "verification": "Verify tonnage = sets × reps × kg and relative load = kg ÷ 1RM kg × 100; reject nonpositive 1RM and nonfinite inputs; exercise bounds are educational controls, not safety prescriptions.",
+      "config": {
+        "units": "kg",
+        "sets": 3,
+        "reps": 10,
+        "load": 40,
+        "oneRM": 100
+      }
+    },
+    {
+      "id": "hypertrophy-intensity",
+      "type": "intensity",
+      "title": "Explore absolute and relative load",
+      "lessonId": "effective-ranges",
+      "source": "Scientific Principles of Hypertrophy Training, ch. 2, EPUB Text/part0007.xhtml, Volume As it Relates to Tension and ROM; Effective Stimulus Ranges",
+      "objective": "Calculate a percentage of a specified exercise 1RM and separate it from RIR.",
+      "rationale": "The source uses relative load and relative effort as separate variables; neither predicts growth by itself.",
+      "assumptions": "Arithmetic demonstration only. Inputs represent consistent external-load units and the same exercise standard. No growth, recovery, medical or individualized training prediction. RIR and technique are not inferred.",
+      "staticAlternative": "A 60 kg load with a 100 kg 1RM is 60% 1RM. The same external load is 75% when 1RM is 80 kg. RIR still requires a separate observation.",
+      "verification": "Verify tonnage = sets × reps × kg and relative load = kg ÷ 1RM kg × 100; reject nonpositive 1RM and nonfinite inputs; exercise bounds are educational controls, not safety prescriptions.",
+      "config": {
+        "units": "kg",
+        "sets": 3,
+        "reps": 10,
+        "load": 40,
+        "oneRM": 100
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+books/
+book/
+private/
+.DS_Store
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+*.tar.gz
+publish/
